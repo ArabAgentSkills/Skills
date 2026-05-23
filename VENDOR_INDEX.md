@@ -100,4 +100,4 @@ The vendor list is source-backed but intentionally not final. Add vendors only w
 | PaySky | Payments / PSP | Egypt, UAE, Saudi Arabia, MENA | public | B | 0 | [mena-payments](skills/mena-payments/) |
 | Telr | payments | UAE, Saudi Arabia, Bahrain | public | B | 0 | [mena-payments](skills/mena-payments/) |
 
-Generated at: 2026-05-23T23:29:59.644Z
+Generated at: 2026-05-23T23:45:59.494Z
