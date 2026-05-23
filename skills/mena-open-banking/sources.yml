@@ -1,0 +1,61 @@
+skill_id: mena-open-banking
+generated_from: data/processed/vendors.json
+vendors:
+  - id: bahrain-open-banking
+    name: Bahrain Open Banking
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_urls:
+      - https://www.cbb.gov.bh/open-banking/
+  - id: dapi
+    name: Dapi
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_urls:
+      - https://docs.dapi.com/
+  - id: lean-technologies
+    name: Lean Technologies
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://docs.leantech.me/
+      - https://docs.leantech.me/docs/creating-a-bank-connection
+  - id: salt-edge
+    name: Salt Edge
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_urls:
+      - https://docs.saltedge.com/
+  - id: saudi-open-banking-framework
+    name: Saudi Open Banking Framework
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_urls:
+      - https://www.sama.gov.sa/en-US/OpenBanking/Pages/default.aspx
+  - id: tarabut
+    name: Tarabut
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://docs.tarabutgateway.io/
+      - https://www.tarabut.com/
+  - id: uae-open-finance-api-hub
+    name: UAE Open Finance API Hub
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://openfinanceuae.atlassian.net/wiki/spaces/APIHubDocsv2/pages/124321813

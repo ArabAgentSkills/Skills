@@ -1,0 +1,1708 @@
+[
+  {
+    "id": "bahrain-national-bureau-for-revenue",
+    "name": "Bahrain National Bureau for Revenue",
+    "category": "tax",
+    "countries": [
+      "Bahrain"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.nbr.gov.bh/"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "egypt-eta-e-invoicing",
+    "name": "Egypt ETA E-Invoicing",
+    "category": "tax",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://sdk.invoicing.eta.gov.eg/"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "egypt-eta-e-receipt",
+    "name": "Egypt ETA E-Receipt",
+    "category": "tax",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://sdk.invoicing.eta.gov.eg/ereceipt/"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "egyptian-tax-authority-einvoicing-ereceipt-sdk",
+    "name": "Egyptian Tax Authority eInvoicing/eReceipt SDK",
+    "category": "Tax / E-invoicing",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://sdk.invoicing.eta.gov.eg/api/"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "jordan-jofotara",
+    "name": "Jordan JoFotara",
+    "category": "Tax / E-invoicing",
+    "countries": [
+      "Jordan"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.istd.gov.jo/",
+      "https://www.odoo.com/documentation/19.0/applications/finance/fiscal_localizations/jordan.html"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-zatca-fatoora",
+    "name": "Saudi ZATCA Fatoora",
+    "category": "tax",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://zatca.gov.sa/en/E-Invoicing/SystemsDevelopers/Pages/default.aspx"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-einvoicing-framework",
+    "name": "UAE eInvoicing Framework",
+    "category": "Tax / E-invoicing",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.wafeq.com/en-ae/tax-and-reporting/e-invoicing-in-uae"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-fta-e-invoicing",
+    "name": "UAE FTA E-Invoicing",
+    "category": "tax",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://tax.gov.ae/en/e-invoicing.aspx"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "wafeq-zatca-api",
+    "name": "Wafeq ZATCA API",
+    "category": "Tax / E-invoicing",
+    "countries": [
+      "UAE",
+      "Saudi"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 20,
+    "source_urls": [
+      "https://zatca.wafeq.com/reference/invoices_report_create"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "zatca-fatoora-developer-portal",
+    "name": "ZATCA Fatoora Developer Portal",
+    "category": "Tax / E-invoicing",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx"
+    ],
+    "skill_id": "arab-einvoicing-tax",
+    "status": "needs_review"
+  },
+  {
+    "id": "makani",
+    "name": "Makani",
+    "category": "identity-government",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.makani.ae/"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "nafath",
+    "name": "Nafath",
+    "category": "Identity / eKYC / Gov",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.iam.gov.sa/",
+      "https://sdaia.gov.sa/en/Services/ServicesGuidelines/SingleSignontoGovernmentPrivateServices.pdf"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-national-address",
+    "name": "Saudi National Address",
+    "category": "identity-government",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://splonline.com.sa/en/national-address-1/"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-api-marketplace",
+    "name": "UAE API Marketplace",
+    "category": "Government APIs",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://apiportal.government.ae/",
+      "https://u.ae/en/about-the-uae/digital-uae/digital-transformation/platforms-and-apps/uae-api-marketplace"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-pass",
+    "name": "UAE PASS",
+    "category": "Identity / eKYC / Gov",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://selfcare.uaepass.ae/",
+      "https://docs.uaepass.ae/"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "yakeen",
+    "name": "Yakeen",
+    "category": "identity-government",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "partner_only",
+    "docs_confidence": "C",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://elm.sa/en/e-services/yakeen/"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "yakeen-by-elm",
+    "name": "Yakeen by Elm",
+    "category": "Identity / eKYC / Gov",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://elm.sa/ar/our-business/digital-products/Documents/En/Yakeen%20EN.pdf"
+    ],
+    "skill_id": "arab-identity-gov",
+    "status": "needs_review"
+  },
+  {
+    "id": "bahrain-open-data-portal",
+    "name": "Bahrain Open Data Portal",
+    "category": "open-data",
+    "countries": [
+      "Bahrain"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.data.gov.bh/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "morocco-open-data",
+    "name": "Morocco Open Data",
+    "category": "open-data",
+    "countries": [
+      "Morocco"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.data.gov.ma/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "oman-data-portal",
+    "name": "Oman Data Portal",
+    "category": "open-data",
+    "countries": [
+      "Oman"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://data.gov.om/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "qatar-open-data",
+    "name": "Qatar Open Data",
+    "category": "open-data",
+    "countries": [
+      "Qatar"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.data.gov.qa/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "qatar-open-data-api",
+    "name": "Qatar Open Data API",
+    "category": "Government APIs / Open Data",
+    "countries": [
+      "Qatar"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.data.gov.qa/api-console/explore/v2.1/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-open-data-portal",
+    "name": "Saudi Open Data Portal",
+    "category": "open-data",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://data.gov.sa/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "tunisia-open-data",
+    "name": "Tunisia Open Data",
+    "category": "open-data",
+    "countries": [
+      "Tunisia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "http://www.data.gov.tn/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-bayanat",
+    "name": "UAE Bayanat",
+    "category": "open-data",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://bayanat.ae/"
+    ],
+    "skill_id": "arab-open-data",
+    "status": "needs_review"
+  },
+  {
+    "id": "arabic-stopwords",
+    "name": "Arabic Stopwords",
+    "category": "arabic-nlp",
+    "countries": [
+      "Arab region"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 10,
+    "source_urls": [
+      "https://github.com/linuxscout/arabicstopwords"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "camel-tools",
+    "name": "CAMeL Tools",
+    "category": "Arabic NLP / Language Tools",
+    "countries": [
+      "Arab region",
+      "UAE",
+      "NYU Abu Dhabi"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 50,
+    "source_urls": [
+      "https://camel-tools.readthedocs.io/",
+      "https://github.com/CAMeL-Lab/camel_tools",
+      "https://camel-tools.readthedocs.io/en/latest/overview.html"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "farasa",
+    "name": "Farasa",
+    "category": "Arabic NLP / Language Tools",
+    "countries": [
+      "Qatar",
+      "Arab region",
+      "QCRI"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://farasa.qcri.org/"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "pyarabic",
+    "name": "PyArabic",
+    "category": "Arabic NLP / Language Tools",
+    "countries": [
+      "Arab region",
+      "Open source",
+      "Arabic"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 10,
+    "source_urls": [
+      "https://github.com/linuxscout/pyarabic",
+      "https://github.com/linuxscout/pyarabic/blob/master/paper.md"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "qalsadi",
+    "name": "Qalsadi",
+    "category": "arabic-nlp",
+    "countries": [
+      "Arab region"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 10,
+    "source_urls": [
+      "https://github.com/linuxscout/qalsadi"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "tashaphyne",
+    "name": "Tashaphyne",
+    "category": "Arabic NLP / Language Tools",
+    "countries": [
+      "Arab region",
+      "Open source",
+      "Arabic"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 10,
+    "source_urls": [
+      "https://github.com/linuxscout/tashaphyne",
+      "https://pypi.org/project/Tashaphyne/"
+    ],
+    "skill_id": "arabic-nlp",
+    "status": "needs_review"
+  },
+  {
+    "id": "cashew",
+    "name": "Cashew",
+    "category": "bnpl",
+    "countries": [
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.cashewpayments.com/"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "postpay",
+    "name": "Postpay",
+    "category": "bnpl",
+    "countries": [
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.postpay.io/"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "shahry",
+    "name": "Shahry",
+    "category": "bnpl",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.shahry.com/"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "souhoola",
+    "name": "Souhoola",
+    "category": "BNPL / Consumer Finance",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://souhoola.com/",
+      "https://docs.geidea.net/docs/souhoola"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "tabby",
+    "name": "Tabby",
+    "category": "BNPL / Consumer Finance",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Saudi",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.tabby.ai/",
+      "https://docs.tabby.ai/introduction/what-is-tabby"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "tamara",
+    "name": "Tamara",
+    "category": "BNPL / Consumer Finance",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Bahrain",
+      "GCC"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.tamara.co/"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "valu",
+    "name": "valU",
+    "category": "BNPL / Consumer Finance",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://www.valu.com.eg/",
+      "https://docs.geidea.net/docs/valu"
+    ],
+    "skill_id": "mena-bnpl",
+    "status": "needs_review"
+  },
+  {
+    "id": "daftra",
+    "name": "Daftra",
+    "category": "Accounting / ERP",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "Kuwait",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.daftra.com/",
+      "https://docs.daftara.dev/"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "foodics",
+    "name": "Foodics",
+    "category": "Commerce / POS / Restaurants",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Egypt",
+      "Jordan",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.foodics.com/",
+      "https://help.foodics.com/hc/en-us/articles/9527870053404-Integration-Availability"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "loyverse",
+    "name": "Loyverse",
+    "category": "commerce-pos-accounting",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Egypt",
+      "Jordan",
+      "Morocco"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.loyverse.com/"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "qoyod",
+    "name": "Qoyod",
+    "category": "Accounting / ERP",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.qoyod.com/en/",
+      "https://apidoc.qoyod.com/"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "rewaa",
+    "name": "Rewaa",
+    "category": "Commerce / POS / Inventory",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.rewaatech.com/",
+      "https://doc.api.rewaatech.com/"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "salla",
+    "name": "Salla",
+    "category": "Commerce / E-commerce",
+    "countries": [
+      "Saudi Arabia",
+      "Kuwait",
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.salla.dev/"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "wafeq",
+    "name": "Wafeq",
+    "category": "Accounting / ERP",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Saudi"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://developers.wafeq.com/",
+      "https://developer.wafeq.com/reference/invoices_list"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "zid",
+    "name": "Zid",
+    "category": "Commerce / E-commerce",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.zid.sa/",
+      "https://docs.zid.sa/start-here"
+    ],
+    "skill_id": "mena-commerce-pos-accounting",
+    "status": "needs_review"
+  },
+  {
+    "id": "cequens",
+    "name": "CEQUENS",
+    "category": "Communications / CPaaS",
+    "countries": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developers.cequens.com/",
+      "https://developer.cequens.com/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "maqsam",
+    "name": "Maqsam",
+    "category": "Voice / Contact Center",
+    "countries": [
+      "Jordan",
+      "Saudi Arabia",
+      "UAE",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.maqsam.com/",
+      "https://maqsam.com/apis"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "msegat",
+    "name": "Msegat",
+    "category": "Communications / CPaaS",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.msegat.com/docs/",
+      "https://msegat.docs.apiary.io/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "taqnyat",
+    "name": "Taqnyat",
+    "category": "Communications / CPaaS",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://taqnyat.sa/docs/",
+      "https://dev.taqnyat.sa/en/doc/sms/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "unifonic",
+    "name": "Unifonic",
+    "category": "Communications / CPaaS",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Jordan",
+      "Egypt",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.unifonic.com/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "victorylink",
+    "name": "VictoryLink",
+    "category": "communications",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://victorylink.com/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "yallasms",
+    "name": "YallaSMS",
+    "category": "communications",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.yallasms.com/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "ziwo",
+    "name": "ZIWO",
+    "category": "Voice / Contact Center",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Qatar",
+      "Bahrain",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.ziwo.io/",
+      "https://www.ziwo.io/features/api_docs/"
+    ],
+    "skill_id": "mena-comms",
+    "status": "needs_review"
+  },
+  {
+    "id": "bayzat",
+    "name": "Bayzat",
+    "category": "HR / Payroll",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Saudi"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.bayzat.com/",
+      "https://www.bayzat.com/accounting-integration"
+    ],
+    "skill_id": "mena-hr-payroll",
+    "status": "needs_review"
+  },
+  {
+    "id": "jisr",
+    "name": "Jisr",
+    "category": "HR / Payroll",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 80,
+    "source_urls": [
+      "https://www.jisr.net/",
+      "https://openapi.jisr.net/index.html"
+    ],
+    "skill_id": "mena-hr-payroll",
+    "status": "needs_review"
+  },
+  {
+    "id": "menaitech",
+    "name": "MenaITech",
+    "category": "HR / Payroll",
+    "countries": [
+      "Jordan",
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "MENA"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.menaitech.com/",
+      "https://menaitech.com/en/"
+    ],
+    "skill_id": "mena-hr-payroll",
+    "status": "needs_review"
+  },
+  {
+    "id": "palm-hr",
+    "name": "Palm.hr",
+    "category": "hr-payroll",
+    "countries": [
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.palm.hr/"
+    ],
+    "skill_id": "mena-hr-payroll",
+    "status": "needs_review"
+  },
+  {
+    "id": "zenhr",
+    "name": "ZenHR",
+    "category": "HR / Payroll",
+    "countries": [
+      "Jordan",
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.zenhr.com/",
+      "https://api-docs.zenhr.com/"
+    ],
+    "skill_id": "mena-hr-payroll",
+    "status": "needs_review"
+  },
+  {
+    "id": "aramex",
+    "name": "Aramex",
+    "category": "Logistics / Shipping",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Egypt",
+      "Jordan",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "Morocco",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://www.aramex.com/developers/aramex-apis",
+      "https://www.aramex.com/ae/en/developers-solution-center/aramex-apis"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "aymakan",
+    "name": "Aymakan",
+    "category": "logistics",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.aymakan.com.sa/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "bosta",
+    "name": "Bosta",
+    "category": "Logistics / Shipping",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "KSA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.bosta.co/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "dubai-makani",
+    "name": "Dubai Makani",
+    "category": "Address / Location",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.dm.gov.ae/open-data2/open-data-for-makani/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "fetchr",
+    "name": "Fetchr",
+    "category": "logistics",
+    "countries": [
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://fetchr.us/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "jeebly",
+    "name": "Jeebly",
+    "category": "logistics",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Kuwait",
+      "Qatar",
+      "Bahrain"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.jeebly.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "naqel",
+    "name": "Naqel",
+    "category": "logistics",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Bahrain",
+      "Kuwait"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.naqelexpress.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "oto",
+    "name": "OTO",
+    "category": "Logistics / Shipping",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.tryoto.com/",
+      "https://apis.tryoto.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "quiqup",
+    "name": "Quiqup",
+    "category": "logistics",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.quiqup.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-national-address-api-spl",
+    "name": "Saudi National Address API / SPL",
+    "category": "Address / Location",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://splonline.com.sa/en/national-address-api/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-post-spl",
+    "name": "Saudi Post SPL",
+    "category": "logistics",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://splonline.com.sa/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "shipa",
+    "name": "Shipa",
+    "category": "logistics",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Kuwait"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.shipa.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "shipblu",
+    "name": "ShipBlu",
+    "category": "Logistics / Shipping",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.shipblu.com/",
+      "https://docs.shipblu.com/api-reference"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "smsa-express",
+    "name": "SMSA Express",
+    "category": "logistics",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Bahrain",
+      "Kuwait"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.smsaexpress.com/"
+    ],
+    "skill_id": "mena-logistics",
+    "status": "needs_review"
+  },
+  {
+    "id": "bahrain-open-banking",
+    "name": "Bahrain Open Banking",
+    "category": "open-banking",
+    "countries": [
+      "Bahrain"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.cbb.gov.bh/open-banking/"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "dapi",
+    "name": "Dapi",
+    "category": "open-banking",
+    "countries": [
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.dapi.com/"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "lean-technologies",
+    "name": "Lean Technologies",
+    "category": "Open Banking / Financial Data",
+    "countries": [
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.leantech.me/",
+      "https://docs.leantech.me/docs/creating-a-bank-connection"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "salt-edge",
+    "name": "Salt Edge",
+    "category": "open-banking",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Bahrain"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.saltedge.com/"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "saudi-open-banking-framework",
+    "name": "Saudi Open Banking Framework",
+    "category": "open-banking",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.sama.gov.sa/en-US/OpenBanking/Pages/default.aspx"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "tarabut",
+    "name": "Tarabut",
+    "category": "Open Banking / Financial Data",
+    "countries": [
+      "Bahrain",
+      "Saudi Arabia",
+      "UAE",
+      "Saudi",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.tarabutgateway.io/",
+      "https://www.tarabut.com/"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "uae-open-finance-api-hub",
+    "name": "UAE Open Finance API Hub",
+    "category": "Open Banking / Financial Data",
+    "countries": [
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://openfinanceuae.atlassian.net/wiki/spaces/APIHubDocsv2/pages/124321813"
+    ],
+    "skill_id": "mena-open-banking",
+    "status": "needs_review"
+  },
+  {
+    "id": "amazon-payment-services",
+    "name": "Amazon Payment Services",
+    "category": "payments",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Egypt",
+      "Jordan",
+      "Kuwait",
+      "Qatar",
+      "Oman",
+      "Lebanon"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://paymentservices.amazon.com/docs/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "amazon-payment-services-payfort",
+    "name": "Amazon Payment Services / PayFort",
+    "category": "Payments / PSP",
+    "countries": [
+      "MENA",
+      "now Amazon"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://paymentservices.amazon.com/docs/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "easykash",
+    "name": "EasyKash",
+    "category": "Payments / PSP",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "unknown",
+    "docs_confidence": "C",
+    "source_quality_score": 30,
+    "source_urls": [
+      "https://www.easykash.net/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "fawrypay",
+    "name": "FawryPay",
+    "category": "Payments / PSP",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.fawrystaging.com/docs/",
+      "https://developer.fawrystaging.com/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "geidea",
+    "name": "Geidea",
+    "category": "Payments / PSP",
+    "countries": [
+      "Saudi Arabia",
+      "Egypt",
+      "UAE"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.geidea.net/",
+      "https://docs.geidea.net/docs/overview"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "hyperpay",
+    "name": "HyperPay",
+    "category": "Payments / PSP",
+    "countries": [
+      "Saudi Arabia",
+      "UAE",
+      "Jordan",
+      "Bahrain",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.hyperpay.com/",
+      "https://www.hyperpay.com/integration-guide/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "kashier",
+    "name": "Kashier",
+    "category": "Payments / PSP",
+    "countries": [
+      "Egypt"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://docs.kashier.io/",
+      "https://www.kashier.io/blog-posts/kashier-api---power-flexibility-simplicity"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "moyasar",
+    "name": "Moyasar",
+    "category": "Payments / PSP",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.moyasar.com/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "myfatoorah",
+    "name": "MyFatoorah",
+    "category": "Payments / PSP",
+    "countries": [
+      "Kuwait",
+      "Saudi Arabia",
+      "UAE",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Egypt",
+      "GCC"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.myfatoorah.com/",
+      "https://portal.myfatoorah.com/",
+      "https://docs.myfatoorah.com/docs/get-started"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "paylink",
+    "name": "Paylink",
+    "category": "payments",
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://developer.paylink.sa/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "paymob",
+    "name": "Paymob",
+    "category": "Payments / PSP",
+    "countries": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "Oman",
+      "Pakistan",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 50,
+    "source_urls": [
+      "https://docs.paymob.com/",
+      "https://developers.paymob.com/",
+      "https://docs.paymob.com/llms.txt"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "paysky",
+    "name": "PaySky",
+    "category": "Payments / PSP",
+    "countries": [
+      "Egypt",
+      "UAE",
+      "Saudi Arabia",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://paysky.io/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "paytabs",
+    "name": "PayTabs",
+    "category": "Payments / PSP",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Egypt",
+      "Jordan",
+      "Kuwait",
+      "Bahrain",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 40,
+    "source_urls": [
+      "https://docs.paytabs.com/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "tap-payments",
+    "name": "Tap Payments",
+    "category": "Payments / PSP",
+    "countries": [
+      "Kuwait",
+      "Saudi Arabia",
+      "UAE",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "GCC",
+      "MENA"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "A",
+    "source_quality_score": 60,
+    "source_urls": [
+      "https://developers.tap.company/reference/",
+      "https://developers.tap.company/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  },
+  {
+    "id": "telr",
+    "name": "Telr",
+    "category": "payments",
+    "countries": [
+      "UAE",
+      "Saudi Arabia",
+      "Bahrain"
+    ],
+    "docs_access": "public",
+    "docs_confidence": "B",
+    "source_quality_score": 0,
+    "source_urls": [
+      "https://www.telr.com/support/knowledge-base/integration-guides/"
+    ],
+    "skill_id": "mena-payments",
+    "status": "needs_review"
+  }
+]

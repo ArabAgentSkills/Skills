@@ -1,0 +1,22 @@
+skill_id: mena-logistics
+prompts:
+  - id: mena-logistics-1
+    prompt: Create an Aramex shipment and tracking integration plan for a UAE ecommerce store.
+    mode: heuristic
+    priority: P0
+  - id: mena-logistics-2
+    prompt: Compare Bosta and ShipBlu for an Egypt merchant that needs next-day delivery and tracking.
+    mode: heuristic
+    priority: P0
+  - id: mena-logistics-3
+    prompt: Build an OTO multi-carrier shipping flow for a Saudi store.
+    mode: heuristic
+    priority: P0
+  - id: mena-logistics-4
+    prompt: Add SMSA tracking updates to an order management system.
+    mode: heuristic
+    priority: P0
+  - id: mena-logistics-5
+    prompt: Review a Naqel integration for duplicate shipment risks and idempotency.
+    mode: heuristic
+    priority: P0

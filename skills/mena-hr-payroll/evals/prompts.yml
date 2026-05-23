@@ -1,0 +1,22 @@
+skill_id: mena-hr-payroll
+prompts:
+  - id: mena-hr-payroll-1
+    prompt: Assess whether ZenHR has public API evidence for employee sync.
+    mode: heuristic
+    priority: P2
+  - id: mena-hr-payroll-2
+    prompt: Plan a Jisr payroll integration and list partner-access unknowns.
+    mode: heuristic
+    priority: P2
+  - id: mena-hr-payroll-3
+    prompt: Compare MenaITech and Bayzat from available public sources only.
+    mode: heuristic
+    priority: P2
+  - id: mena-hr-payroll-4
+    prompt: Review an HR attendance sync for PII logging risks.
+    mode: heuristic
+    priority: P2
+  - id: mena-hr-payroll-5
+    prompt: Create a Palm.hr vendor research checklist for API access.
+    mode: heuristic
+    priority: P2

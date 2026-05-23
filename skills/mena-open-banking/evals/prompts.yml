@@ -1,0 +1,22 @@
+skill_id: mena-open-banking
+prompts:
+  - id: mena-open-banking-1
+    prompt: Build a Lean account-linking sandbox checklist for Saudi Arabia.
+    mode: heuristic
+    priority: P1
+  - id: mena-open-banking-2
+    prompt: Compare Tarabut and Lean for GCC account information APIs.
+    mode: heuristic
+    priority: P1
+  - id: mena-open-banking-3
+    prompt: Assess whether Dapi is active enough for a UAE production integration.
+    mode: heuristic
+    priority: P1
+  - id: mena-open-banking-4
+    prompt: Review an open banking webhook handler for secrets and retries.
+    mode: heuristic
+    priority: P1
+  - id: mena-open-banking-5
+    prompt: Explain how to use Saudi open banking references without inventing bank endpoints.
+    mode: heuristic
+    priority: P1

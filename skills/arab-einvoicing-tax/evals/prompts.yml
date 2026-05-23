@@ -1,0 +1,22 @@
+skill_id: arab-einvoicing-tax
+prompts:
+  - id: arab-einvoicing-tax-1
+    prompt: Plan an Egypt ETA e-invoicing sandbox integration and list required unknowns.
+    mode: heuristic
+    priority: P0
+  - id: arab-einvoicing-tax-2
+    prompt: Review a Saudi ZATCA Phase 2 QR/signing flow for production risks.
+    mode: heuristic
+    priority: P0
+  - id: arab-einvoicing-tax-3
+    prompt: Compare Egypt ETA e-receipt and e-invoice integration surfaces.
+    mode: heuristic
+    priority: P0
+  - id: arab-einvoicing-tax-4
+    prompt: Create a JoFotara integration checklist for a Jordan accounting app.
+    mode: heuristic
+    priority: P0
+  - id: arab-einvoicing-tax-5
+    prompt: Assess whether UAE e-invoicing has public API docs ready for implementation.
+    mode: heuristic
+    priority: P0

@@ -1,0 +1,11 @@
+skill_id: example-skill
+prompts:
+  - id: example-skill-1
+    prompt: Build a source-backed integration plan.
+    mode: heuristic
+    priority: P0
+expected_behaviors:
+  - Reads the correct skill and vendor files.
+  - Does not invent endpoints or credentials.
+  - Separates sandbox and production.
+  - Includes validation steps.

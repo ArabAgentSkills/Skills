@@ -1,0 +1,22 @@
+skill_id: mena-comms
+prompts:
+  - id: mena-comms-1
+    prompt: Implement Unifonic SMS OTP sending and delivery-status checks in a Node API.
+    mode: heuristic
+    priority: P0
+  - id: mena-comms-2
+    prompt: Compare CEQUENS and Taqnyat for Saudi transactional SMS.
+    mode: heuristic
+    priority: P0
+  - id: mena-comms-3
+    prompt: Add Maqsam click-to-call workflow to a CRM without exposing tokens.
+    mode: heuristic
+    priority: P0
+  - id: mena-comms-4
+    prompt: Review a ZIWO call webhook integration for retry and idempotency.
+    mode: heuristic
+    priority: P0
+  - id: mena-comms-5
+    prompt: Build a WhatsApp notification provider selection checklist for Egypt and UAE.
+    mode: heuristic
+    priority: P0

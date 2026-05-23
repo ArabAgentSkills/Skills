@@ -1,0 +1,22 @@
+skill_id: mena-commerce-pos-accounting
+prompts:
+  - id: mena-commerce-pos-accounting-1
+    prompt: Build a Salla order webhook to accounting sync plan.
+    mode: heuristic
+    priority: P1
+  - id: mena-commerce-pos-accounting-2
+    prompt: Compare Zid and Salla for a Saudi marketplace integration.
+    mode: heuristic
+    priority: P1
+  - id: mena-commerce-pos-accounting-3
+    prompt: Create a Foodics menu and branch sync checklist.
+    mode: heuristic
+    priority: P1
+  - id: mena-commerce-pos-accounting-4
+    prompt: Review a Daftra invoice import flow for duplicate records.
+    mode: heuristic
+    priority: P1
+  - id: mena-commerce-pos-accounting-5
+    prompt: Design a Wafeq accounting export with source-backed unknowns.
+    mode: heuristic
+    priority: P1

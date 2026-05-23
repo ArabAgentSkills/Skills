@@ -1,0 +1,132 @@
+skill_id: mena-payments
+generated_from: data/processed/vendors.json
+vendors:
+  - id: amazon-payment-services
+    name: Amazon Payment Services
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.023Z
+    source_urls:
+      - https://paymentservices.amazon.com/docs/
+  - id: amazon-payment-services-payfort
+    name: Amazon Payment Services / PayFort
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://paymentservices.amazon.com/docs/
+  - id: easykash
+    name: EasyKash
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.031Z
+    source_urls:
+      - https://www.easykash.net/
+  - id: fawrypay
+    name: FawryPay
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.019Z
+    source_urls:
+      - https://developer.fawrystaging.com/docs/
+      - https://developer.fawrystaging.com/
+  - id: geidea
+    name: Geidea
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.020Z
+    source_urls:
+      - https://docs.geidea.net/
+      - https://docs.geidea.net/docs/overview
+  - id: hyperpay
+    name: HyperPay
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.022Z
+    source_urls:
+      - https://docs.hyperpay.com/
+      - https://www.hyperpay.com/integration-guide/
+  - id: kashier
+    name: Kashier
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.024Z
+    source_urls:
+      - https://docs.kashier.io/
+      - https://www.kashier.io/blog-posts/kashier-api---power-flexibility-simplicity
+  - id: moyasar
+    name: Moyasar
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.023Z
+    source_urls:
+      - https://docs.moyasar.com/
+  - id: myfatoorah
+    name: MyFatoorah
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.022Z
+    source_urls:
+      - https://docs.myfatoorah.com/
+      - https://portal.myfatoorah.com/
+      - https://docs.myfatoorah.com/docs/get-started
+  - id: paylink
+    name: Paylink
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_urls:
+      - https://developer.paylink.sa/
+  - id: paymob
+    name: Paymob
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 50
+    last_checked_at: 2026-05-23T19:34:56.015Z
+    source_urls:
+      - https://docs.paymob.com/
+      - https://developers.paymob.com/
+      - https://docs.paymob.com/llms.txt
+  - id: paysky
+    name: PaySky
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.031Z
+    source_urls:
+      - https://paysky.io/
+  - id: paytabs
+    name: PayTabs
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.021Z
+    source_urls:
+      - https://docs.paytabs.com/
+  - id: tap-payments
+    name: Tap Payments
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.021Z
+    source_urls:
+      - https://developers.tap.company/reference/
+      - https://developers.tap.company/
+  - id: telr
+    name: Telr
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_urls:
+      - https://www.telr.com/support/knowledge-base/integration-guides/

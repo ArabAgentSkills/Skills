@@ -1,0 +1,22 @@
+skill_id: mena-bnpl
+prompts:
+  - id: mena-bnpl-1
+    prompt: Add Tabby checkout to a UAE Shopify-like custom checkout and include webhook handling.
+    mode: heuristic
+    priority: P0
+  - id: mena-bnpl-2
+    prompt: Compare Tamara and Tabby for a Saudi store that needs installment checkout.
+    mode: heuristic
+    priority: P0
+  - id: mena-bnpl-3
+    prompt: Investigate whether valU has public API evidence for a direct integration.
+    mode: heuristic
+    priority: P0
+  - id: mena-bnpl-4
+    prompt: Implement a refund flow for a BNPL order without inventing undocumented endpoints.
+    mode: heuristic
+    priority: P0
+  - id: mena-bnpl-5
+    prompt: Choose a BNPL provider for an Egypt marketplace and list unknowns that need vendor access.
+    mode: heuristic
+    priority: P0

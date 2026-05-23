@@ -1,0 +1,118 @@
+skill_id: mena-logistics
+generated_from: data/processed/vendors.json
+vendors:
+  - id: aramex
+    name: Aramex
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_urls:
+      - https://www.aramex.com/developers/aramex-apis
+      - https://www.aramex.com/ae/en/developers-solution-center/aramex-apis
+  - id: aymakan
+    name: Aymakan
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://developer.aymakan.com.sa/
+  - id: bosta
+    name: Bosta
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://docs.bosta.co/
+  - id: dubai-makani
+    name: Dubai Makani
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_urls:
+      - https://www.dm.gov.ae/open-data2/open-data-for-makani/
+  - id: fetchr
+    name: Fetchr
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://fetchr.us/
+  - id: jeebly
+    name: Jeebly
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://www.jeebly.com/
+  - id: naqel
+    name: Naqel
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://www.naqelexpress.com/
+  - id: oto
+    name: OTO
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://docs.tryoto.com/
+      - https://apis.tryoto.com/
+  - id: quiqup
+    name: Quiqup
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://developer.quiqup.com/
+  - id: saudi-national-address-api-spl
+    name: Saudi National Address API / SPL
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_urls:
+      - https://splonline.com.sa/en/national-address-api/
+  - id: saudi-post-spl
+    name: Saudi Post SPL
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://splonline.com.sa/
+  - id: shipa
+    name: Shipa
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://www.shipa.com/
+  - id: shipblu
+    name: ShipBlu
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://docs.shipblu.com/
+      - https://docs.shipblu.com/api-reference
+  - id: smsa-express
+    name: SMSA Express
+    docs_access: unknown
+    docs_confidence: C
+    source_quality_score: 30
+    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_urls:
+      - https://www.smsaexpress.com/

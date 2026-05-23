@@ -1,0 +1,73 @@
+skill_id: mena-commerce-pos-accounting
+generated_from: data/processed/vendors.json
+vendors:
+  - id: daftra
+    name: Daftra
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://docs.daftra.com/
+      - https://docs.daftara.dev/
+  - id: foodics
+    name: Foodics
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://developer.foodics.com/
+      - https://help.foodics.com/hc/en-us/articles/9527870053404-Integration-Availability
+  - id: loyverse
+    name: Loyverse
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://developer.loyverse.com/
+  - id: qoyod
+    name: Qoyod
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://www.qoyod.com/en/
+      - https://apidoc.qoyod.com/
+  - id: rewaa
+    name: Rewaa
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://www.rewaatech.com/
+      - https://doc.api.rewaatech.com/
+  - id: salla
+    name: Salla
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://docs.salla.dev/
+  - id: wafeq
+    name: Wafeq
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://developers.wafeq.com/
+      - https://developer.wafeq.com/reference/invoices_list
+  - id: zid
+    name: Zid
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 40
+    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_urls:
+      - https://docs.zid.sa/
+      - https://docs.zid.sa/start-here

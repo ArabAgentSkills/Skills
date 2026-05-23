@@ -1,0 +1,22 @@
+skill_id: mena-payments
+prompts:
+  - id: mena-payments-1
+    prompt: Build a Paymob hosted checkout flow for an Egypt ecommerce store in Node.js. Include webhooks and sandbox testing.
+    mode: heuristic
+    priority: P0
+  - id: mena-payments-2
+    prompt: Compare FawryPay, Paymob, and Geidea for an Egyptian marketplace that needs card, wallet, and payment-link flows.
+    mode: heuristic
+    priority: P0
+  - id: mena-payments-3
+    prompt: Add refund support to an existing HyperPay integration in Saudi Arabia.
+    mode: heuristic
+    priority: P0
+  - id: mena-payments-4
+    prompt: Implement Tap Payments webhook handling in a Laravel backend.
+    mode: heuristic
+    priority: P0
+  - id: mena-payments-5
+    prompt: Pick a gateway for a Kuwait store that needs KNET and card checkout.
+    mode: heuristic
+    priority: P0

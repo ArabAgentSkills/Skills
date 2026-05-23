@@ -1,0 +1,22 @@
+skill_id: arab-open-data
+prompts:
+  - id: arab-open-data-1
+    prompt: Find a Saudi open-data API source and design a polite ingestion job.
+    mode: heuristic
+    priority: P2
+  - id: arab-open-data-2
+    prompt: Compare UAE and Qatar open-data portals for API readiness.
+    mode: heuristic
+    priority: P2
+  - id: arab-open-data-3
+    prompt: Build a CKAN dataset freshness checker for an Arab government portal.
+    mode: heuristic
+    priority: P2
+  - id: arab-open-data-4
+    prompt: Review a government open-data ingestion for license and PII risks.
+    mode: heuristic
+    priority: P2
+  - id: arab-open-data-5
+    prompt: Create a source-quality score for Morocco and Jordan open-data portals.
+    mode: heuristic
+    priority: P2

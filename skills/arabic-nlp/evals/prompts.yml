@@ -1,0 +1,22 @@
+skill_id: arabic-nlp
+prompts:
+  - id: arabic-nlp-1
+    prompt: Choose an Arabic tokenizer for customer-support tickets and explain source-backed tradeoffs.
+    mode: heuristic
+    priority: P2
+  - id: arabic-nlp-2
+    prompt: Build a CAMeL Tools local preprocessing workflow.
+    mode: heuristic
+    priority: P2
+  - id: arabic-nlp-3
+    prompt: Compare Farasa and PyArabic for stemming and tokenization needs.
+    mode: heuristic
+    priority: P2
+  - id: arabic-nlp-4
+    prompt: Review an Arabic OCR pipeline for privacy and evaluation gaps.
+    mode: heuristic
+    priority: P2
+  - id: arabic-nlp-5
+    prompt: Create an eval plan for dialect Arabic entity extraction.
+    mode: heuristic
+    priority: P2

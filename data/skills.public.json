@@ -1,0 +1,405 @@
+[
+  {
+    "id": "mena-payments",
+    "name": "MENA Payments",
+    "description": "Use this skill when integrating, comparing, testing, or reviewing Arab/MENA payment gateways, checkout flows, payment links, refunds, captures, webhooks, sandbox credentials, and gateway selection across Egypt, GCC, Levant, and North Africa.",
+    "category": "payments",
+    "priority": "P0",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "amazon-payment-services",
+      "amazon-payment-services-payfort",
+      "easykash",
+      "fawrypay",
+      "geidea",
+      "hyperpay",
+      "kashier",
+      "moyasar",
+      "myfatoorah",
+      "paylink",
+      "paymob",
+      "paysky",
+      "paytabs",
+      "tap-payments",
+      "telr"
+    ],
+    "files": [
+      "skills/mena-payments/SKILL.md",
+      "skills/mena-payments/sources.yml",
+      "skills/mena-payments/evals/prompts.yml",
+      "skills/mena-payments/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-payments/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "15 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-bnpl",
+    "name": "MENA BNPL",
+    "description": "Use this skill when integrating or evaluating Arab/MENA buy-now-pay-later providers such as Tabby, Tamara, valU, Souhoola, Shahry, Postpay, Cashew, and related checkout, order, refund, and settlement workflows.",
+    "category": "bnpl",
+    "priority": "P0",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "cashew",
+      "postpay",
+      "shahry",
+      "souhoola",
+      "tabby",
+      "tamara",
+      "valu"
+    ],
+    "files": [
+      "skills/mena-bnpl/SKILL.md",
+      "skills/mena-bnpl/sources.yml",
+      "skills/mena-bnpl/evals/prompts.yml",
+      "skills/mena-bnpl/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-bnpl/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "7 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-logistics",
+    "name": "MENA Logistics",
+    "description": "Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, and fulfillment integrations for Aramex, Bosta, ShipBlu, OTO, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.",
+    "category": "logistics",
+    "priority": "P0",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "aramex",
+      "aymakan",
+      "bosta",
+      "dubai-makani",
+      "fetchr",
+      "jeebly",
+      "naqel",
+      "oto",
+      "quiqup",
+      "saudi-national-address-api-spl",
+      "saudi-post-spl",
+      "shipa",
+      "shipblu",
+      "smsa-express"
+    ],
+    "files": [
+      "skills/mena-logistics/SKILL.md",
+      "skills/mena-logistics/sources.yml",
+      "skills/mena-logistics/evals/prompts.yml",
+      "skills/mena-logistics/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-logistics/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-comms",
+    "name": "MENA Communications",
+    "description": "Use this skill when integrating Arab/MENA SMS, WhatsApp, voice, OTP, contact-center, and telephony APIs such as Unifonic, CEQUENS, Taqnyat, Msegat, Maqsam, ZIWO, YallaSMS, VictoryLink, and similar providers.",
+    "category": "communications",
+    "priority": "P0",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "cequens",
+      "maqsam",
+      "msegat",
+      "taqnyat",
+      "unifonic",
+      "victorylink",
+      "yallasms",
+      "ziwo"
+    ],
+    "files": [
+      "skills/mena-comms/SKILL.md",
+      "skills/mena-comms/sources.yml",
+      "skills/mena-comms/evals/prompts.yml",
+      "skills/mena-comms/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-comms/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "8 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "arab-einvoicing-tax",
+    "name": "Arab E-Invoicing and Tax",
+    "description": "Use this skill when working with Arab tax, e-invoicing, e-receipt, QR, clearance, reporting, and government tax APIs including Egypt ETA, Saudi ZATCA/Fatoora, Jordan JoFotara, UAE e-invoicing, Bahrain NBR, Oman Tax Authority, and provider integrations.",
+    "category": "tax",
+    "priority": "P0",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "bahrain-national-bureau-for-revenue",
+      "egypt-eta-e-invoicing",
+      "egypt-eta-e-receipt",
+      "egyptian-tax-authority-einvoicing-ereceipt-sdk",
+      "jordan-jofotara",
+      "saudi-zatca-fatoora",
+      "uae-einvoicing-framework",
+      "uae-fta-e-invoicing",
+      "wafeq-zatca-api",
+      "zatca-fatoora-developer-portal"
+    ],
+    "files": [
+      "skills/arab-einvoicing-tax/SKILL.md",
+      "skills/arab-einvoicing-tax/sources.yml",
+      "skills/arab-einvoicing-tax/evals/prompts.yml",
+      "skills/arab-einvoicing-tax/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arab-einvoicing-tax/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "10 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-commerce-pos-accounting",
+    "name": "MENA Commerce, POS, and Accounting",
+    "description": "Use this skill when integrating Arab/MENA commerce, POS, accounting, inventory, order, invoice, or ERP APIs including Salla, Zid, Foodics, Daftra, Wafeq, Qoyod, Rewaa, Loyverse, and Shopify/Odoo regional integrations.",
+    "category": "commerce-pos-accounting",
+    "priority": "P1",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "daftra",
+      "foodics",
+      "loyverse",
+      "qoyod",
+      "rewaa",
+      "salla",
+      "wafeq",
+      "zid"
+    ],
+    "files": [
+      "skills/mena-commerce-pos-accounting/SKILL.md",
+      "skills/mena-commerce-pos-accounting/sources.yml",
+      "skills/mena-commerce-pos-accounting/evals/prompts.yml",
+      "skills/mena-commerce-pos-accounting/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-commerce-pos-accounting/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "8 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-open-banking",
+    "name": "MENA Open Banking",
+    "description": "Use this skill when working with MENA open banking, open finance, account information, payments initiation, consent, aggregator, and regulatory API references such as Lean, Tarabut, Dapi, Salt Edge, UAE Open Finance, Saudi Open Banking, and Bahrain open banking.",
+    "category": "open-banking",
+    "priority": "P1",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "bahrain-open-banking",
+      "dapi",
+      "lean-technologies",
+      "salt-edge",
+      "saudi-open-banking-framework",
+      "tarabut",
+      "uae-open-finance-api-hub"
+    ],
+    "files": [
+      "skills/mena-open-banking/SKILL.md",
+      "skills/mena-open-banking/sources.yml",
+      "skills/mena-open-banking/evals/prompts.yml",
+      "skills/mena-open-banking/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-open-banking/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "7 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "arab-identity-gov",
+    "name": "Arab Identity and Government APIs",
+    "description": "Use this skill when evaluating Arab identity, address, digital-government, national login, and government API marketplace integrations such as UAE PASS, Nafath, Yakeen, Saudi National Address, Makani, and UAE API Marketplace.",
+    "category": "identity-government",
+    "priority": "P1",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "makani",
+      "nafath",
+      "saudi-national-address",
+      "uae-api-marketplace",
+      "uae-pass",
+      "yakeen",
+      "yakeen-by-elm"
+    ],
+    "files": [
+      "skills/arab-identity-gov/SKILL.md",
+      "skills/arab-identity-gov/sources.yml",
+      "skills/arab-identity-gov/evals/prompts.yml",
+      "skills/arab-identity-gov/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arab-identity-gov/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "7 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "mena-hr-payroll",
+    "name": "MENA HR and Payroll",
+    "description": "Use this skill when integrating Arab/MENA HR, payroll, attendance, employee, benefits, and workforce APIs or source leads including ZenHR, Jisr, MenaITech, Bayzat, Palm.hr, and government workforce rails.",
+    "category": "hr-payroll",
+    "priority": "P2",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "bayzat",
+      "jisr",
+      "menaitech",
+      "palm-hr",
+      "zenhr"
+    ],
+    "files": [
+      "skills/mena-hr-payroll/SKILL.md",
+      "skills/mena-hr-payroll/sources.yml",
+      "skills/mena-hr-payroll/evals/prompts.yml",
+      "skills/mena-hr-payroll/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-hr-payroll/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "5 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "arabic-nlp",
+    "name": "Arabic NLP",
+    "description": "Use this skill when selecting or applying Arabic NLP, tokenization, stemming, diacritization, morphological analysis, stopword, OCR, speech, or language-model tools including CAMeL Tools, Farasa, PyArabic, Tashaphyne, Qalsadi, and Arabic corpora.",
+    "category": "arabic-nlp",
+    "priority": "P2",
+    "maturity": "alpha",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "arabic-stopwords",
+      "camel-tools",
+      "farasa",
+      "pyarabic",
+      "qalsadi",
+      "tashaphyne"
+    ],
+    "files": [
+      "skills/arabic-nlp/SKILL.md",
+      "skills/arabic-nlp/sources.yml",
+      "skills/arabic-nlp/evals/prompts.yml",
+      "skills/arabic-nlp/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arabic-nlp/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "6 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  },
+  {
+    "id": "arab-open-data",
+    "name": "Arab Open Data",
+    "description": "Use this skill when discovering or integrating Arab open-data APIs, CKAN/Socrata portals, SPARQL endpoints, government datasets, bulk downloads, and transparency sources across GCC, Levant, Egypt, and North Africa.",
+    "category": "open-data",
+    "priority": "P2",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [
+      "bahrain-open-data-portal",
+      "morocco-open-data",
+      "oman-data-portal",
+      "qatar-open-data",
+      "qatar-open-data-api",
+      "saudi-open-data-portal",
+      "tunisia-open-data",
+      "uae-bayanat"
+    ],
+    "files": [
+      "skills/arab-open-data/SKILL.md",
+      "skills/arab-open-data/sources.yml",
+      "skills/arab-open-data/evals/prompts.yml",
+      "skills/arab-open-data/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arab-open-data/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "8 registry vendors. Facts must remain source-backed.",
+    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+  }
+]

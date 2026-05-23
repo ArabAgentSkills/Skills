@@ -1,0 +1,22 @@
+skill_id: arab-identity-gov
+prompts:
+  - id: arab-identity-gov-1
+    prompt: Plan a UAE PASS login integration and mark which docs require official access.
+    mode: heuristic
+    priority: P1
+  - id: arab-identity-gov-2
+    prompt: Evaluate Nafath for a Saudi onboarding flow without inventing endpoints.
+    mode: heuristic
+    priority: P1
+  - id: arab-identity-gov-3
+    prompt: Create a Yakeen source-quality review for identity verification.
+    mode: heuristic
+    priority: P1
+  - id: arab-identity-gov-4
+    prompt: Design a Saudi National Address validation workflow with manual review gates.
+    mode: heuristic
+    priority: P1
+  - id: arab-identity-gov-5
+    prompt: Find the right UAE API Marketplace reference for a government-data integration.
+    mode: heuristic
+    priority: P1

@@ -1,0 +1,67 @@
+skill_id: arab-open-data
+generated_from: data/processed/vendors.json
+vendors:
+  - id: bahrain-open-data-portal
+    name: Bahrain Open Data Portal
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://www.data.gov.bh/
+  - id: morocco-open-data
+    name: Morocco Open Data
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://www.data.gov.ma/
+  - id: oman-data-portal
+    name: Oman Data Portal
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://data.gov.om/
+  - id: qatar-open-data
+    name: Qatar Open Data
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://www.data.gov.qa/
+  - id: qatar-open-data-api
+    name: Qatar Open Data API
+    docs_access: public
+    docs_confidence: A
+    source_quality_score: 60
+    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_urls:
+      - https://www.data.gov.qa/api-console/explore/v2.1/
+  - id: saudi-open-data-portal
+    name: Saudi Open Data Portal
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://data.gov.sa/
+  - id: tunisia-open-data
+    name: Tunisia Open Data
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - http://www.data.gov.tn/
+  - id: uae-bayanat
+    name: UAE Bayanat
+    docs_access: public
+    docs_confidence: B
+    source_quality_score: 0
+    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_urls:
+      - https://bayanat.ae/
