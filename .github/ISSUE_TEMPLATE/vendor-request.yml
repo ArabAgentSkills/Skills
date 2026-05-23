@@ -1,0 +1,36 @@
+name: Vendor request
+description: Suggest an Arab/MENA vendor or API source to add.
+title: "Add vendor: "
+labels: [vendor-request, needs-review]
+body:
+  - type: input
+    id: vendor
+    attributes:
+      label: Vendor name
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - payments
+        - bnpl
+        - logistics
+        - communications
+        - e-invoicing/tax
+        - commerce/POS/accounting
+        - open banking
+        - identity/government
+        - HR/payroll
+        - Arabic NLP
+        - open data
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Official source URLs
+      description: Prefer developer portals, API docs, OpenAPI/Postman, SDK repos, or government docs.
+    validations:
+      required: true

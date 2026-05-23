@@ -1,0 +1,21 @@
+name: Docs/source update
+description: Report docs drift, broken links, or better source evidence.
+title: "Docs update: "
+labels: [docs-update, needs-review]
+body:
+  - type: input
+    id: vendor
+    attributes:
+      label: Vendor or skill
+    validations:
+      required: true
+  - type: textarea
+    id: urls
+    attributes:
+      label: Updated source URLs
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

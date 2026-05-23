@@ -1,0 +1,64 @@
+name: Validate public skills
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-skills-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Validate skill structure
+        run: |
+          node <<'NODE'
+          const fs = require('node:fs');
+          const path = require('node:path');
+          const skills = JSON.parse(fs.readFileSync('data/skills.public.json', 'utf8'));
+          const vendors = JSON.parse(fs.readFileSync('data/vendors.public.json', 'utf8'));
+          let failures = 0;
+          function fail(message) { failures += 1; console.error(message); }
+          if (skills.length < 11) fail(`Expected at least 11 skills, found ${skills.length}`);
+          if (vendors.length < 50) fail(`Expected at least 50 vendors, found ${vendors.length}`);
+          for (const skill of skills) {
+            const dir = path.join('skills', skill.id);
+            const skillFile = path.join(dir, 'SKILL.md');
+            const promptsFile = path.join(dir, 'evals', 'prompts.yml');
+            const expectedFile = path.join(dir, 'evals', 'expected_behaviors.yml');
+            if (!fs.existsSync(skillFile)) fail(`${skill.id}: missing SKILL.md`);
+            if (!fs.existsSync(promptsFile)) fail(`${skill.id}: missing eval prompts`);
+            if (!fs.existsSync(expectedFile)) fail(`${skill.id}: missing expected behaviors`);
+            const text = fs.existsSync(skillFile) ? fs.readFileSync(skillFile, 'utf8') : '';
+            if (!/^---\nname: .+\ndescription: Use this skill when/m.test(text)) fail(`${skill.id}: invalid SKILL.md frontmatter`);
+            const promptText = fs.existsSync(promptsFile) ? fs.readFileSync(promptsFile, 'utf8') : '';
+            const promptCount = (promptText.match(/\n  - id:/g) || []).length;
+            if (promptCount < 5) fail(`${skill.id}: expected at least 5 eval prompts, found ${promptCount}`);
+          }
+          const privateKeyNeedle = '-----BEGIN PRIVATE' + ' KEY-----';
+          const tokenPattern = /(sk-[A-Za-z0-9]{20,}|AKIA[0-9A-Z]{16})/;
+          function scan(dir) {
+            for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+              const file = path.join(dir, entry.name);
+              if (entry.isDirectory()) scan(file);
+              else if (/\.(md|json|yml|yaml|mjs)$/.test(file)) {
+                const text = fs.readFileSync(file, 'utf8');
+                if (tokenPattern.test(text) || text.includes(privateKeyNeedle)) fail(`${file}: possible secret`);
+              }
+            }
+          }
+          scan('skills');
+          if (failures) process.exit(1);
+          console.log(`Validated ${skills.length} skills and ${vendors.length} vendors.`);
+          NODE
