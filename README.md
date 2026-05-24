@@ -35,11 +35,11 @@ Facts are intentionally conservative. If public docs do not prove a claim, vendo
 
 ## Origin
 
-Arab Agent Skills started with [Arab Payments Skill Atlas](https://github.com/ArabAgentSkills/arab-payments-skill-atlas), a payments-focused skill built by Mohamed Waleed for one of his projects to help his agents work with regional payment APIs.
+Arab Agent Skills started with [Arab Payments Skill Atlas](https://github.com/ArabAgentSkills/arab-payments-skill-atlas), a payments-focused skill built by [Mohamed Waleed](https://www.linkedin.com/in/mo-waleed92/) for one of his projects to help his agents work with regional payment APIs.
 
-Mohamed showed it to Fady Azzouny, and that sparked the bigger question: why not build a maintained skills ecosystem for Arab agents across APIs, marketing, sales, support, localization, content, operations, Arabic NLP, open data, and Arab-market context?
+Mohamed showed it to [Fady Azzouny](https://www.linkedin.com/in/fadyazzouny/), and that sparked the bigger question: why not build a maintained skills ecosystem for Arab agents across APIs, marketing, sales, support, localization, content, operations, Arabic NLP, open data, and Arab-market context?
 
-Fady Azzouny and Mohamed Waleed then built Arab Agent Skills from that starting point.
+[Fady Azzouny](https://www.linkedin.com/in/fadyazzouny/) and [Mohamed Waleed](https://www.linkedin.com/in/mo-waleed92/) then built Arab Agent Skills from that starting point.
 
 ## Quick install
 
