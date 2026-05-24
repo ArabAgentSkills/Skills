@@ -60,4 +60,4 @@
 - Use `evals/` when changing skill behavior.
 - Ask for only the missing credentials, country, environment, or workflow choices required for the task.
 
-Generated at: 2026-05-23T23:45:59.494Z
+Generated at: 2026-05-24T00:02:36.589Z
