@@ -5,16 +5,16 @@ vendors:
     name: Arabic Stopwords
     docs_access: public
     docs_confidence: B
-    source_quality_score: 10
-    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_quality_score: 65
+    last_checked_at: 2026-05-24T07:12:24.344Z
     source_urls:
       - https://github.com/linuxscout/arabicstopwords
   - id: camel-tools
     name: CAMeL Tools
     docs_access: public
     docs_confidence: A
-    source_quality_score: 50
-    last_checked_at: 2026-05-23T19:34:56.038Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.343Z
     source_urls:
       - https://camel-tools.readthedocs.io/
       - https://github.com/CAMeL-Lab/camel_tools
@@ -23,16 +23,16 @@ vendors:
     name: Farasa
     docs_access: public
     docs_confidence: A
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.038Z
+    source_quality_score: 40
+    last_checked_at: 2026-05-24T07:12:24.343Z
     source_urls:
       - https://farasa.qcri.org/
   - id: pyarabic
     name: PyArabic
     docs_access: public
     docs_confidence: A
-    source_quality_score: 10
-    last_checked_at: 2026-05-23T19:34:56.038Z
+    source_quality_score: 70
+    last_checked_at: 2026-05-24T07:12:24.343Z
     source_urls:
       - https://github.com/linuxscout/pyarabic
       - https://github.com/linuxscout/pyarabic/blob/master/paper.md
@@ -40,16 +40,16 @@ vendors:
     name: Qalsadi
     docs_access: public
     docs_confidence: B
-    source_quality_score: 10
-    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_quality_score: 65
+    last_checked_at: 2026-05-24T07:12:24.344Z
     source_urls:
       - https://github.com/linuxscout/qalsadi
   - id: tashaphyne
     name: Tashaphyne
     docs_access: public
     docs_confidence: A
-    source_quality_score: 10
-    last_checked_at: 2026-05-23T19:34:56.038Z
+    source_quality_score: 70
+    last_checked_at: 2026-05-24T07:12:24.343Z
     source_urls:
       - https://github.com/linuxscout/tashaphyne
       - https://pypi.org/project/Tashaphyne/

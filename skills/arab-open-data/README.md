@@ -6,14 +6,14 @@ Use this skill when discovering or integrating Arab open-data APIs, CKAN/Socrata
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Bahrain Open Data Portal | Bahrain | B | public | 0 |
-| Morocco Open Data | Morocco | B | public | 0 |
-| Oman Data Portal | Oman | B | public | 0 |
-| Qatar Open Data | Qatar | B | public | 0 |
-| Qatar Open Data API | Qatar | A | public | 60 |
-| Saudi Open Data Portal | Saudi Arabia | B | public | 0 |
-| Tunisia Open Data | Tunisia | B | public | 0 |
-| UAE Bayanat | UAE | B | public | 0 |
+| Bahrain Open Data Portal | Bahrain | B | public | 55 |
+| Morocco Open Data | Morocco | B | public | 55 |
+| Oman Data Portal | Oman | B | public | 55 |
+| Qatar Open Data | Qatar | B | public | 55 |
+| Qatar Open Data API | Qatar | A | public | 100 |
+| Saudi Open Data Portal | Saudi Arabia | B | public | 55 |
+| Tunisia Open Data | Tunisia | B | public | 55 |
+| UAE Bayanat | UAE | B | public | 55 |
 
 ## Usage
 

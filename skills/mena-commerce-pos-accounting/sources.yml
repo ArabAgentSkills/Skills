@@ -5,8 +5,8 @@ vendors:
     name: Daftra
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://docs.daftra.com/
       - https://docs.daftara.dev/
@@ -14,8 +14,8 @@ vendors:
     name: Foodics
     docs_access: public
     docs_confidence: B
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 95
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://developer.foodics.com/
       - https://help.foodics.com/hc/en-us/articles/9527870053404-Integration-Availability
@@ -23,16 +23,16 @@ vendors:
     name: Loyverse
     docs_access: public
     docs_confidence: B
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 95
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://developer.loyverse.com/
   - id: qoyod
     name: Qoyod
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://www.qoyod.com/en/
       - https://apidoc.qoyod.com/
@@ -40,8 +40,8 @@ vendors:
     name: Rewaa
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://www.rewaatech.com/
       - https://doc.api.rewaatech.com/
@@ -49,16 +49,16 @@ vendors:
     name: Salla
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://docs.salla.dev/
   - id: wafeq
     name: Wafeq
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://developers.wafeq.com/
       - https://developer.wafeq.com/reference/invoices_list
@@ -66,8 +66,8 @@ vendors:
     name: Zid
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.035Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.340Z
     source_urls:
       - https://docs.zid.sa/
       - https://docs.zid.sa/start-here

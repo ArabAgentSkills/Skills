@@ -7,15 +7,15 @@ Use this skill when working with Arab tax, e-invoicing, e-receipt, QR, clearance
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
 | Bahrain National Bureau for Revenue | Bahrain | C | unknown | 30 |
-| Egypt ETA E-Invoicing | Egypt | A | public | 0 |
-| Egypt ETA E-Receipt | Egypt | A | public | 0 |
-| Egyptian Tax Authority eInvoicing/eReceipt SDK | Egypt | A | public | 60 |
-| Jordan JoFotara | Jordan | B | public | 0 |
-| Saudi ZATCA Fatoora | Saudi Arabia | A | public | 40 |
-| UAE eInvoicing Framework | UAE | B | public | 0 |
+| Egypt ETA E-Invoicing | Egypt | A | public | 60 |
+| Egypt ETA E-Receipt | Egypt | A | public | 60 |
+| Egyptian Tax Authority eInvoicing/eReceipt SDK | Egypt | A | public | 100 |
+| Jordan JoFotara | Jordan | B | public | 55 |
+| Saudi ZATCA Fatoora | Saudi Arabia | A | public | 100 |
+| UAE eInvoicing Framework | UAE | B | public | 55 |
 | UAE FTA E-Invoicing | UAE | C | unknown | 30 |
-| Wafeq ZATCA API | UAE, Saudi | A | public | 20 |
-| ZATCA Fatoora Developer Portal | Saudi Arabia | A | public | 0 |
+| Wafeq ZATCA API | UAE, Saudi | A | public | 80 |
+| ZATCA Fatoora Developer Portal | Saudi Arabia | A | public | 60 |
 
 ## Usage
 

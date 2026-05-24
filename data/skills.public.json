@@ -38,9 +38,9 @@
     "evals": [
       "skills/mena-payments/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "15 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "15 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-bnpl",
@@ -73,9 +73,9 @@
     "evals": [
       "skills/mena-bnpl/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "7 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "7 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-logistics",
@@ -115,9 +115,9 @@
     "evals": [
       "skills/mena-logistics/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "14 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "14 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-comms",
@@ -151,9 +151,9 @@
     "evals": [
       "skills/mena-comms/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "8 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "8 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "arab-einvoicing-tax",
@@ -189,9 +189,9 @@
     "evals": [
       "skills/arab-einvoicing-tax/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "10 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "10 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-commerce-pos-accounting",
@@ -225,9 +225,9 @@
     "evals": [
       "skills/mena-commerce-pos-accounting/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "8 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "8 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-open-banking",
@@ -260,9 +260,9 @@
     "evals": [
       "skills/mena-open-banking/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "7 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "7 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "arab-identity-gov",
@@ -295,9 +295,9 @@
     "evals": [
       "skills/arab-identity-gov/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "7 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "7 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "mena-hr-payroll",
@@ -328,9 +328,9 @@
     "evals": [
       "skills/mena-hr-payroll/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "5 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "5 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "arabic-nlp",
@@ -362,9 +362,9 @@
     "evals": [
       "skills/arabic-nlp/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "6 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "6 registry vendors. Facts must remain source-backed."
   },
   {
     "id": "arab-open-data",
@@ -398,8 +398,8 @@
     "evals": [
       "skills/arab-open-data/evals/prompts.yml"
     ],
+    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
     "eval_score": 100,
-    "notes": "8 registry vendors. Facts must remain source-backed.",
-    "last_evaluated_at": "2026-05-23T22:32:01.590Z"
+    "notes": "8 registry vendors. Facts must remain source-backed."
   }
 ]

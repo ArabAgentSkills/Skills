@@ -6,13 +6,13 @@ Use this skill when integrating or evaluating Arab/MENA buy-now-pay-later provid
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Cashew | UAE, Saudi Arabia | C | unknown | 30 |
-| Postpay | UAE, Saudi Arabia | B | public | 40 |
-| Shahry | Egypt | C | unknown | 30 |
-| Souhoola | Egypt | B | public | 40 |
-| Tabby | UAE, Saudi Arabia, Kuwait, Bahrain, Qatar, Saudi, MENA | A | public | 40 |
-| Tamara | Saudi Arabia, UAE, Kuwait, Bahrain, GCC | A | public | 40 |
-| valU | Egypt | B | public | 40 |
+| Cashew | UAE, Saudi Arabia | C | unknown | 10 |
+| Postpay | UAE, Saudi Arabia | B | public | 75 |
+| Shahry | Egypt | C | unknown | 10 |
+| Souhoola | Egypt | B | public | 75 |
+| Tabby | UAE, Saudi Arabia, Kuwait, Bahrain, Qatar, Saudi, MENA | A | public | 80 |
+| Tamara | Saudi Arabia, UAE, Kuwait, Bahrain, GCC | A | public | 80 |
+| valU | Egypt | B | public | 75 |
 
 ## Usage
 

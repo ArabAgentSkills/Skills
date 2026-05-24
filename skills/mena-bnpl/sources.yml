@@ -5,32 +5,32 @@ vendors:
     name: Cashew
     docs_access: unknown
     docs_confidence: C
-    source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 10
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://www.cashewpayments.com/
   - id: postpay
     name: Postpay
     docs_access: public
     docs_confidence: B
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 75
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://docs.postpay.io/
   - id: shahry
     name: Shahry
     docs_access: unknown
     docs_confidence: C
-    source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 10
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://www.shahry.com/
   - id: souhoola
     name: Souhoola
     docs_access: public
     docs_confidence: B
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 75
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://souhoola.com/
       - https://docs.geidea.net/docs/souhoola
@@ -38,8 +38,8 @@ vendors:
     name: Tabby
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://docs.tabby.ai/
       - https://docs.tabby.ai/introduction/what-is-tabby
@@ -47,16 +47,16 @@ vendors:
     name: Tamara
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://docs.tamara.co/
   - id: valu
     name: valU
     docs_access: public
     docs_confidence: B
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.032Z
+    source_quality_score: 75
+    last_checked_at: 2026-05-24T07:12:24.337Z
     source_urls:
       - https://www.valu.com.eg/
       - https://docs.geidea.net/docs/valu

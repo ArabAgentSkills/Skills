@@ -6,13 +6,13 @@ Use this skill when working with MENA open banking, open finance, account inform
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Bahrain Open Banking | Bahrain | B | public | 0 |
-| Dapi | UAE, Saudi Arabia | B | public | 60 |
-| Lean Technologies | Saudi Arabia, UAE | A | public | 40 |
-| Salt Edge | UAE, Saudi Arabia, Bahrain | B | public | 40 |
-| Saudi Open Banking Framework | Saudi Arabia | B | public | 0 |
-| Tarabut | Bahrain, Saudi Arabia, UAE, Saudi, MENA | B | public | 40 |
-| UAE Open Finance API Hub | UAE | B | public | 60 |
+| Bahrain Open Banking | Bahrain | B | public | 55 |
+| Dapi | UAE, Saudi Arabia | B | public | 95 |
+| Lean Technologies | Saudi Arabia, UAE | A | public | 100 |
+| Salt Edge | UAE, Saudi Arabia, Bahrain | B | public | 75 |
+| Saudi Open Banking Framework | Saudi Arabia | B | public | 55 |
+| Tarabut | Bahrain, Saudi Arabia, UAE, Saudi, MENA | B | public | 75 |
+| UAE Open Finance API Hub | UAE | B | public | 95 |
 
 ## Usage
 

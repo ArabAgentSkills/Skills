@@ -5,8 +5,8 @@ vendors:
     name: CEQUENS
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.338Z
     source_urls:
       - https://developers.cequens.com/
       - https://developer.cequens.com/
@@ -14,8 +14,8 @@ vendors:
     name: Maqsam
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.338Z
     source_urls:
       - https://docs.maqsam.com/
       - https://maqsam.com/apis
@@ -23,8 +23,8 @@ vendors:
     name: Msegat
     docs_access: public
     docs_confidence: B
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 95
+    last_checked_at: 2026-05-24T07:12:24.338Z
     source_urls:
       - https://www.msegat.com/docs/
       - https://msegat.docs.apiary.io/
@@ -32,8 +32,8 @@ vendors:
     name: Taqnyat
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.338Z
     source_urls:
       - https://taqnyat.sa/docs/
       - https://dev.taqnyat.sa/en/doc/sms/
@@ -41,32 +41,32 @@ vendors:
     name: Unifonic
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.033Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.338Z
     source_urls:
       - https://docs.unifonic.com/
   - id: victorylink
     name: VictoryLink
     docs_access: unknown
     docs_confidence: C
-    source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 10
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://victorylink.com/
   - id: yallasms
     name: YallaSMS
     docs_access: unknown
     docs_confidence: C
-    source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 10
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://www.yallasms.com/
   - id: ziwo
     name: ZIWO
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://docs.ziwo.io/
       - https://www.ziwo.io/features/api_docs/

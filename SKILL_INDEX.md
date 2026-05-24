@@ -59,5 +59,3 @@
 - Use `references/` for reusable implementation patterns.
 - Use `evals/` when changing skill behavior.
 - Ask for only the missing credentials, country, environment, or workflow choices required for the task.
-
-Generated at: 2026-05-23T22:32:01.590Z

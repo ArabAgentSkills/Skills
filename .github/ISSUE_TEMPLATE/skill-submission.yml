@@ -1,0 +1,58 @@
+name: Skill submission
+description: Propose a new Arab-world agent skill for maintainer approval.
+title: "Skill submission: "
+labels: [skill-submission, needs-review]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Proposed skills are not published automatically. Maintainers review scope, sources, safety rules, eval prompts, and public usefulness before anything is added to the public skills repo.
+  - type: input
+    id: skill_name
+    attributes:
+      label: Proposed skill name
+      description: Short human name, for example Saudi B2B sales outreach or GCC WhatsApp campaign localization.
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Skill area
+      options:
+        - APIs and developer integrations
+        - Marketing
+        - Sales
+        - Customer support
+        - Localization and Arabic content
+        - Operations
+        - HR and recruiting
+        - Government/compliance
+        - Culture and business etiquette
+        - Data/research
+        - Other Arab-market workflow
+    validations:
+      required: true
+  - type: textarea
+    id: use_cases
+    attributes:
+      label: Agent use cases
+      description: What should an agent do better with this skill?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources or evidence
+      description: Add official docs, public references, first-party examples, style guides, regulations, market evidence, or sample workflows. No private data.
+    validations:
+      required: true
+  - type: textarea
+    id: safety
+    attributes:
+      label: Safety and review notes
+      description: List risks, approvals needed, private data concerns, or situations where the skill should refuse or ask for confirmation.
+  - type: textarea
+    id: evals
+    attributes:
+      label: Suggested eval prompts
+      description: Add 3-5 prompts that would prove the skill behaves correctly.

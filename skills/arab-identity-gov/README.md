@@ -7,12 +7,12 @@ Use this skill when evaluating Arab identity, address, digital-government, natio
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
 | Makani | UAE | C | unknown | 30 |
-| Nafath | Saudi Arabia | B | public | 0 |
+| Nafath | Saudi Arabia | B | public | 55 |
 | Saudi National Address | Saudi Arabia | C | unknown | 30 |
-| UAE API Marketplace | UAE | B | public | 60 |
-| UAE PASS | UAE | A | public | 40 |
-| Yakeen | Saudi Arabia | C | partner_only | 0 |
-| Yakeen by Elm | Saudi Arabia | B | public | 0 |
+| UAE API Marketplace | UAE | B | public | 100 |
+| UAE PASS | UAE | A | public | 100 |
+| Yakeen | Saudi Arabia | C | partner_only | 30 |
+| Yakeen by Elm | Saudi Arabia | B | public | 55 |
 
 ## Usage
 

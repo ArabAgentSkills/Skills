@@ -6,20 +6,20 @@ Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Aramex | UAE, Saudi Arabia, Egypt, Jordan, Kuwait, Bahrain, Qatar, Oman, Morocco, MENA | A | public | 60 |
-| Aymakan | Saudi Arabia | B | public | 40 |
-| Bosta | Egypt, Saudi Arabia, KSA | A | public | 40 |
-| Dubai Makani | UAE | B | public | 0 |
-| Fetchr | UAE, Saudi Arabia | C | unknown | 30 |
-| Jeebly | UAE, Saudi Arabia, Kuwait, Qatar, Bahrain | C | unknown | 30 |
+| Aramex | UAE, Saudi Arabia, Egypt, Jordan, Kuwait, Bahrain, Qatar, Oman, Morocco, MENA | A | public | 100 |
+| Aymakan | Saudi Arabia | B | public | 95 |
+| Bosta | Egypt, Saudi Arabia, KSA | A | public | 80 |
+| Dubai Makani | UAE | B | public | 55 |
+| Fetchr | UAE, Saudi Arabia | C | unknown | 10 |
+| Jeebly | UAE, Saudi Arabia, Kuwait, Qatar, Bahrain | C | unknown | 10 |
 | Naqel | Saudi Arabia, UAE, Bahrain, Kuwait | C | unknown | 30 |
-| OTO | Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, Oman, MENA | A | public | 60 |
-| Quiqup | UAE | B | public | 40 |
-| Saudi National Address API / SPL | Saudi Arabia | B | public | 60 |
-| Saudi Post SPL | Saudi Arabia | C | unknown | 30 |
-| Shipa | UAE, Saudi Arabia, Kuwait | C | unknown | 30 |
-| ShipBlu | Egypt | A | public | 60 |
-| SMSA Express | Saudi Arabia, UAE, Bahrain, Kuwait | C | unknown | 30 |
+| OTO | Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, Oman, MENA | A | public | 100 |
+| Quiqup | UAE | B | public | 95 |
+| Saudi National Address API / SPL | Saudi Arabia | B | public | 95 |
+| Saudi Post SPL | Saudi Arabia | C | unknown | 10 |
+| Shipa | UAE, Saudi Arabia, Kuwait | C | unknown | 10 |
+| ShipBlu | Egypt | A | public | 100 |
+| SMSA Express | Saudi Arabia, UAE, Bahrain, Kuwait | C | unknown | 10 |
 
 ## Usage
 

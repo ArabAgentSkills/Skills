@@ -6,14 +6,14 @@ Use this skill when integrating Arab/MENA SMS, WhatsApp, voice, OTP, contact-cen
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| CEQUENS | Egypt, UAE, Saudi Arabia, MENA | A | public | 40 |
-| Maqsam | Jordan, Saudi Arabia, UAE, MENA | A | public | 60 |
-| Msegat | Saudi Arabia | B | public | 60 |
-| Taqnyat | Saudi Arabia | A | public | 40 |
-| Unifonic | Saudi Arabia, UAE, Jordan, Egypt, MENA | A | public | 40 |
-| VictoryLink | Egypt | C | unknown | 30 |
-| YallaSMS | Egypt | C | unknown | 30 |
-| ZIWO | UAE, Saudi Arabia, Qatar, Bahrain, MENA | A | public | 60 |
+| CEQUENS | Egypt, UAE, Saudi Arabia, MENA | A | public | 100 |
+| Maqsam | Jordan, Saudi Arabia, UAE, MENA | A | public | 100 |
+| Msegat | Saudi Arabia | B | public | 95 |
+| Taqnyat | Saudi Arabia | A | public | 80 |
+| Unifonic | Saudi Arabia, UAE, Jordan, Egypt, MENA | A | public | 80 |
+| VictoryLink | Egypt | C | unknown | 10 |
+| YallaSMS | Egypt | C | unknown | 10 |
+| ZIWO | UAE, Saudi Arabia, Qatar, Bahrain, MENA | A | public | 100 |
 
 ## Usage
 

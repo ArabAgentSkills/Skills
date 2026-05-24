@@ -6,15 +6,15 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://www.makani.ae/
   - id: nafath
     name: Nafath
     docs_access: public
     docs_confidence: B
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_quality_score: 55
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://www.iam.gov.sa/
       - https://sdaia.gov.sa/en/Services/ServicesGuidelines/SingleSignontoGovernmentPrivateServices.pdf
@@ -23,15 +23,15 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://splonline.com.sa/en/national-address-1/
   - id: uae-api-marketplace
     name: UAE API Marketplace
     docs_access: public
     docs_confidence: B
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://apiportal.government.ae/
       - https://u.ae/en/about-the-uae/digital-uae/digital-transformation/platforms-and-apps/uae-api-marketplace
@@ -39,8 +39,8 @@ vendors:
     name: UAE PASS
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://selfcare.uaepass.ae/
       - https://docs.uaepass.ae/
@@ -48,15 +48,15 @@ vendors:
     name: Yakeen
     docs_access: partner_only
     docs_confidence: C
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.036Z
+    source_quality_score: 30
+    last_checked_at: 2026-05-24T07:12:24.342Z
     source_urls:
       - https://elm.sa/en/e-services/yakeen/
   - id: yakeen-by-elm
     name: Yakeen by Elm
     docs_access: public
     docs_confidence: B
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_quality_score: 55
+    last_checked_at: 2026-05-24T07:12:24.348Z
     source_urls:
       - https://elm.sa/ar/our-business/digital-products/Documents/En/Yakeen%20EN.pdf

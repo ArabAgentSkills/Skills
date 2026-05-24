@@ -1,5 +1,5 @@
 name: Vendor request
-description: Suggest an Arab/MENA vendor or API source to add.
+description: Suggest an Arab/MENA vendor, platform, API source, or market tool to add.
 title: "Add vendor: "
 labels: [vendor-request, needs-review]
 body:
@@ -25,12 +25,16 @@ body:
         - HR/payroll
         - Arabic NLP
         - open data
+        - marketing/sales
+        - localization/content
+        - operations
+        - other Arab-market skill
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
-      label: Official source URLs
-      description: Prefer developer portals, API docs, OpenAPI/Postman, SDK repos, or government docs.
+      label: Official source URLs or public evidence
+      description: Prefer developer portals, API docs, OpenAPI/Postman, SDK repos, government docs, first-party references, or clear public evidence.
     validations:
       required: true

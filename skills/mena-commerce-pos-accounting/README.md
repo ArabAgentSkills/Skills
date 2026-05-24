@@ -6,14 +6,14 @@ Use this skill when integrating Arab/MENA commerce, POS, accounting, inventory, 
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Daftra | Saudi Arabia, UAE, Egypt, Kuwait, MENA | A | public | 40 |
-| Foodics | Saudi Arabia, UAE, Kuwait, Egypt, Jordan, MENA | B | public | 40 |
-| Loyverse | UAE, Saudi Arabia, Egypt, Jordan, Morocco | B | public | 40 |
-| Qoyod | Saudi Arabia | A | public | 60 |
-| Rewaa | Saudi Arabia | A | public | 60 |
-| Salla | Saudi Arabia, Kuwait, UAE | A | public | 40 |
-| Wafeq | UAE, Saudi Arabia, Saudi | A | public | 60 |
-| Zid | Saudi Arabia | A | public | 40 |
+| Daftra | Saudi Arabia, UAE, Egypt, Kuwait, MENA | A | public | 80 |
+| Foodics | Saudi Arabia, UAE, Kuwait, Egypt, Jordan, MENA | B | public | 95 |
+| Loyverse | UAE, Saudi Arabia, Egypt, Jordan, Morocco | B | public | 95 |
+| Qoyod | Saudi Arabia | A | public | 100 |
+| Rewaa | Saudi Arabia | A | public | 100 |
+| Salla | Saudi Arabia, Kuwait, UAE | A | public | 80 |
+| Wafeq | UAE, Saudi Arabia, Saudi | A | public | 100 |
+| Zid | Saudi Arabia | A | public | 80 |
 
 ## Usage
 

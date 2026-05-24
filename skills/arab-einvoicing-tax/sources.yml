@@ -6,39 +6,39 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://www.nbr.gov.bh/
   - id: egypt-eta-e-invoicing
     name: Egypt ETA E-Invoicing
     docs_access: public
     docs_confidence: A
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 60
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://sdk.invoicing.eta.gov.eg/
   - id: egypt-eta-e-receipt
     name: Egypt ETA E-Receipt
     docs_access: public
     docs_confidence: A
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 60
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://sdk.invoicing.eta.gov.eg/ereceipt/
   - id: egyptian-tax-authority-einvoicing-ereceipt-sdk
     name: Egyptian Tax Authority eInvoicing/eReceipt SDK
     docs_access: public
     docs_confidence: A
-    source_quality_score: 60
-    last_checked_at: 2026-05-23T19:34:56.039Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.348Z
     source_urls:
       - https://sdk.invoicing.eta.gov.eg/api/
   - id: jordan-jofotara
     name: Jordan JoFotara
     docs_access: public
     docs_confidence: B
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 55
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://www.istd.gov.jo/
       - https://www.odoo.com/documentation/19.0/applications/finance/fiscal_localizations/jordan.html
@@ -46,16 +46,16 @@ vendors:
     name: Saudi ZATCA Fatoora
     docs_access: public
     docs_confidence: A
-    source_quality_score: 40
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    source_quality_score: 100
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://zatca.gov.sa/en/E-Invoicing/SystemsDevelopers/Pages/default.aspx
   - id: uae-einvoicing-framework
     name: UAE eInvoicing Framework
     docs_access: public
     docs_confidence: B
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_quality_score: 55
+    last_checked_at: 2026-05-24T07:12:24.348Z
     source_urls:
       - https://www.wafeq.com/en-ae/tax-and-reporting/e-invoicing-in-uae
   - id: uae-fta-e-invoicing
@@ -63,22 +63,22 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 30
-    last_checked_at: 2026-05-23T19:34:56.034Z
+    last_checked_at: 2026-05-24T07:12:24.339Z
     source_urls:
       - https://tax.gov.ae/en/e-invoicing.aspx
   - id: wafeq-zatca-api
     name: Wafeq ZATCA API
     docs_access: public
     docs_confidence: A
-    source_quality_score: 20
-    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_quality_score: 80
+    last_checked_at: 2026-05-24T07:12:24.348Z
     source_urls:
       - https://zatca.wafeq.com/reference/invoices_report_create
   - id: zatca-fatoora-developer-portal
     name: ZATCA Fatoora Developer Portal
     docs_access: public
     docs_confidence: A
-    source_quality_score: 0
-    last_checked_at: 2026-05-23T19:34:56.040Z
+    source_quality_score: 60
+    last_checked_at: 2026-05-24T07:12:24.348Z
     source_urls:
       - https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx

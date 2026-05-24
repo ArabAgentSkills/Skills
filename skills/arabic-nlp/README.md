@@ -6,12 +6,12 @@ Use this skill when selecting or applying Arabic NLP, tokenization, stemming, di
 
 | Vendor | Countries | Docs Confidence | Docs Access | Source Score |
 | --- | --- | --- | --- | ---: |
-| Arabic Stopwords | Arab region | B | public | 10 |
-| CAMeL Tools | Arab region, UAE, NYU Abu Dhabi | A | public | 50 |
-| Farasa | Qatar, Arab region, QCRI | A | public | 0 |
-| PyArabic | Arab region, Open source, Arabic | A | public | 10 |
-| Qalsadi | Arab region | B | public | 10 |
-| Tashaphyne | Arab region, Open source, Arabic | A | public | 10 |
+| Arabic Stopwords | Arab region | B | public | 65 |
+| CAMeL Tools | Arab region, UAE, NYU Abu Dhabi | A | public | 100 |
+| Farasa | Qatar, Arab region, QCRI | A | public | 40 |
+| PyArabic | Arab region, Open source, Arabic | A | public | 70 |
+| Qalsadi | Arab region | B | public | 65 |
+| Tashaphyne | Arab region, Open source, Arabic | A | public | 70 |
 
 ## Usage
 
