@@ -6,7 +6,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-24T07:12:24.326Z
+    last_checked_at: 2026-05-25T05:03:27.782Z
     source_urls:
       - https://paymentservices.amazon.com/docs/
   - id: amazon-payment-services-payfort
@@ -14,7 +14,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.348Z
+    last_checked_at: 2026-05-25T05:03:27.793Z
     source_urls:
       - https://paymentservices.amazon.com/docs/
   - id: easykash
@@ -22,7 +22,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.329Z
+    last_checked_at: 2026-05-25T05:03:27.783Z
     source_urls:
       - https://www.easykash.net/
   - id: fawrypay
@@ -30,7 +30,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.321Z
+    last_checked_at: 2026-05-25T05:03:27.779Z
     source_urls:
       - https://developer.fawrystaging.com/docs/
       - https://developer.fawrystaging.com/
@@ -39,7 +39,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-24T07:12:24.323Z
+    last_checked_at: 2026-05-25T05:03:27.780Z
     source_urls:
       - https://docs.geidea.net/
       - https://docs.geidea.net/docs/overview
@@ -48,7 +48,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-24T07:12:24.324Z
+    last_checked_at: 2026-05-25T05:03:27.781Z
     source_urls:
       - https://docs.hyperpay.com/
       - https://www.hyperpay.com/integration-guide/
@@ -57,7 +57,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-24T07:12:24.327Z
+    last_checked_at: 2026-05-25T05:03:27.783Z
     source_urls:
       - https://docs.kashier.io/
       - https://www.kashier.io/blog-posts/kashier-api---power-flexibility-simplicity
@@ -66,7 +66,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.325Z
+    last_checked_at: 2026-05-25T05:03:27.782Z
     source_urls:
       - https://docs.moyasar.com/
   - id: myfatoorah
@@ -74,7 +74,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.324Z
+    last_checked_at: 2026-05-25T05:03:27.781Z
     source_urls:
       - https://docs.myfatoorah.com/
       - https://portal.myfatoorah.com/
@@ -84,7 +84,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-24T07:12:24.336Z
+    last_checked_at: 2026-05-25T05:03:27.785Z
     source_urls:
       - https://developer.paylink.sa/
   - id: paymob
@@ -92,7 +92,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.315Z
+    last_checked_at: 2026-05-25T05:03:27.776Z
     source_urls:
       - https://docs.paymob.com/
       - https://developers.paymob.com/
@@ -102,7 +102,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 55
-    last_checked_at: 2026-05-24T07:12:24.335Z
+    last_checked_at: 2026-05-25T05:03:27.785Z
     source_urls:
       - https://paysky.io/
   - id: paytabs
@@ -110,7 +110,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.323Z
+    last_checked_at: 2026-05-25T05:03:27.781Z
     source_urls:
       - https://docs.paytabs.com/
   - id: tap-payments
@@ -118,7 +118,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.323Z
+    last_checked_at: 2026-05-25T05:03:27.781Z
     source_urls:
       - https://developers.tap.company/reference/
       - https://developers.tap.company/
@@ -127,6 +127,6 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 35
-    last_checked_at: 2026-05-24T07:12:24.337Z
+    last_checked_at: 2026-05-25T05:03:27.785Z
     source_urls:
       - https://www.telr.com/support/knowledge-base/integration-guides/

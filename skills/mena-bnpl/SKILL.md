@@ -18,9 +18,16 @@ Use this skill for bnpl work in Arab/MENA contexts, especially when the prompt i
 
 - Country or market.
 - Target vendor, if already selected.
-- Desired flow: identify, read, separate, return.
+- Desired workflow: vendor selection, implementation, review/debugging, launch readiness, or source research.
 - Sandbox vs production state.
 - Whether live customer, payment, tax, identity, bank, or payroll data is involved.
+
+## Common Workflows
+
+- Identify whether the request is checkout, merchant onboarding, capture, refund, webhook, or eligibility.
+- Read the provider file and source list before making integration recommendations.
+- Separate customer-facing eligibility from merchant API handling.
+- Return source-backed gaps and manual review requirements.
 
 ## Default Workflow
 
@@ -36,7 +43,18 @@ Use this skill for bnpl work in Arab/MENA contexts, especially when the prompt i
 - Named vendor: read that vendor file, then answer narrowly.
 - Vendor selection: filter by country, docs access, maturity, and source quality before recommending.
 - Implementation: include auth, sandbox, webhook/callback, retries, idempotency, logging, and error handling only where source-backed.
+- Review/debugging: compare the user's plan or code against the vendor file, `sources.yml`, and `references/integration-checklist.md`.
+- Source research: update facts only when an official source, developer portal, GitHub repo, OpenAPI/Postman asset, or government source supports the claim.
 - Missing docs: say `Needs vendor access` or `Unknown from public docs`.
+
+## Response Contract
+
+- Start by naming the skill file and vendor/reference files used.
+- Give a short recommendation or implementation path before details.
+- Separate source-backed facts from assumptions and unknowns.
+- Include country/market fit, docs access, docs confidence, and source-quality caveats when selecting vendors.
+- Include a validation checklist with sandbox/test steps, rollback or retry notes, and manual approval gates for high-risk work.
+- Never provide live-action instructions that move money, tax documents, bank data, identity data, payroll data, or outbound messages without explicit human approval.
 
 ## Files To Read
 

@@ -9,7 +9,7 @@
 - Postman: Unknown from public docs
 - SDKs: Unknown from public docs
 - GitHub: Unknown from public docs
-- Last checked: 2026-05-24T07:12:24.323Z
+- Last checked: 2026-05-25T05:03:27.780Z
 - Docs access: public
 - Docs confidence: A
 - Notes: Docs include API Reference and llms.txt; strong agent-readiness.

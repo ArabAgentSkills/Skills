@@ -6,7 +6,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.337Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://www.aramex.com/developers/aramex-apis
       - https://www.aramex.com/ae/en/developers-solution-center/aramex-apis
@@ -15,7 +15,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.787Z
     source_urls:
       - https://developer.aymakan.com.sa/
   - id: bosta
@@ -23,7 +23,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-24T07:12:24.337Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://docs.bosta.co/
   - id: dubai-makani
@@ -31,7 +31,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 55
-    last_checked_at: 2026-05-24T07:12:24.348Z
+    last_checked_at: 2026-05-25T05:03:27.793Z
     source_urls:
       - https://www.dm.gov.ae/open-data2/open-data-for-makani/
   - id: fetchr
@@ -39,7 +39,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.787Z
     source_urls:
       - https://fetchr.us/
   - id: jeebly
@@ -47,7 +47,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.787Z
     source_urls:
       - https://www.jeebly.com/
   - id: naqel
@@ -55,7 +55,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 30
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://www.naqelexpress.com/
   - id: oto
@@ -63,7 +63,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://docs.tryoto.com/
       - https://apis.tryoto.com/
@@ -72,7 +72,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.787Z
     source_urls:
       - https://developer.quiqup.com/
   - id: saudi-national-address-api-spl
@@ -80,7 +80,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-24T07:12:24.348Z
+    last_checked_at: 2026-05-25T05:03:27.793Z
     source_urls:
       - https://splonline.com.sa/en/national-address-api/
   - id: saudi-post-spl
@@ -88,7 +88,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://splonline.com.sa/
   - id: shipa
@@ -96,7 +96,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.787Z
     source_urls:
       - https://www.shipa.com/
   - id: shipblu
@@ -104,7 +104,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://docs.shipblu.com/
       - https://docs.shipblu.com/api-reference
@@ -113,6 +113,6 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-24T07:12:24.338Z
+    last_checked_at: 2026-05-25T05:03:27.786Z
     source_urls:
       - https://www.smsaexpress.com/
