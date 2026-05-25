@@ -1,0 +1,42 @@
+skill_id: mena-marketing-localization
+prompts:
+  - id: mena-marketing-localization-1
+    prompt: Plan a Saudi ecommerce Ramadan campaign for paid social, search, WhatsApp, and landing pages.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-2
+    prompt: Compare UAE and Egypt localization plans for a B2C mobile app launch.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-3
+    prompt: Create Arabic and English SEO requirements for a GCC SaaS landing page.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-4
+    prompt: Write a creator brief for a Moroccan marketplace launch.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-5
+    prompt: Review a TikTok ad and landing page targeting Kuwait in Arabic and English.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-6
+    prompt: Build a WhatsApp cart-recovery campaign for Egypt.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-7
+    prompt: Recommend B2B campaign localization for a Qatar HR SaaS product.
+    mode: heuristic
+    priority: P1
+  - id: mena-marketing-localization-8
+    prompt: Localize a Saudi National Day offer page.
+    mode: heuristic
+    priority: P1
+  - id: mena-marketing-localization-9
+    prompt: Audit a Meta campaign that references personal financial hardship in Arabic copy.
+    mode: heuristic
+    priority: P0
+  - id: mena-marketing-localization-10
+    prompt: Produce a marketplace launch localization checklist for Jordan.
+    mode: heuristic
+    priority: P1

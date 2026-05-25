@@ -6,7 +6,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 55
-    last_checked_at: 2026-05-25T05:03:27.791Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://www.cbb.gov.bh/open-banking/
   - id: dapi
@@ -14,7 +14,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-25T05:03:27.790Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://docs.dapi.com/
   - id: lean-technologies
@@ -22,7 +22,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T05:03:27.790Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://docs.leantech.me/
       - https://docs.leantech.me/docs/creating-a-bank-connection
@@ -31,7 +31,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 75
-    last_checked_at: 2026-05-25T05:03:27.790Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://docs.saltedge.com/
   - id: saudi-open-banking-framework
@@ -39,7 +39,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 55
-    last_checked_at: 2026-05-25T05:03:27.790Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://www.sama.gov.sa/en-US/OpenBanking/Pages/default.aspx
   - id: tarabut
@@ -47,7 +47,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 75
-    last_checked_at: 2026-05-25T05:03:27.790Z
+    last_checked_at: 2026-05-25T06:45:39.035Z
     source_urls:
       - https://docs.tarabutgateway.io/
       - https://www.tarabut.com/
@@ -56,6 +56,6 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-25T05:03:27.793Z
+    last_checked_at: 2026-05-25T06:45:39.037Z
     source_urls:
       - https://openfinanceuae.atlassian.net/wiki/spaces/APIHubDocsv2/pages/124321813

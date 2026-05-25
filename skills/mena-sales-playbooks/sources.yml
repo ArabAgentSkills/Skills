@@ -1,0 +1,107 @@
+skill_id: mena-sales-playbooks
+generated_from:
+  - research/regional-intelligence/04-sales-partnerships.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_checked_at: 2026-05-25T00:00:00.000Z
+source_policy:
+  high_confidence_use: constraints, procurement routes, platform-policy caveats, privacy and review gates
+  medium_confidence_use: market context, ecosystem discovery, partner-channel hypotheses
+  low_confidence_use: local etiquette, dialect, seniority, humor, objection wording, and WhatsApp tone require native/operator review
+unknown_markers:
+  - Unknown from public docs
+  - Needs native/operator review
+  - Needs local legal review
+  - Needs platform/account access
+  - Needs procurement review
+sources:
+  - id: world-bank-enterprise-surveys
+    name: World Bank Enterprise Surveys
+    type: official_dataset
+    confidence: A
+    use_for: business-environment and firm-level context, not sales-script norms
+    source_urls:
+      - https://www.enterprisesurveys.org/en/data
+      - https://www.enterprisesurveys.org/en/methodology
+  - id: ita-country-commercial-guides
+    name: International Trade Administration country commercial guides
+    type: country_commercial_guide
+    confidence: A
+    use_for: country-specific sales channel and procurement caveats with exporter-lens limitations
+    source_urls:
+      - https://www.trade.gov/country-commercial-guides/saudi-arabia-selling-factors-and-techniques
+      - https://www.trade.gov/country-commercial-guides/saudi-arabia-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/united-arab-emirates-selling-factors-and-techniques
+      - https://www.trade.gov/country-commercial-guides/united-arab-emirates-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/egypt-selling-factors-and-techniques
+      - https://www.trade.gov/country-commercial-guides/egypt-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/qatar-selling-factors-and-techniques
+      - https://www.trade.gov/country-commercial-guides/qatar-distribution-and-sales-channels
+  - id: procurement-portals
+    name: Official procurement portals
+    type: government_portal
+    confidence: A
+    use_for: procurement route caution; tender-specific requirements still need review
+    source_urls:
+      - https://etimad.sa/
+      - https://www.mof.gov.sa/en/tenders/Pages/default.aspx
+      - https://mof.gov.ae/digital-procurement-platform/
+      - https://mof.gov.ae/supplier-registration/
+      - https://monaqasat.mof.gov.qa/
+      - https://etendering.tenderboard.gov.om/
+  - id: whatsapp-business-platform
+    name: WhatsApp Business Platform and policy docs
+    type: platform_policy
+    confidence: A
+    use_for: message templates, messaging limits, conversation categories, policy checks, and no-unsolicited automation caveats
+    source_urls:
+      - https://www.whatsapp.com/legal/business-policy/
+      - https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates/
+      - https://developers.facebook.com/docs/whatsapp/messaging-limits/
+      - https://developers.facebook.com/docs/whatsapp/pricing/
+  - id: privacy-and-data-protection
+    name: Regional privacy and data protection references
+    type: government_or_regulator
+    confidence: A
+    use_for: privacy review triggers for contact lists, CRM data, and outbound messaging
+    source_urls:
+      - https://ai.gov.ae/personal-data-protection-law/
+      - https://uaelegislation.gov.ae/
+      - https://dgp.sdaia.gov.sa/wps/portal/pdp/
+      - https://dga.gov.sa/en/information-policy
+      - https://www.difc.ae/business/operating/data-protection/
+  - id: chambers-and-b2b-networks
+    name: Chambers and B2B networks
+    type: chamber_source
+    confidence: B
+    use_for: market discovery and business-network context, not proof of permission to contact members
+    source_urls:
+      - https://www.dubaichambers.com/
+      - https://www.dubaichambers.com/en/membership/business-groups-councils
+      - https://www.abudhabichamber.ae/
+      - https://fsc.org.sa/
+      - https://www.qatarchamber.com/
+      - https://www.amchamdubai.org/
+      - https://www.amcham.org.eg/
+  - id: ecosystem-context
+    name: SME, startup, and mobile economy context
+    type: ecosystem_report
+    confidence: B
+    use_for: market context and hypothesis generation only
+    source_urls:
+      - https://www.gsmaintelligence.com/research/the-mobile-economy-middle-east-and-north-africa-2025
+      - https://www.monshaat.gov.sa/en/publications
+      - https://www.dubaichambers.com/en/resources/reports
+      - https://fintechsaudi.com/
+      - https://startupgenome.com/report/gser2025
+      - https://magnitt.com/research
+  - id: anti-stereotype-and-risk-frameworks
+    name: AI, privacy, and anti-stereotype safety standards
+    type: safety_standard
+    confidence: A
+    use_for: anti-stereotype, privacy, provenance, and review-gating rules
+    source_urls:
+      - https://www.nist.gov/itl/ai-risk-management-framework
+      - https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+      - https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence
+      - https://www.oecd.org/en/topics/ai-principles.html
+      - https://www.nist.gov/privacy-framework

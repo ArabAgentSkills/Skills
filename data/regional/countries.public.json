@@ -1,0 +1,526 @@
+[
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Egypt"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for many B2B/technical contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Saudi Arabia"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for enterprise/technical contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "email",
+      "phone",
+      "LinkedIn"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "united-arab-emirates",
+    "name": "United Arab Emirates",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "United Arab Emirates"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "other languages by audience"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "email",
+      "phone",
+      "LinkedIn"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "kuwait",
+    "name": "Kuwait",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Kuwait"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for many business contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Qatar"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for many business contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "email",
+      "phone",
+      "LinkedIn"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "bahrain",
+    "name": "Bahrain",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Bahrain"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for finance/business contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "email",
+      "phone",
+      "LinkedIn"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "oman",
+    "name": "Oman",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Oman"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for business/technical contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Jordan"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for tech/NGO/B2B contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "lebanon",
+    "name": "Lebanon",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Lebanon"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French by audience"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Morocco"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "Amazigh",
+      "French",
+      "English by segment"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Tunisia"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "French",
+      "English by segment"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Algeria"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "Tamazight",
+      "French",
+      "English by segment"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "iraq",
+    "name": "Iraq",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Iraq"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "Kurdish by region",
+      "English by sector"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  },
+  {
+    "id": "palestine",
+    "name": "Palestine",
+    "region": "Arab world / MENA",
+    "countries_covered": [
+      "Palestine"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "primary_sources": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "known_gaps": [
+      "Native review is still needed for dialect, support tone, public brand copy, and country-specific business etiquette.",
+      "Market validation is still needed before strategic recommendations or performance claims."
+    ],
+    "languages": [
+      "Arabic",
+      "English for international/NGO contexts"
+    ],
+    "common_channels": [
+      "WhatsApp",
+      "phone",
+      "email",
+      "social DMs"
+    ],
+    "notes": "Use as a scoped country-context starting point. Do not treat country-level signals as claims about individual people."
+  }
+]

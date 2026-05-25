@@ -1,0 +1,170 @@
+skill_id: arab-market-context
+generated_from: research/regional-intelligence/01-country-context.md
+last_checked_at: 2026-05-25
+source_rules:
+  unknown_label: Unknown from public docs
+  vendor_access_label: Needs vendor access
+  high_confidence_requires_source_url: true
+  behavioral_claims_require_review: true
+cross_country_sources:
+  - id: world-bank-internet-use
+    name: World Bank - Individuals using the Internet
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://data.worldbank.org/indicator/IT.NET.USER.ZS
+  - id: world-bank-mobile-subscriptions
+    name: World Bank - Mobile cellular subscriptions
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://data.worldbank.org/indicator/IT.CEL.SETS.P2
+  - id: world-bank-account-ownership
+    name: World Bank - Account ownership
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://data.worldbank.org/indicator/account.t.d
+  - id: world-bank-digital-merchant-payment
+    name: World Bank - Digital merchant payment
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://data.worldbank.org/indicator/merchant.pay
+  - id: world-bank-mobile-money-account
+    name: World Bank - Mobile money account
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://data.worldbank.org/indicator/mobileaccount.t.d
+  - id: itu-statistics
+    name: ITU statistics and DataHub
+    source_type: official_dataset
+    confidence: A
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://www.itu.int/itu-d/reports/statistics/
+  - id: gsma-mobile-economy-mena
+    name: GSMA Mobile Economy Middle East and North Africa
+    source_type: industry_report
+    confidence: B
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-economy/mena/
+  - id: arab-barometer
+    name: Arab Barometer survey data and publications
+    source_type: survey_dataset
+    confidence: B
+    last_checked_at: 2026-05-25
+    source_urls:
+      - https://www.arabbarometer.org/survey-data/data-downloads/
+      - https://www.arabbarometer.org/surveys/
+country_sources:
+  - country: Egypt
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-egypt
+      - https://www.mcit.gov.eg/en/ICT_Indicators
+      - https://www.capmas.gov.eg/
+      - https://www.cbe.org.eg/en/payment-systems-and-services
+      - https://sdk.invoicing.eta.gov.eg/
+  - country: Saudi Arabia
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-saudi-arabia
+      - https://data.gov.sa/
+      - https://dga.gov.sa/
+      - https://www.cst.gov.sa/
+      - https://www.saudipayments.com/
+      - https://www.mada.com.sa/
+      - https://splonline.com.sa/en/national-address-api/
+      - https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx
+  - country: United Arab Emirates
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-united-arab-emirates
+      - https://bayanat.ae/
+      - https://u.ae/
+      - https://tdra.gov.ae/
+      - https://apiportal.government.ae/
+      - https://www.aletihadpayments.ae/
+      - https://docs.uaepass.ae/
+  - country: Kuwait
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-kuwait
+      - https://www.csb.gov.kw/
+      - https://www.citra.gov.kw/
+      - https://www.cbk.gov.kw/
+      - https://www.knet.com.kw/
+  - country: Qatar
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-qatar
+      - https://www.data.gov.qa/
+      - https://www.data.gov.qa/api-console/explore/v2.1/
+      - https://www.psa.gov.qa/
+      - https://www.mcit.gov.qa/
+      - https://www.qcb.gov.qa/English/PolicyFrameWork/PaymentSystems/Pages/default.aspx
+  - country: Bahrain
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-bahrain
+      - https://www.data.gov.bh/
+      - https://www.iga.gov.bh/
+      - https://www.tra.org.bh/
+      - https://www.cbb.gov.bh/
+      - https://www.benefit.bh/
+  - country: Oman
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-oman
+      - https://data.gov.om/
+      - https://www.ncsi.gov.om/
+      - https://www.tra.gov.om/
+      - https://www.cbo.gov.om/Pages/PaymentSystems.aspx
+  - country: Jordan
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-jordan
+      - https://opendata.gov.jo/
+      - https://www.modee.gov.jo/
+      - https://www.trc.gov.jo/
+      - https://www.jopacc.com/
+      - https://www.efawateercom.jo/
+  - country: Lebanon
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-lebanon
+      - http://www.cas.gov.lb/
+      - https://www.bdl.gov.lb/
+      - https://www.mpt.gov.lb/
+  - country: Morocco
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-morocco
+      - https://www.data.gov.ma/
+      - https://www.anrt.ma/
+      - https://www.bkam.ma/
+      - https://www.cmi.co.ma/
+  - country: Tunisia
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-tunisia
+      - http://www.data.gov.tn/
+      - http://www.ins.tn/
+      - https://www.intt.tn/
+      - https://www.bct.gov.tn/bct/siteprod/page.jsp?id=60
+  - country: Algeria
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-algeria
+      - https://www.ons.dz/
+      - https://www.arpce.dz/
+      - https://www.bank-of-algeria.dz/
+      - https://www.giemonetique.dz/
+  - country: Iraq
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-iraq
+      - https://cosit.gov.iq/
+      - https://www.cmc.iq/
+      - https://cbiraq.org/
+  - country: Palestine
+    source_urls:
+      - https://datareportal.com/reports/digital-2026-palestine
+      - https://www.pcbs.gov.ps/
+      - https://www.pma.ps/en/PaymentSystems
+      - https://www.mtit.gov.ps/

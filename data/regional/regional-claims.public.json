@@ -1,0 +1,585 @@
+[
+  {
+    "id": "country-context-egypt-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Egypt",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Egypt, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-saudi-arabia-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Saudi Arabia",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Saudi Arabia, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-united-arab-emirates-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "United Arab Emirates",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For United Arab Emirates, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-kuwait-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Kuwait",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Kuwait, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-qatar-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Qatar",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Qatar, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-bahrain-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Bahrain",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Bahrain, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-oman-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Oman",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Oman, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-jordan-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Jordan",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Jordan, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-lebanon-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Lebanon",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Lebanon, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-morocco-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Morocco",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Morocco, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-tunisia-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Tunisia",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Tunisia, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-algeria-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Algeria",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Algeria, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-iraq-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Iraq",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Iraq, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "country-context-palestine-digital-signals",
+    "skill_id": "arab-market-context",
+    "country": "Palestine",
+    "region": "Arab world / MENA",
+    "segment": "business planning",
+    "channel": "market research",
+    "task": "country context",
+    "claim": "For Palestine, agents should use public digital, telecom, economic, and country sources as context signals and avoid treating aggregate indicators as individual behavior.",
+    "confidence": "high",
+    "evidence_type": "public_dataset",
+    "source_urls": [
+      "https://data.worldbank.org/",
+      "https://datahub.itu.int/",
+      "https://datareportal.com/",
+      "https://www.gsma.com/mobileeconomy/mena/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Source-backed signal, not a cultural rule.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  },
+  {
+    "id": "arabic-copy-dialect-draft-rule",
+    "skill_id": "arabic-copywriting-dialects",
+    "country": "Arab region",
+    "region": "Arab world / MENA",
+    "segment": "public copy",
+    "channel": "copywriting",
+    "task": "dialect choice",
+    "claim": "Dialect copy examples should be treated as drafts unless native review is completed for the target country, audience, and channel.",
+    "confidence": "high",
+    "evidence_type": "academic_source",
+    "source_urls": [
+      "https://camel.abudhabi.nyu.edu/madar/",
+      "https://nadi.dlnlp.ai/",
+      "https://github.com/YounesSamih/QADI",
+      "https://www.w3.org/International/alreq/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Dialect datasets support dialect variation, not native copy quality.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "draft_copy"
+    ],
+    "native_review_required": true,
+    "expert_review_required": false
+  },
+  {
+    "id": "product-localization-rtl-bidi-standards",
+    "skill_id": "mena-product-localization",
+    "country": "Arab region",
+    "region": "Arab world / MENA",
+    "segment": "product UX",
+    "channel": "app UI",
+    "task": "RTL and bidi QA",
+    "claim": "RTL and mixed Arabic-English interfaces should rely on Unicode bidi behavior, W3C Arabic layout guidance, and locale libraries rather than ad hoc text handling.",
+    "confidence": "high",
+    "evidence_type": "official_source",
+    "source_urls": [
+      "https://www.unicode.org/reports/tr9/",
+      "https://www.w3.org/International/alreq/",
+      "https://cldr.unicode.org/",
+      "https://formatjs.io/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Implementation standards are high confidence; final Arabic copy still needs native review.",
+    "safe_to_use_for": [
+      "draft_copy",
+      "strategic_recommendation"
+    ],
+    "native_review_required": true,
+    "expert_review_required": false
+  },
+  {
+    "id": "calendar-hijri-estimated-until-official",
+    "skill_id": "mena-cultural-calendar",
+    "country": "Arab region",
+    "region": "Arab world / MENA",
+    "segment": "campaign planning",
+    "channel": "calendar",
+    "task": "Ramadan and Eid planning",
+    "claim": "Future Ramadan and Eid dates should be marked estimated until an official country source confirms them.",
+    "confidence": "high",
+    "evidence_type": "open_source_library",
+    "source_urls": [
+      "https://date.nager.at/",
+      "https://www.npmjs.com/package/date-holidays",
+      "https://github.com/xsoh/moment-hijri"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Libraries are planning aids, not official religious or government confirmation.",
+    "safe_to_use_for": [
+      "internal_brainstorm",
+      "strategic_recommendation"
+    ],
+    "native_review_required": false,
+    "expert_review_required": true
+  },
+  {
+    "id": "pricing-vat-official-source-rule",
+    "skill_id": "mena-pricing-packaging",
+    "country": "GCC",
+    "region": "Arab world / MENA",
+    "segment": "pricing page",
+    "channel": "web",
+    "task": "VAT display",
+    "claim": "VAT display guidance should cite official tax sources for the target country or be marked as needs legal review.",
+    "confidence": "high",
+    "evidence_type": "official_source",
+    "source_urls": [
+      "https://zatca.gov.sa/en/RulesRegulations/VAT/Pages/default.aspx",
+      "https://www.nbr.gov.bh/vat_guidelines"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Official tax sources support compliance caution; they do not provide conversion advice.",
+    "safe_to_use_for": [
+      "draft_copy",
+      "strategic_recommendation"
+    ],
+    "native_review_required": false,
+    "expert_review_required": true
+  },
+  {
+    "id": "support-macro-policy-first-rule",
+    "skill_id": "mena-customer-support",
+    "country": "Arab region",
+    "region": "Arab world / MENA",
+    "segment": "customer support",
+    "channel": "WhatsApp and social messaging",
+    "task": "refund and delivery macros",
+    "claim": "Support macros should not promise refunds, delivery timelines, or compensation unless the user supplies the policy and the macro marks any review needs.",
+    "confidence": "medium",
+    "evidence_type": "official_source",
+    "source_urls": [
+      "https://developers.facebook.com/docs/whatsapp/"
+    ],
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "expires_at": "2026-11-21T13:53:38.063Z",
+    "notes": "Platform docs support messaging mechanics; company policy still controls promises.",
+    "safe_to_use_for": [
+      "support_macro",
+      "draft_copy"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true
+  }
+]

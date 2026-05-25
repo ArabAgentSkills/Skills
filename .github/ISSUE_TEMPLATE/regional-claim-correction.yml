@@ -1,0 +1,25 @@
+name: Regional claim correction
+description: Report an unsupported, stale, overbroad, or unsafe regional claim.
+title: "[Regional claim correction]: "
+labels: ["regional-intelligence", "claim-correction"]
+body:
+  - type: input
+    id: claim_id
+    attributes:
+      label: Claim id or file path
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is wrong?
+      description: Explain the scope, evidence issue, stereotype risk, stale source, or review-status problem.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Suggested public sources
+      description: Prefer official, academic, dataset, or source-backed evidence.
+    validations:
+      required: false

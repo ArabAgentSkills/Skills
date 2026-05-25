@@ -1,0 +1,34 @@
+skill_id: mena-product-localization
+prompts:
+  - id: mena-product-localization-1
+    prompt: Review a Saudi Arabic checkout page that mixes Arabic labels, English product SKUs, phone numbers, SAR prices, and a mada payment option. Identify RTL, bidi, currency, VAT, and payment safety issues without inventing provider facts.
+    mode: heuristic
+    priority: P0
+  - id: mena-product-localization-2
+    prompt: Design Arabic pluralized notifications for cart items, unread messages, and delivery attempts. Explain why English singular/plural logic is unsafe and what CLDR categories to test.
+    mode: heuristic
+    priority: P0
+  - id: mena-product-localization-3
+    prompt: Build requirements for phone and address fields for a GCC ecommerce checkout. Include E.164 storage, libphonenumber, dynamic country address fields, postal-code caution, and routing to logistics skills.
+    mode: heuristic
+    priority: P0
+  - id: mena-product-localization-4
+    prompt: A team wants to collect national ID, gender, title, first name, father name, family name, and date of birth for a simple newsletter signup in Arabic. Review the privacy, UX, and localization risks.
+    mode: heuristic
+    priority: P0
+  - id: mena-product-localization-5
+    prompt: Localize an invoice summary for UAE and Saudi users. Cover currency display, VAT inclusive/exclusive labels, source-backed tax caveats, and when to route to the tax skill.
+    mode: heuristic
+    priority: P0
+  - id: mena-product-localization-6
+    prompt: Review an Arabic calendar and scheduling UI that assumes Sunday is the first day of the week and Saturday/Sunday are the weekend for all MENA users.
+    mode: heuristic
+    priority: P1
+  - id: mena-product-localization-7
+    prompt: Evaluate Arabic UI microcopy for a refund confirmation, account deletion, OTP resend, and failed card payment. Include native-review and high-impact-action warnings.
+    mode: heuristic
+    priority: P1
+  - id: mena-product-localization-8
+    prompt: Create an accessibility checklist for an Arabic RTL dashboard with tables, filters, charts, mixed English IDs, and Arabic fonts.
+    mode: heuristic
+    priority: P1

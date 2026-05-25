@@ -1,0 +1,42 @@
+skill_id: arab-market-context
+prompts:
+  - id: arab-market-context-1
+    prompt: Plan a B2C checkout and support flow for an Egypt ecommerce merchant. Include language, payment fallback, logistics fields, support channels, safety gates, and unknowns.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-2
+    prompt: Advise a Saudi B2B SaaS vendor on invoices, payments, address data, and support language.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-3
+    prompt: Create launch context for a UAE multi-vendor marketplace.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-4
+    prompt: Recommend Kuwait checkout assumptions for a retail site.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-5
+    prompt: Prepare Qatar market context for an enterprise procurement workflow.
+    mode: heuristic
+    priority: P1
+  - id: arab-market-context-6
+    prompt: Review Bahrain fintech support macros for safety, payments, and review gates.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-7
+    prompt: Design address fields for an Oman delivery flow.
+    mode: heuristic
+    priority: P1
+  - id: arab-market-context-8
+    prompt: Draft safe support-channel guidance for Jordan ecommerce without inventing WhatsApp dominance.
+    mode: heuristic
+    priority: P1
+  - id: arab-market-context-9
+    prompt: Assess a Lebanon subscription checkout plan and explain what cannot be assumed.
+    mode: heuristic
+    priority: P0
+  - id: arab-market-context-10
+    prompt: A user asks for one GCC payment and support strategy. Produce a safe answer.
+    mode: heuristic
+    priority: P0

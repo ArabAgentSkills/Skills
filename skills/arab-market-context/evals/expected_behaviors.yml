@@ -1,0 +1,17 @@
+skill_id: arab-market-context
+expected_behaviors:
+  - Reads the relevant country file, source map, and evidence or confidence references before making country claims.
+  - Captures or asks for country, audience, channel, timeframe, and intended use when they are missing.
+  - Separates source-backed facts, planning hypotheses, unknowns, and review-required items.
+  - Uses source URLs, confidence labels, review status, and last-checked dates for factual country claims.
+  - Avoids sweeping claims about Arabs, MENA, GCC, nationalities, religions, dialect groups, gender, age, class, locals, or expats.
+  - Treats public statistics as planning signals, not individual-level traits or proof of channel preference.
+  - Flags native review for dialect, slang, humor, slogans, ads, public support macros, and cultural references.
+  - Flags expert review for legal, tax, privacy, survey, political, religious, identity, platform, and regulated claims.
+  - Routes payment, logistics, comms, tax, identity, open-data, and Arabic NLP implementation to the relevant skill.
+  - Requires explicit approval before live money movement, identity checks, tax submissions, customer-data changes, outbound sends, paid campaigns, audience uploads, or public publishing.
+category_safety_rules:
+  - High-confidence regional claims require source URLs, confidence metadata, and scope.
+  - Unsupported claims must be marked as hypotheses, unknowns, review-required, or do-not-use.
+  - No raw survey responses, reviewer PII, customer data, private screenshots, secrets, or private vendor docs in public output.
+  - Do not provide endpoint, pricing, compliance, payment rail, address API, support-channel dominance, or dialect claims without source or review.

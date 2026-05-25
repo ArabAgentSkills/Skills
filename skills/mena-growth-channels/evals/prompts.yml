@@ -1,0 +1,30 @@
+skill_id: mena-growth-channels
+prompts:
+  - id: mena-growth-channels-1
+    prompt: Pick first growth channels for a Saudi B2C ecommerce launch and explain what evidence supports each test.
+    mode: heuristic
+    priority: P0
+  - id: mena-growth-channels-2
+    prompt: Compare UAE and Egypt growth channels for a mobile app without inventing what works.
+    mode: heuristic
+    priority: P0
+  - id: mena-growth-channels-3
+    prompt: Build a WhatsApp commerce test plan for Egypt cart recovery.
+    mode: heuristic
+    priority: P0
+  - id: mena-growth-channels-4
+    prompt: Recommend search, SEO, and paid social experiments for a Moroccan marketplace.
+    mode: heuristic
+    priority: P1
+  - id: mena-growth-channels-5
+    prompt: Design a creator and marketplace channel test for a UAE ecommerce brand.
+    mode: heuristic
+    priority: P1
+  - id: mena-growth-channels-6
+    prompt: Select B2B growth channels for a Qatar HR SaaS product.
+    mode: heuristic
+    priority: P1
+  - id: mena-growth-channels-7
+    prompt: Create a partnership-led growth experiment for GCC enterprise SaaS.
+    mode: heuristic
+    priority: P1

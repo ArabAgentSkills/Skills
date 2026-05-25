@@ -1,0 +1,16 @@
+skill_id: mena-product-localization
+expected_behaviors:
+  - Reads the skill, sources, and targeted reference files before giving localization guidance.
+  - Names standard or library sources such as Unicode bidi, CLDR, W3C i18n, Intl, libphonenumber, and libaddressinput when relevant.
+  - Separates source-backed facts from assumptions, hypotheses, and `Unknown from public docs`.
+  - Includes RTL, bidi isolation, locale formatting, pluralization, phone, address, and accessibility checks when relevant.
+  - Routes high-risk payment, tax, logistics, identity, legal, and privacy work to the owning skill or expert review.
+  - Does not invent legal, tax, payment, identity, endpoint, national-ID, pricing, or compliance claims.
+  - Requires native review for public Arabic copy, dialect, slogans, support macros, and high-impact flows.
+  - Includes validation steps and explicit approval gates before publish, send, launch, or production changes.
+category_safety_rules:
+  - Keep canonical stored data separate from localized display values.
+  - Use sandbox or staging before production localization changes.
+  - Protect phone numbers, addresses, national IDs, payment references, secrets, and credentials.
+  - Mark unsupported regional claims as hypotheses or unknowns.
+  - Require explicit approval before live checkout, payment, tax, identity, outbound, or public-launch actions.

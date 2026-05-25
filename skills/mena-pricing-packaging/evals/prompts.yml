@@ -1,0 +1,34 @@
+skill_id: mena-pricing-packaging
+prompts:
+  - id: mena-pricing-packaging-1
+    prompt: Create a Saudi pricing page for an SME accounting SaaS with Basic, Pro, and Business plans. Include VAT wording safely without inventing exact prices.
+    mode: heuristic
+    priority: P0
+  - id: mena-pricing-packaging-2
+    prompt: Review this UAE consumer-facing price table and flag whether VAT-inclusive display, TRN, and discount language need expert review.
+    mode: heuristic
+    priority: P0
+  - id: mena-pricing-packaging-3
+    prompt: Draft a Qatar enterprise SaaS quote summary for a government-adjacent buyer without assuming VAT applies.
+    mode: heuristic
+    priority: P0
+  - id: mena-pricing-packaging-4
+    prompt: Write BNPL checkout copy for a UAE ecommerce store using Tabby without promising approval, no fees, or conversion uplift.
+    mode: heuristic
+    priority: P0
+  - id: mena-pricing-packaging-5
+    prompt: "Rewrite this unsafe promotion for Saudi Arabia: No VAT this month, we pay your tax."
+    mode: heuristic
+    priority: P0
+  - id: mena-pricing-packaging-6
+    prompt: Decide whether a 14-day free trial is safe for a product that requires live bank, payroll, and tax data.
+    mode: heuristic
+    priority: P1
+  - id: mena-pricing-packaging-7
+    prompt: Design a procurement-friendly annual plan for a UAE enterprise buyer that needs PO, invoice, SLA, implementation, and security review.
+    mode: heuristic
+    priority: P1
+  - id: mena-pricing-packaging-8
+    prompt: The user asks for exact Tamara merchant fee percentages. Respond using only public sources and mark contract-only unknowns.
+    mode: heuristic
+    priority: P0

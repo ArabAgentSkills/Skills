@@ -6,7 +6,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T05:03:27.792Z
+    last_checked_at: 2026-05-25T06:45:39.036Z
     source_urls:
       - https://www.bayzat.com/
       - https://www.bayzat.com/accounting-integration
@@ -15,7 +15,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T05:03:27.791Z
+    last_checked_at: 2026-05-25T06:45:39.036Z
     source_urls:
       - https://www.jisr.net/
       - https://openapi.jisr.net/index.html
@@ -24,7 +24,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T05:03:27.792Z
+    last_checked_at: 2026-05-25T06:45:39.036Z
     source_urls:
       - https://www.menaitech.com/
       - https://menaitech.com/en/
@@ -33,7 +33,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T05:03:27.792Z
+    last_checked_at: 2026-05-25T06:45:39.036Z
     source_urls:
       - https://www.palm.hr/
   - id: zenhr
@@ -41,7 +41,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T05:03:27.791Z
+    last_checked_at: 2026-05-25T06:45:39.036Z
     source_urls:
       - https://www.zenhr.com/
       - https://api-docs.zenhr.com/

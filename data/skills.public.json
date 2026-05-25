@@ -4,6 +4,7 @@
     "name": "MENA Payments",
     "description": "Use this skill when integrating, comparing, testing, or reviewing Arab/MENA payment gateways, checkout flows, payment links, refunds, captures, webhooks, sandbox credentials, and gateway selection across Egypt, GCC, Levant, and North Africa.",
     "category": "payments",
+    "skill_type": "infrastructure",
     "priority": "P0",
     "maturity": "alpha",
     "target_agents": [
@@ -29,6 +30,24 @@
       "tap-payments",
       "telr"
     ],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "Jordan",
+      "Morocco"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-payments/SKILL.md",
       "skills/mena-payments/sources.yml",
@@ -38,7 +57,7 @@
     "evals": [
       "skills/mena-payments/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "15 registry vendors. Facts must remain source-backed."
   },
@@ -47,6 +66,7 @@
     "name": "MENA BNPL",
     "description": "Use this skill when integrating or evaluating Arab/MENA buy-now-pay-later providers such as Tabby, Tamara, valU, Souhoola, Shahry, Postpay, Cashew, and related checkout, order, refund, and settlement workflows.",
     "category": "bnpl",
+    "skill_type": "infrastructure",
     "priority": "P0",
     "maturity": "alpha",
     "target_agents": [
@@ -64,6 +84,21 @@
       "tamara",
       "valu"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "Kuwait",
+      "Bahrain",
+      "Qatar"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-bnpl/SKILL.md",
       "skills/mena-bnpl/sources.yml",
@@ -73,7 +108,7 @@
     "evals": [
       "skills/mena-bnpl/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "7 registry vendors. Facts must remain source-backed."
   },
@@ -82,6 +117,7 @@
     "name": "MENA Logistics",
     "description": "Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, and fulfillment integrations for Aramex, Bosta, ShipBlu, OTO, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.",
     "category": "logistics",
+    "skill_type": "infrastructure",
     "priority": "P0",
     "maturity": "alpha",
     "target_agents": [
@@ -106,6 +142,23 @@
       "shipblu",
       "smsa-express"
     ],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "Jordan"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-logistics/SKILL.md",
       "skills/mena-logistics/sources.yml",
@@ -115,7 +168,7 @@
     "evals": [
       "skills/mena-logistics/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "14 registry vendors. Facts must remain source-backed."
   },
@@ -124,6 +177,7 @@
     "name": "MENA Communications",
     "description": "Use this skill when integrating Arab/MENA SMS, WhatsApp, voice, OTP, contact-center, and telephony APIs such as Unifonic, CEQUENS, Taqnyat, Msegat, Maqsam, ZIWO, YallaSMS, VictoryLink, and similar providers.",
     "category": "communications",
+    "skill_type": "infrastructure",
     "priority": "P0",
     "maturity": "alpha",
     "target_agents": [
@@ -142,6 +196,23 @@
       "yallasms",
       "ziwo"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "Jordan",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-comms/SKILL.md",
       "skills/mena-comms/sources.yml",
@@ -151,7 +222,7 @@
     "evals": [
       "skills/mena-comms/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "8 registry vendors. Facts must remain source-backed."
   },
@@ -160,6 +231,7 @@
     "name": "Arab E-Invoicing and Tax",
     "description": "Use this skill when working with Arab tax, e-invoicing, e-receipt, QR, clearance, reporting, and government tax APIs including Egypt ETA, Saudi ZATCA/Fatoora, Jordan JoFotara, UAE e-invoicing, Bahrain NBR, Oman Tax Authority, and provider integrations.",
     "category": "tax",
+    "skill_type": "infrastructure",
     "priority": "P0",
     "maturity": "alpha",
     "target_agents": [
@@ -180,6 +252,21 @@
       "wafeq-zatca-api",
       "zatca-fatoora-developer-portal"
     ],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "Jordan",
+      "UAE",
+      "Bahrain",
+      "Oman"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/arab-einvoicing-tax/SKILL.md",
       "skills/arab-einvoicing-tax/sources.yml",
@@ -189,7 +276,7 @@
     "evals": [
       "skills/arab-einvoicing-tax/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "10 registry vendors. Facts must remain source-backed."
   },
@@ -198,6 +285,7 @@
     "name": "MENA Commerce, POS, and Accounting",
     "description": "Use this skill when integrating Arab/MENA commerce, POS, accounting, inventory, order, invoice, or ERP APIs including Salla, Zid, Foodics, Daftra, Wafeq, Qoyod, Rewaa, Loyverse, and Shopify/Odoo regional integrations.",
     "category": "commerce-pos-accounting",
+    "skill_type": "infrastructure",
     "priority": "P1",
     "maturity": "alpha",
     "target_agents": [
@@ -216,6 +304,23 @@
       "wafeq",
       "zid"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman",
+      "Jordan"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-commerce-pos-accounting/SKILL.md",
       "skills/mena-commerce-pos-accounting/sources.yml",
@@ -225,7 +330,7 @@
     "evals": [
       "skills/mena-commerce-pos-accounting/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "8 registry vendors. Facts must remain source-backed."
   },
@@ -234,6 +339,7 @@
     "name": "MENA Open Banking",
     "description": "Use this skill when working with MENA open banking, open finance, account information, payments initiation, consent, aggregator, and regulatory API references such as Lean, Tarabut, Dapi, Salt Edge, UAE Open Finance, Saudi Open Banking, and Bahrain open banking.",
     "category": "open-banking",
+    "skill_type": "infrastructure",
     "priority": "P1",
     "maturity": "alpha",
     "target_agents": [
@@ -251,6 +357,22 @@
       "tarabut",
       "uae-open-finance-api-hub"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Bahrain",
+      "Kuwait",
+      "Qatar",
+      "Oman",
+      "Jordan"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-open-banking/SKILL.md",
       "skills/mena-open-banking/sources.yml",
@@ -260,7 +382,7 @@
     "evals": [
       "skills/mena-open-banking/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "7 registry vendors. Facts must remain source-backed."
   },
@@ -269,6 +391,7 @@
     "name": "Arab Identity and Government APIs",
     "description": "Use this skill when evaluating Arab identity, address, digital-government, national login, and government API marketplace integrations such as UAE PASS, Nafath, Yakeen, Saudi National Address, Makani, and UAE API Marketplace.",
     "category": "identity-government",
+    "skill_type": "infrastructure",
     "priority": "P1",
     "maturity": "alpha",
     "target_agents": [
@@ -286,6 +409,22 @@
       "yakeen",
       "yakeen-by-elm"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Egypt",
+      "Jordan",
+      "Qatar",
+      "Bahrain",
+      "Oman"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/arab-identity-gov/SKILL.md",
       "skills/arab-identity-gov/sources.yml",
@@ -295,7 +434,7 @@
     "evals": [
       "skills/arab-identity-gov/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "7 registry vendors. Facts must remain source-backed."
   },
@@ -304,6 +443,7 @@
     "name": "MENA HR and Payroll",
     "description": "Use this skill when integrating Arab/MENA HR, payroll, attendance, employee, benefits, and workforce APIs or source leads including ZenHR, Jisr, MenaITech, Bayzat, Palm.hr, and government workforce rails.",
     "category": "hr-payroll",
+    "skill_type": "infrastructure",
     "priority": "P2",
     "maturity": "draft",
     "target_agents": [
@@ -319,6 +459,23 @@
       "palm-hr",
       "zenhr"
     ],
+    "countries_covered": [
+      "Saudi Arabia",
+      "UAE",
+      "Jordan",
+      "Egypt",
+      "Kuwait",
+      "Bahrain",
+      "Qatar",
+      "Oman"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/mena-hr-payroll/SKILL.md",
       "skills/mena-hr-payroll/sources.yml",
@@ -328,7 +485,7 @@
     "evals": [
       "skills/mena-hr-payroll/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "5 registry vendors. Facts must remain source-backed."
   },
@@ -337,6 +494,7 @@
     "name": "Arabic NLP",
     "description": "Use this skill when selecting or applying Arabic NLP, tokenization, stemming, diacritization, morphological analysis, stopword, OCR, speech, or language-model tools including CAMeL Tools, Farasa, PyArabic, Tashaphyne, Qalsadi, and Arabic corpora.",
     "category": "arabic-nlp",
+    "skill_type": "infrastructure",
     "priority": "P2",
     "maturity": "alpha",
     "target_agents": [
@@ -353,6 +511,17 @@
       "qalsadi",
       "tashaphyne"
     ],
+    "countries_covered": [
+      "Arab region",
+      "MENA"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/arabic-nlp/SKILL.md",
       "skills/arabic-nlp/sources.yml",
@@ -362,7 +531,7 @@
     "evals": [
       "skills/arabic-nlp/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "6 registry vendors. Facts must remain source-backed."
   },
@@ -371,6 +540,7 @@
     "name": "Arab Open Data",
     "description": "Use this skill when discovering or integrating Arab open-data APIs, CKAN/Socrata portals, SPARQL endpoints, government datasets, bulk downloads, and transparency sources across GCC, Levant, Egypt, and North Africa.",
     "category": "open-data",
+    "skill_type": "infrastructure",
     "priority": "P2",
     "maturity": "draft",
     "target_agents": [
@@ -389,6 +559,25 @@
       "tunisia-open-data",
       "uae-bayanat"
     ],
+    "countries_covered": [
+      "UAE",
+      "Saudi Arabia",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Egypt",
+      "Jordan",
+      "Morocco",
+      "Tunisia",
+      "Algeria"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": false,
     "files": [
       "skills/arab-open-data/SKILL.md",
       "skills/arab-open-data/sources.yml",
@@ -398,8 +587,518 @@
     "evals": [
       "skills/arab-open-data/evals/prompts.yml"
     ],
-    "last_evaluated_at": "2026-05-24T07:12:52.658Z",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z",
     "eval_score": 100,
     "notes": "8 registry vendors. Facts must remain source-backed."
+  },
+  {
+    "id": "arab-market-context",
+    "name": "Arab Market Context",
+    "description": "Use this skill when launching, selling, supporting, localizing, planning, or operating in Arab/MENA markets and you need country context, source-backed signals, confidence labels, and anti-stereotype guardrails.",
+    "category": "market-context",
+    "skill_type": "regional-intelligence",
+    "priority": "P0",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/arab-market-context/SKILL.md",
+      "skills/arab-market-context/sources.yml",
+      "skills/arab-market-context/evals/prompts.yml",
+      "skills/arab-market-context/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arab-market-context/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "arabic-copywriting-dialects",
+    "name": "Arabic Copywriting and Dialects",
+    "description": "Use this skill when drafting or reviewing Arabic, MSA, dialect, bilingual, WhatsApp, SMS, ad, landing-page, support, sales, email, or product UI copy for Arab markets while marking native-review needs.",
+    "category": "copywriting-dialects",
+    "skill_type": "regional-intelligence",
+    "priority": "P0",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": false,
+    "files": [
+      "skills/arabic-copywriting-dialects/SKILL.md",
+      "skills/arabic-copywriting-dialects/sources.yml",
+      "skills/arabic-copywriting-dialects/evals/prompts.yml",
+      "skills/arabic-copywriting-dialects/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/arabic-copywriting-dialects/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-marketing-localization",
+    "name": "MENA Marketing Localization",
+    "description": "Use this skill when localizing campaigns, positioning, landing pages, offers, ads, influencers, email, WhatsApp flows, Ramadan/Eid plans, or trust signals for Arab/MENA markets.",
+    "category": "marketing-localization",
+    "skill_type": "regional-intelligence",
+    "priority": "P0",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-marketing-localization/SKILL.md",
+      "skills/mena-marketing-localization/sources.yml",
+      "skills/mena-marketing-localization/evals/prompts.yml",
+      "skills/mena-marketing-localization/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-marketing-localization/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-sales-playbooks",
+    "name": "MENA Sales Playbooks",
+    "description": "Use this skill when building B2B, SMB, enterprise, WhatsApp follow-up, outbound email, demo follow-up, objection handling, procurement, reseller, or government-adjacent sales workflows for Arab/MENA markets.",
+    "category": "sales-playbooks",
+    "skill_type": "regional-intelligence",
+    "priority": "P0",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-sales-playbooks/SKILL.md",
+      "skills/mena-sales-playbooks/sources.yml",
+      "skills/mena-sales-playbooks/evals/prompts.yml",
+      "skills/mena-sales-playbooks/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-sales-playbooks/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-product-localization",
+    "name": "MENA Product Localization",
+    "description": "Use this skill when reviewing or adapting product UX for Arab/MENA users, including RTL, bidi text, Arabic UI copy, locale formatting, phone/address forms, names, currency, VAT, checkout, calendars, weekends, privacy, and ID fields.",
+    "category": "product-localization",
+    "skill_type": "regional-intelligence",
+    "priority": "P0",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "high",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-product-localization/SKILL.md",
+      "skills/mena-product-localization/sources.yml",
+      "skills/mena-product-localization/evals/prompts.yml",
+      "skills/mena-product-localization/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-product-localization/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-customer-support",
+    "name": "MENA Customer Support",
+    "description": "Use this skill when writing or reviewing Arab/MENA support macros, WhatsApp replies, bilingual support, payment issues, refunds, COD, delivery delays, complaint de-escalation, OTP/account verification, subscriptions, and escalation rules.",
+    "category": "customer-support",
+    "skill_type": "regional-intelligence",
+    "priority": "P1",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-customer-support/SKILL.md",
+      "skills/mena-customer-support/sources.yml",
+      "skills/mena-customer-support/evals/prompts.yml",
+      "skills/mena-customer-support/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-customer-support/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-cultural-calendar",
+    "name": "MENA Cultural Calendar",
+    "description": "Use this skill when planning campaigns, launches, support staffing, logistics, or content around Arab/MENA Ramadan, Eid, Hajj, national days, public holidays, school seasons, and commercial calendars.",
+    "category": "cultural-calendar",
+    "skill_type": "regional-intelligence",
+    "priority": "P1",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": false,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-cultural-calendar/SKILL.md",
+      "skills/mena-cultural-calendar/sources.yml",
+      "skills/mena-cultural-calendar/evals/prompts.yml",
+      "skills/mena-cultural-calendar/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-cultural-calendar/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-growth-channels",
+    "name": "MENA Growth Channels",
+    "description": "Use this skill when selecting and testing acquisition channels in Arab/MENA markets, including paid social, search, Arabic SEO, WhatsApp commerce, creators, affiliates, partnerships, marketplaces, app stores, and B2B communities.",
+    "category": "growth-channels",
+    "skill_type": "regional-intelligence",
+    "priority": "P1",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-growth-channels/SKILL.md",
+      "skills/mena-growth-channels/sources.yml",
+      "skills/mena-growth-channels/evals/prompts.yml",
+      "skills/mena-growth-channels/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-growth-channels/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-pricing-packaging",
+    "name": "MENA Pricing and Packaging",
+    "description": "Use this skill when adapting pricing pages, offers, packages, quote flows, VAT/currency display, installments, discounts, trials, freemium, procurement-friendly plans, or affordability framing for Arab/MENA markets.",
+    "category": "pricing-packaging",
+    "skill_type": "regional-intelligence",
+    "priority": "P2",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-pricing-packaging/SKILL.md",
+      "skills/mena-pricing-packaging/sources.yml",
+      "skills/mena-pricing-packaging/evals/prompts.yml",
+      "skills/mena-pricing-packaging/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-pricing-packaging/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
+  },
+  {
+    "id": "mena-partnerships-distribution",
+    "name": "MENA Partnerships and Distribution",
+    "description": "Use this skill when designing Arab/MENA reseller, agency, system integrator, telco, bank, payment, logistics, chamber, SME ecosystem, government-adjacent, partner pitch, or co-marketing strategies.",
+    "category": "partnerships-distribution",
+    "skill_type": "regional-intelligence",
+    "priority": "P2",
+    "maturity": "draft",
+    "target_agents": [
+      "codex",
+      "claude",
+      "openclaw",
+      "generic"
+    ],
+    "vendors": [],
+    "countries_covered": [
+      "Egypt",
+      "Saudi Arabia",
+      "UAE",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "source_confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "native_review_required": true,
+    "expert_review_required": true,
+    "files": [
+      "skills/mena-partnerships-distribution/SKILL.md",
+      "skills/mena-partnerships-distribution/sources.yml",
+      "skills/mena-partnerships-distribution/evals/prompts.yml",
+      "skills/mena-partnerships-distribution/evals/expected_behaviors.yml"
+    ],
+    "evals": [
+      "skills/mena-partnerships-distribution/evals/prompts.yml"
+    ],
+    "eval_score": 100,
+    "notes": "14 country contexts. Regional claims must stay scoped, source-backed, and review-labeled.",
+    "last_evaluated_at": "2026-05-25T13:55:02.669Z"
   }
 ]

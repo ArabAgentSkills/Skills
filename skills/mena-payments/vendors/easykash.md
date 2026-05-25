@@ -9,7 +9,7 @@
 - Postman: Unknown from public docs
 - SDKs: Unknown from public docs
 - GitHub: Unknown from public docs
-- Last checked: 2026-05-25T05:03:27.783Z
+- Last checked: 2026-05-25T06:45:39.029Z
 - Docs access: unknown
 - Docs confidence: C
 - Notes: Public product info; API docs need direct vendor access or deeper crawl.

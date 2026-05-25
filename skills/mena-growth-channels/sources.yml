@@ -1,0 +1,146 @@
+skill_id: mena-growth-channels
+generated_from:
+  - research/regional-intelligence/03-marketing-growth.md
+  - research/regional-intelligence/07-cultural-calendar.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_checked_at: 2026-05-25T00:00:00.000Z
+source_quality_model:
+  A: Official government, regulator, standards, or platform policy/mechanics source.
+  B: Credible country report, market report, or professional source; use as a planning signal.
+  C: Directional or weak evidence; use as hypothesis only.
+  unknown: Evidence is missing or stale.
+  needs_expert_review: Public evidence is insufficient for final local, legal, cultural, religious, or media-buying judgment.
+source_groups:
+  - id: digital-country-baselines
+    type: country_report
+    confidence: B
+    use: Directional internet, social, and mobile context for channel hypotheses.
+    caveat: Do not treat social media user identities, mobile connections, or ad reach as unique people or guaranteed addressable demand.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-saudi-arabia
+      - https://datareportal.com/reports/digital-2025-united-arab-emirates
+      - https://datareportal.com/reports/digital-2025-egypt
+      - https://datareportal.com/reports/digital-2025-morocco
+      - https://datareportal.com/reports/digital-2025-qatar
+      - https://datareportal.com/reports/digital-2025-kuwait
+      - https://datareportal.com/reports/digital-2025-jordan
+      - https://datareportal.com/reports/digital-2025-oman
+  - id: platform-channel-mechanics
+    type: platform_docs
+    confidence: A
+    use: Paid social, search, SEO, language, targeting, landing-page, and ad policy mechanics.
+    caveat: Mechanics are not performance proof; recheck before launch.
+    source_urls:
+      - https://developers.google.com/search/docs/advanced/crawling/managing-multi-regional-sites
+      - https://support.google.com/google-ads/answer/6333734?hl=en
+      - https://support.google.com/adspolicy/answer/143465?hl=en
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://ads.us.tiktok.com/help/article/location-targeting?lang=en&redirected=2
+      - https://ads.tiktok.com/help/article/ad-targeting?lang=en
+      - https://www.linkedin.com/help/linkedin/answer/a424655/targeting-options-and-best-practices-for-linkedin-advertisements?lang=en
+  - id: direct-marketing-whatsapp
+    type: platform_and_regulator
+    confidence: A
+    use: WhatsApp mechanics, direct marketing consent, pricing, quality, template, and opt-out checks.
+    caveat: Requires local legal/privacy and WABA operations review before live send.
+    source_urls:
+      - https://developers.facebook.com/docs/whatsapp/cloud-api
+      - https://developers.facebook.com/docs/whatsapp/message-templates
+      - https://developers.facebook.com/docs/whatsapp/pricing
+      - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws.
+      - https://pdpc.gov.eg/
+      - https://dgp.sdaia.gov.sa/
+  - id: creator-disclosure
+    type: platform_policy
+    confidence: A
+    use: Creator disclosure and paid promotion mechanics.
+    caveat: Local disclosure law and creator contracts require expert review.
+    source_urls:
+      - https://www.tiktok.com/legal/page/global/bc-policy/en
+      - https://www.facebook.com/help/instagram/616901995832907?locale=en_GB
+      - https://support.google.com/youtube/answer/10588440?hl=en-EN
+channel_notes:
+  - id: sa-mobile-first-channel-hypothesis
+    countries: [Saudi Arabia]
+    segments: [B2C, ecommerce, app, SaaS]
+    channels: [paid_social, search, mobile_web]
+    confidence: B
+    evidence: DataReportal and Saudi regulator/statistics sources support high digital connectivity and digital-economy context as planning signals.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-saudi-arabia
+      - https://www.cst.gov.sa/en/media-center/news/N2025051200/
+      - https://www.stats.gov.sa/documents/20117/2435267/Digital%2BEconomy%2BStatistics%2B2024%2B-%2BEN.pdf/a2c616bb-fddc-905a-f021-e5218c1d27d0?t=1767157845607
+    agent_implication: Prioritize mobile QA and small paid/search tests; do not infer a universal best channel.
+    review_status: needs_native_review
+  - id: uae-ecommerce-channel-trust-hypothesis
+    countries: [United Arab Emirates]
+    segments: [ecommerce, marketplace, app]
+    channels: [search, paid_social, landing_page, marketplace]
+    confidence: B
+    evidence: DataReportal gives digital baseline; EZDubai/Euromonitor release supports ecommerce context and mentions payment, logistics, and returns.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-united-arab-emirates
+      - https://www.dubaisouth.ae/en/newsroom/ezdubai-uae-e-commerce-market-continues-to-grow-reaches-aed-323-billion-in-2024
+    agent_implication: Test channels with localized payment, delivery, returns, and support trust signals.
+    review_status: needs_expert_review
+  - id: eg-ramadan-channel-planning
+    countries: [Egypt]
+    segments: [B2C, ecommerce, app, content]
+    channels: [social, search, mobile_web, ramadan_calendar]
+    confidence: A
+    evidence: NTRA Ramadan 2024 usage index supports Egypt-specific Ramadan digital behavior change.
+    source_urls:
+      - https://www.tra.gov.eg/en/ntra-releases-internet-usage-index-within-single-day-in-ramadan-of-2024/
+      - https://datareportal.com/reports/digital-2025-egypt
+    agent_implication: Build Egypt-specific Ramadan hypotheses and fresh tests; do not generalize to all countries.
+    review_status: needs_native_review
+  - id: ma-search-seo-language-hypothesis
+    countries: [Morocco]
+    segments: [B2C, ecommerce, SaaS, public_services]
+    channels: [search, seo, paid_social]
+    confidence: needs_expert_review
+    evidence: DataReportal and Morocco Digital 2030 support digital context; they do not decide Arabic/French/English channel or keyword priority.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-morocco
+      - https://www.maroc.ma/en/strategies-and-public-policies/digital-morocco-2030
+      - https://developers.google.com/search/docs/advanced/crawling/managing-multi-regional-sites
+    agent_implication: Run language-specific SERP/keyword tests and native review before channel allocation.
+    review_status: needs_native_review
+  - id: qa-b2b-linkedin-search-test
+    countries: [Qatar]
+    segments: [B2B, SaaS, expat_services]
+    channels: [linkedin_ads, search, landing_page]
+    confidence: needs_expert_review
+    evidence: DataReportal provides digital baseline; LinkedIn docs provide location and profile-language mechanics.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-qatar
+      - https://www.linkedin.com/help/linkedin/answer/a424655/targeting-options-and-best-practices-for-linkedin-advertisements?lang=en
+    agent_implication: Test LinkedIn and search separately with documented English/Arabic assumptions and local B2B review.
+    review_status: needs_expert_review
+  - id: all-markets-whatsapp-commerce-gate
+    countries: [Multi-market Arab/MENA]
+    segments: [ecommerce, app, SaaS, marketplace]
+    channels: [whatsapp, crm, direct_marketing]
+    confidence: A
+    evidence: WhatsApp docs define platform mechanics; UAE, Egypt, and Saudi privacy source leads require consent/legal review for direct marketing.
+    source_urls:
+      - https://developers.facebook.com/docs/whatsapp/cloud-api
+      - https://developers.facebook.com/docs/whatsapp/message-templates
+      - https://developers.facebook.com/docs/whatsapp/pricing
+      - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws.
+      - https://pdpc.gov.eg/
+      - https://dgp.sdaia.gov.sa/
+    agent_implication: Do not send; require opt-in, template, pricing, quality/rate-limit, unsubscribe, privacy review, and approval.
+    review_status: needs_expert_review
+  - id: all-markets-creator-channel-gate
+    countries: [Multi-market Arab/MENA]
+    segments: [B2C, ecommerce, app, marketplace]
+    channels: [creators, influencers, paid_social]
+    confidence: A
+    evidence: TikTok, Instagram, and YouTube official docs support disclosure and paid promotion mechanics.
+    source_urls:
+      - https://www.tiktok.com/legal/page/global/bc-policy/en
+      - https://www.facebook.com/help/instagram/616901995832907?locale=en_GB
+      - https://support.google.com/youtube/answer/10588440?hl=en-EN
+    agent_implication: Include disclosure, rights, claims review, whitelisting terms, and local legal/platform review in creator tests.
+    review_status: needs_expert_review

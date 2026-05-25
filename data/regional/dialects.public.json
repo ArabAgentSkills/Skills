@@ -1,0 +1,119 @@
+[
+  {
+    "id": "modern-standard-arabic",
+    "language": "Arabic",
+    "dialect": "Modern Standard Arabic",
+    "countries": [
+      "Arab region"
+    ],
+    "safe_for": [
+      "formal draft",
+      "government-adjacent draft",
+      "product UI draft",
+      "support baseline"
+    ],
+    "not_safe_for": [
+      "claiming local dialect fit",
+      "high-stakes legal copy without expert review"
+    ],
+    "confidence": "high",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "source_urls": [
+      "https://www.w3.org/International/alreq/",
+      "https://cldr.unicode.org/"
+    ],
+    "native_review_required": true,
+    "notes": "Useful safer default for broad Arabic copy; native review still required for public brand copy."
+  },
+  {
+    "id": "egyptian-arabic-draft",
+    "language": "Arabic",
+    "dialect": "Egyptian Arabic draft",
+    "countries": [
+      "Egypt"
+    ],
+    "safe_for": [
+      "internal brainstorm",
+      "draft WhatsApp copy"
+    ],
+    "not_safe_for": [
+      "public brand copy without native review",
+      "legal or regulated copy"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "source_urls": [
+      "https://camel.abudhabi.nyu.edu/madar/",
+      "https://nadi.dlnlp.ai/",
+      "https://github.com/YounesSamih/QADI"
+    ],
+    "native_review_required": true,
+    "notes": "Dialect research supports variation; it does not certify generated copy as natural."
+  },
+  {
+    "id": "gulf-arabic-draft",
+    "language": "Arabic",
+    "dialect": "Gulf Arabic draft",
+    "countries": [
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman"
+    ],
+    "safe_for": [
+      "internal brainstorm",
+      "draft WhatsApp copy"
+    ],
+    "not_safe_for": [
+      "country-specific public brand copy without local native review"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "source_urls": [
+      "https://camel.abudhabi.nyu.edu/madar/",
+      "https://nadi.dlnlp.ai/",
+      "https://github.com/YounesSamih/QADI"
+    ],
+    "native_review_required": true,
+    "notes": "Do not collapse Gulf markets into one dialect for public copy."
+  },
+  {
+    "id": "maghrebi-arabic-caution",
+    "language": "Arabic",
+    "dialect": "Maghrebi Arabic caution",
+    "countries": [
+      "Morocco",
+      "Tunisia",
+      "Algeria"
+    ],
+    "safe_for": [
+      "internal brainstorm",
+      "MSA or bilingual alternative recommendation"
+    ],
+    "not_safe_for": [
+      "unreviewed dialect copy"
+    ],
+    "confidence": "low",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "source_urls": [
+      "https://camel.abudhabi.nyu.edu/madar/",
+      "https://nadi.dlnlp.ai/"
+    ],
+    "native_review_required": true,
+    "notes": "Prefer MSA/French/bilingual options until local native review is available."
+  }
+]

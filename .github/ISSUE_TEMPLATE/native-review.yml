@@ -1,0 +1,48 @@
+name: Native review
+description: Review Arabic, dialect, or bilingual copy for a scoped skill item.
+title: "[Native review]: "
+labels: ["regional-intelligence", "native-review"]
+body:
+  - type: input
+    id: item
+    attributes:
+      label: Skill, country, or file
+      placeholder: skills/arabic-copywriting-dialects/references/...
+    validations:
+      required: true
+  - type: dropdown
+    id: country
+    attributes:
+      label: Country or scope
+      options:
+        - Arab region
+        - Egypt
+        - Saudi Arabia
+        - United Arab Emirates
+        - Kuwait
+        - Qatar
+        - Bahrain
+        - Oman
+        - Jordan
+        - Lebanon
+        - Morocco
+        - Tunisia
+        - Algeria
+        - Iraq
+        - Palestine
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language or dialect
+      placeholder: MSA, Egyptian Arabic, Gulf Arabic, bilingual Arabic-English
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Public review notes
+      description: Do not include private reviewer PII.
+    validations:
+      required: true

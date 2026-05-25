@@ -1,0 +1,39 @@
+name: Country context update
+description: Suggest a source-backed update to a country context pack.
+title: "[Country context]: "
+labels: ["regional-intelligence", "country-context"]
+body:
+  - type: dropdown
+    id: country
+    attributes:
+      label: Country
+      options:
+        - Egypt
+        - Saudi Arabia
+        - United Arab Emirates
+        - Kuwait
+        - Qatar
+        - Bahrain
+        - Oman
+        - Jordan
+        - Lebanon
+        - Morocco
+        - Tunisia
+        - Algeria
+        - Iraq
+        - Palestine
+    validations:
+      required: true
+  - type: textarea
+    id: update
+    attributes:
+      label: Proposed update
+      description: Scope the update by segment, channel, and task. Avoid broad cultural claims.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Public source URLs
+    validations:
+      required: true

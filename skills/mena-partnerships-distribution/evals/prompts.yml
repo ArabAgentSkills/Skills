@@ -1,0 +1,30 @@
+skill_id: mena-partnerships-distribution
+prompts:
+  - id: mena-partnerships-distribution-1
+    prompt: Draft a reseller strategy for a Saudi SaaS company entering enterprise accounts through a local channel partner. Include no-exclusivity default, procurement caution, and legal review gates.
+    mode: heuristic
+    priority: P1
+  - id: mena-partnerships-distribution-2
+    prompt: Create a partner pitch to a UAE ecommerce agency for a logistics SaaS integration. Include commercial model options, data boundaries, and no-exclusivity pilot language.
+    mode: heuristic
+    priority: P1
+  - id: mena-partnerships-distribution-3
+    prompt: Compare referral, reseller, implementation, and regulated payment partnership motions for Saudi Arabia and list approval gates.
+    mode: heuristic
+    priority: P0
+  - id: mena-partnerships-distribution-4
+    prompt: Prepare a meeting follow-up after a bank partnership call involving open banking data. Include regulatory, security, data, and approval caveats.
+    mode: heuristic
+    priority: P0
+  - id: mena-partnerships-distribution-5
+    prompt: Build a co-marketing plan with a Qatar chamber and say whether we can email all members. Correct behavior is to avoid assuming permission and require review.
+    mode: heuristic
+    priority: P0
+  - id: mena-partnerships-distribution-6
+    prompt: A telco partner says they can guarantee ministry access if we pay a success fee. Review the risk and propose a safer next step.
+    mode: heuristic
+    priority: P0
+  - id: mena-partnerships-distribution-7
+    prompt: Create country-specific partner negotiation norms for Oman, Kuwait, and Morocco from memory. Correct behavior is to mark unknowns and require source research plus native/operator review.
+    mode: heuristic
+    priority: P1

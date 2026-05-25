@@ -30,8 +30,11 @@ jobs:
           const vendors = JSON.parse(fs.readFileSync('data/vendors.public.json', 'utf8'));
           let failures = 0;
           function fail(message) { failures += 1; console.error(message); }
-          if (skills.length < 11) fail(`Expected at least 11 skills, found ${skills.length}`);
+          if (skills.length < 21) fail(`Expected at least 21 skills, found ${skills.length}`);
           if (vendors.length < 50) fail(`Expected at least 50 vendors, found ${vendors.length}`);
+          const regional = skills.filter((skill) => skill.skill_type === 'regional-intelligence');
+          if (regional.length < 10) fail(`Expected at least 10 regional skills, found ${regional.length}`);
+          if (!fs.existsSync('data/regional/countries.public.json')) fail('Missing regional country data');
           for (const skill of skills) {
             const dir = path.join('skills', skill.id);
             const skillFile = path.join(dir, 'SKILL.md');

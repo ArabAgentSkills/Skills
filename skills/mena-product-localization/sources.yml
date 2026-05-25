@@ -1,0 +1,66 @@
+skill_id: mena-product-localization
+generated_from:
+  - research/regional-intelligence/06-product-localization.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_researched_at: 2026-05-25
+source_groups:
+  - id: standards-and-locale-data
+    confidence: A
+    notes: Primary standards for bidi, CLDR, Arabic layout, accessibility, and language tags.
+    source_urls:
+      - https://www.unicode.org/reports/tr9/
+      - https://www.unicode.org/reports/tr35/
+      - https://www.unicode.org/cldr/charts/latest/supplemental/language_plural_rules.html
+      - https://www.unicode.org/reports/tr35/tr35-numbers.html
+      - https://www.unicode.org/reports/tr35/tr35-dates.html
+      - https://www.w3.org/TR/alreq/
+      - https://www.w3.org/International/articles/inline-bidi-markup/
+      - https://www.w3.org/International/questions/qa-html-dir
+      - https://www.w3.org/International/articles/language-tags/
+      - https://www.w3.org/International/questions/qa-personal-names
+      - https://www.w3.org/TR/WCAG22/
+      - https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_logical_properties_and_values
+  - id: platform-and-library-docs
+    confidence: A
+    notes: Use these for locale formatting, plurals, phone parsing, and country address metadata.
+    source_urls:
+      - https://github.com/google/libphonenumber
+      - https://github.com/google/libaddressinput
+      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/NumberFormat
+      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/DateTimeFormat
+      - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Intl/PluralRules
+      - https://tc39.es/ecma402/
+      - https://www.i18next.com/translation-function/plurals
+      - https://www.i18next.com/overview/api#dir
+      - https://www.i18next.com/translation-function/formatting
+      - https://formatjs.github.io/docs/intl/
+      - https://formatjs.github.io/docs/core-concepts/icu-syntax/
+  - id: tax-payments-logistics-identity-routing
+    confidence: B
+    notes: Use for routing and risk detection. Do not make compliance claims without the owning skill and expert review.
+    source_urls:
+      - https://zatca.gov.sa/en/E-Invoicing/SystemsDevelopers/Pages/default.aspx
+      - https://zatca.gov.sa/en/E-Invoicing/Pages/default.aspx
+      - https://tax.gov.ae/en/e-invoicing.aspx
+      - https://tax.gov.ae/en/vat.aspx
+      - https://sdk.invoicing.eta.gov.eg/
+      - https://www.nbr.gov.bh/
+      - https://paymentservices.amazon.com/docs/
+      - https://docs.paymob.com/
+      - https://developer.fawrystaging.com/docs/
+      - https://docs.moyasar.com/
+      - https://developers.tap.company/reference/
+      - https://splonline.com.sa/en/national-address-api/
+      - https://apiportal.government.ae/
+      - https://docs.uaepass.ae/
+      - https://www.iam.gov.sa/
+  - id: privacy-consumer-and-safety
+    confidence: B
+    notes: Use as high-level risk context, not jurisdiction-specific legal advice.
+    source_urls:
+      - https://dgp.sdaia.gov.sa/
+      - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws
+      - https://mc.gov.sa/
+      - https://www.moec.gov.ae/en/consumer-protection
+      - https://www.nist.gov/itl/ai-risk-management-framework
+      - https://transparency.meta.com/policies/ad-standards/

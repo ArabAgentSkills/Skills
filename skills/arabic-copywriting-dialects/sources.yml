@@ -1,0 +1,97 @@
+skill_id: arabic-copywriting-dialects
+generated_from:
+  - research/regional-intelligence/02-arabic-copy-dialects.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_checked_at: 2026-05-25T00:00:00.000Z
+source_groups:
+  - id: dialect_nlp_and_datasets
+    confidence: B
+    use_for:
+      - dialect routing
+      - evaluation framing
+      - NLP preprocessing caveats
+    do_not_use_for:
+      - native-quality copy claims
+      - commercial tone rules
+      - legal or cultural approval
+    source_urls:
+      - https://camel-tools.readthedocs.io/en/stable/
+      - https://camel-tools.readthedocs.io/en/stable/api/dialectid.html
+      - https://github.com/CAMeL-Lab
+      - https://camel.abudhabi.nyu.edu/madar/
+      - https://aclanthology.org/W19-4602/
+      - https://aclanthology.org/L18-1535/
+      - https://nadi.dlnlp.ai/
+      - https://aclanthology.org/2024.wanlp-1.23.pdf
+      - https://aclanthology.org/2020.wanlp-1.14.pdf
+      - https://github.com/YounesSamih/QADI
+      - https://pyarabic.readthedocs.io/
+      - https://github.com/linuxscout/pyarabic
+      - https://github.com/linuxscout/tashaphyne
+      - https://farasa.qcri.org/
+      - https://github.com/qcri/FarasaSegmenter
+  - id: rtl_i18n_and_locale_standards
+    confidence: A
+    use_for:
+      - RTL and bidi behavior
+      - locale tags
+      - numbers, dates, currency, and plural handling
+      - HTML direction guidance
+    source_urls:
+      - https://www.unicode.org/reports/tr9/
+      - https://www.w3.org/TR/alreq/
+      - https://www.w3.org/International/questions/qa-html-dir
+      - https://www.w3.org/International/articles/inline-bidi-markup/
+      - https://cldr.unicode.org/
+      - https://unicode.org/cldr/charts/44/summary/ar.html
+      - https://www.i18next.com/overview/api
+      - https://www.i18next.com/translation-function/essentials
+      - https://formatjs.github.io/docs/core-concepts/icu-syntax
+      - https://formatjs.github.io/docs/intl-messageformat/
+  - id: channel_and_platform_docs
+    confidence: A
+    use_for:
+      - platform mechanics
+      - message templates
+      - character and preview constraints
+      - editorial and app-store review considerations
+    source_urls:
+      - https://whatsappbusiness.com/policy/
+      - https://developers.facebook.com/docs/whatsapp/business-management-api/message-templates/
+      - https://www.twilio.com/docs/glossary/what-sms-character-limit
+      - https://support.google.com/google-ads/answer/7684791
+      - https://support.google.com/adspolicy/answer/6021546
+      - https://support.google.com/googleplay/android-developer/answer/9844778
+      - https://support.google.com/googleplay/android-developer/answer/1078870
+      - https://developer.apple.com/localization/
+      - https://developer.apple.com/design/human-interface-guidelines/notifications
+  - id: safety_review_and_research_ethics
+    confidence: A
+    use_for:
+      - anti-stereotype rules
+      - privacy and consent gates
+      - source confidence
+      - marketing manipulation boundaries
+    source_urls:
+      - https://www.nist.gov/itl/ai-risk-management-framework
+      - https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+      - https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence?hub=66973
+      - https://www.oecd.org/en/topics/ai-principles.html
+      - https://www.nist.gov/privacy-framework
+      - https://iccwbo.org/news-publications/business-solutions/iccesomar-international-code-market-opinion-social-research-data-analytics/
+      - https://aapor.org/standards-and-ethics/
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://support.google.com/adspolicy/answer/143465
+      - https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides
+      - https://www.un.org/en/gender-inclusive-language/guidelines.shtml
+unknown_markers:
+  - Unknown from public docs
+  - Needs native review
+  - Needs expert review
+  - Needs platform/account access
+  - Do not use without local review
+review_tiers:
+  - safe_for_draft
+  - native_review_required
+  - high_risk_brand_copy
+  - do_not_use_without_local_review

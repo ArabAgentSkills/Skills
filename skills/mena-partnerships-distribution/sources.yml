@@ -1,0 +1,103 @@
+skill_id: mena-partnerships-distribution
+generated_from:
+  - research/regional-intelligence/04-sales-partnerships.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_checked_at: 2026-05-25T00:00:00.000Z
+source_policy:
+  high_confidence_use: official procurement, regulator, privacy, platform, and country-guide constraints
+  medium_confidence_use: public partner-program examples and ecosystem discovery
+  low_confidence_use: relationship norms, partner acceptance likelihood, local etiquette, and negotiation style require native/operator or legal review
+unknown_markers:
+  - Unknown from public docs
+  - Needs native/operator review
+  - Needs local legal review
+  - Needs regulator review
+  - Needs security review
+  - Needs procurement review
+sources:
+  - id: ita-country-commercial-guides
+    name: International Trade Administration country commercial guides
+    type: country_commercial_guide
+    confidence: A
+    use_for: country-specific distribution, agent, and procurement caveats with exporter-lens limitations
+    source_urls:
+      - https://www.trade.gov/country-commercial-guides/saudi-arabia-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/united-arab-emirates-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/egypt-distribution-and-sales-channels
+      - https://www.trade.gov/country-commercial-guides/qatar-distribution-and-sales-channels
+  - id: procurement-portals
+    name: Official procurement portals
+    type: government_portal
+    confidence: A
+    use_for: public-sector and semi-government procurement caution
+    source_urls:
+      - https://etimad.sa/
+      - https://www.mof.gov.sa/en/tenders/Pages/default.aspx
+      - https://mof.gov.ae/digital-procurement-platform/
+      - https://mof.gov.ae/supplier-registration/
+      - https://monaqasat.mof.gov.qa/
+      - https://etendering.tenderboard.gov.om/
+  - id: payments-partner-programs
+    name: Public payment partner examples
+    type: partner_program_page
+    confidence: B
+    use_for: examples of payment ecosystem partner motions, not proof of terms or acceptance
+    source_urls:
+      - https://paymentservices.amazon.com/partners
+      - https://www.paytabs.com/en/partners/
+      - https://www.hyperpay.com/partners/
+      - https://www.tap.company/partners
+  - id: open-banking-regulators
+    name: Open banking and open finance regulator references
+    type: regulator_page
+    confidence: A
+    use_for: regulated partnership caution and approval gates
+    source_urls:
+      - https://www.sama.gov.sa/en-US/News/Pages/news-794.aspx
+      - https://sama.gov.sa/en-US/MediaCenter/News/pages/news-1135.aspx
+      - https://www.cbb.gov.bh/open-banking/
+      - https://www.centralbank.ae/en/our-operations/fintech-and-digital-transformation/open-finance/
+  - id: telco-ecosystem
+    name: Telco and communications ecosystem examples
+    type: ecosystem_or_partner_page
+    confidence: B
+    use_for: telecom and communications ecosystem context, not telecom legal advice
+    source_urls:
+      - https://www.gsma.com/solutions-and-impact/technologies/gsma-open-gateway/
+      - https://www.unifonic.com/
+      - https://www.cequens.com/
+  - id: logistics-ecosystem
+    name: Logistics ecosystem examples
+    type: ecosystem_or_partner_page
+    confidence: B
+    use_for: examples of logistics and ecommerce delivery ecosystem integrations
+    source_urls:
+      - https://www.aramex.com/
+      - https://www.aramex.com/developers
+      - https://tryoto.com/
+      - https://bosta.co/
+  - id: chambers-and-business-networks
+    name: Chambers and business networks
+    type: chamber_source
+    confidence: B
+    use_for: channel discovery and co-marketing context, not permission to contact members
+    source_urls:
+      - https://www.dubaichambers.com/
+      - https://www.dubaichambers.com/en/services
+      - https://www.dubaichambers.com/en/membership/business-groups-councils
+      - https://www.abudhabichamber.ae/
+      - https://fsc.org.sa/
+      - https://www.qatarchamber.com/
+      - https://www.amchamdubai.org/
+      - https://www.amcham.org.eg/
+  - id: privacy-and-safety-frameworks
+    name: Privacy, AI risk, and anti-stereotype safety standards
+    type: safety_standard
+    confidence: A
+    use_for: privacy, provenance, consent, and anti-stereotype review gates
+    source_urls:
+      - https://www.nist.gov/privacy-framework
+      - https://www.nist.gov/itl/ai-risk-management-framework
+      - https://www.nist.gov/publications/artificial-intelligence-risk-management-framework-generative-artificial-intelligence
+      - https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence
+      - https://www.oecd.org/en/topics/ai-principles.html

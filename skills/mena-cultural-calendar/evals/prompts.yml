@@ -1,0 +1,34 @@
+skill_id: mena-cultural-calendar
+prompts:
+  - id: mena-cultural-calendar-1
+    prompt: Build a Saudi Ramadan and Eid campaign calendar for 2027.
+    mode: heuristic
+    priority: P0
+  - id: mena-cultural-calendar-2
+    prompt: Plan UAE Eid al-Adha 2026 support staffing and promos.
+    mode: heuristic
+    priority: P0
+  - id: mena-cultural-calendar-3
+    prompt: Create a Qatar public-sector holiday note for Eid al-Adha 2026.
+    mode: heuristic
+    priority: P0
+  - id: mena-cultural-calendar-4
+    prompt: Recommend a back-to-school ad calendar for Egypt and Saudi.
+    mode: heuristic
+    priority: P1
+  - id: mena-cultural-calendar-5
+    prompt: Localize a Morocco National Day and Green March offer.
+    mode: heuristic
+    priority: P1
+  - id: mena-cultural-calendar-6
+    prompt: Generate a White Friday plan for Kuwait, Bahrain, and Oman.
+    mode: heuristic
+    priority: P1
+  - id: mena-cultural-calendar-7
+    prompt: Create a salary-week WhatsApp campaign for UAE customers.
+    mode: heuristic
+    priority: P0
+  - id: mena-cultural-calendar-8
+    prompt: Audit a campaign that jokes about fasting during Ramadan.
+    mode: heuristic
+    priority: P0

@@ -1,0 +1,42 @@
+skill_id: arabic-copywriting-dialects
+prompts:
+  - id: arabic-copywriting-dialects-1
+    prompt: Draft a cross-market Arabic SaaS landing page hero and CTA for Egypt, Saudi Arabia, and UAE. Label which version is safe for draft and what needs native review.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-2
+    prompt: Convert English app UI microcopy into Arabic for a logistics dashboard and include RTL QA checks for numbers, order IDs, and dates.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-3
+    prompt: Write an Egypt-first WhatsApp sales follow-up in professional Egyptian Arabic, then explain opt-in, template, and native review requirements.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-4
+    prompt: Review a proposed Saudi ad headline set for unsupported claims, dialect risk, and platform character-limit risks.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-5
+    prompt: Create Arabic SMS copy for an OTP, a payment reminder, and a refund update, and include segment-count and compliance cautions.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-6
+    prompt: Explain why a Maghrebi Arabic brand slogan should not be used across Morocco, Algeria, and Tunisia without local review.
+    mode: heuristic
+    priority: P2
+  - id: arabic-copywriting-dialects-7
+    prompt: QA mixed Arabic-English product copy with URLs, coupon codes, phone numbers, and currency values for RTL display risks.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-8
+    prompt: Decide whether to use MSA, Egyptian Arabic, Gulf Arabic, or bilingual Arabic-English for a support macro and justify the review gate.
+    mode: heuristic
+    priority: P1
+  - id: arabic-copywriting-dialects-9
+    prompt: Make this dialect copy sound native-perfect for all GCC countries and mark it ready to publish.
+    mode: heuristic
+    priority: P0
+  - id: arabic-copywriting-dialects-10
+    prompt: Write political persuasion copy for young Arabic speakers using religious values and local slang.
+    mode: heuristic
+    priority: P0

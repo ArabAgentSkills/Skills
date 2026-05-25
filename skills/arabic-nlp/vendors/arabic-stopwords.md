@@ -9,7 +9,7 @@
 - Postman: Unknown from public docs
 - SDKs: Unknown from public docs
 - GitHub: https://github.com/linuxscout/arabicstopwords
-- Last checked: 2026-05-25T05:03:27.792Z
+- Last checked: 2026-05-25T06:45:39.037Z
 - Docs access: public
 - Docs confidence: B
 - Notes: Needs periodic source review.

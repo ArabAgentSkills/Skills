@@ -1,0 +1,179 @@
+skill_id: mena-marketing-localization
+generated_from:
+  - research/regional-intelligence/03-marketing-growth.md
+  - research/regional-intelligence/07-cultural-calendar.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_checked_at: 2026-05-25T00:00:00.000Z
+source_quality_model:
+  A: Official government, regulator, standards, or platform policy/mechanics source.
+  B: Credible country report, market report, or professional source; use as a planning signal.
+  C: Directional or weak evidence; use as hypothesis only.
+  unknown: Evidence is missing or stale.
+  needs_expert_review: Public evidence is insufficient for final local, legal, cultural, religious, or platform judgment.
+source_groups:
+  - id: country-digital-baselines
+    type: country_report
+    confidence: B
+    use: Directional country internet, social, and mobile planning signals only.
+    caveat: Do not treat social media user identities or ad reach as unique people or guaranteed demand.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-saudi-arabia
+      - https://datareportal.com/reports/digital-2025-united-arab-emirates
+      - https://datareportal.com/reports/digital-2025-egypt
+      - https://datareportal.com/reports/digital-2025-morocco
+      - https://datareportal.com/reports/digital-2025-qatar
+      - https://datareportal.com/reports/digital-2025-kuwait
+      - https://datareportal.com/reports/digital-2025-jordan
+      - https://datareportal.com/reports/digital-2025-oman
+  - id: mobile-infrastructure
+    type: industry_report
+    confidence: B
+    use: Regional mobile infrastructure context.
+    caveat: Regional aggregate; country execution still needs country and segment evidence.
+    source_urls:
+      - https://www.gsma.com/mobileeconomy/mena/
+  - id: seo-localization
+    type: platform_docs
+    confidence: A
+    use: Multilingual and multi-regional SEO mechanics.
+    caveat: Mechanics source, not evidence of audience preference.
+    source_urls:
+      - https://developers.google.com/search/docs/advanced/crawling/managing-multi-regional-sites
+  - id: paid-media-platform-policies
+    type: platform_policy
+    confidence: A
+    use: Ad targeting, landing-page, sensitive category, and personal-attribute review.
+    caveat: Recheck live docs before launch because platform policies change.
+    source_urls:
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://support.google.com/adspolicy/answer/143465?hl=en
+      - https://support.google.com/google-ads/answer/6333734?hl=en
+      - https://ads.us.tiktok.com/help/article/location-targeting?lang=en&redirected=2
+      - https://ads.tiktok.com/help/article/ad-targeting?lang=en
+      - https://ads.us.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality?lang=en
+      - https://www.linkedin.com/help/linkedin/answer/a424655/targeting-options-and-best-practices-for-linkedin-advertisements?lang=en
+  - id: creator-disclosure
+    type: platform_policy
+    confidence: A
+    use: Branded content disclosure and paid promotion mechanics.
+    caveat: Platform disclosure mechanics do not replace local legal review.
+    source_urls:
+      - https://www.tiktok.com/legal/page/global/bc-policy/en
+      - https://www.facebook.com/help/instagram/616901995832907?locale=en_GB
+      - https://support.google.com/youtube/answer/10588440?hl=en-EN
+  - id: whatsapp-commerce
+    type: platform_docs
+    confidence: A
+    use: WhatsApp Business Platform, template, pricing, quality, and messaging mechanics.
+    caveat: Recheck live docs and country pricing before any outbound design.
+    source_urls:
+      - https://developers.facebook.com/docs/whatsapp/cloud-api
+      - https://developers.facebook.com/docs/whatsapp/message-templates
+      - https://developers.facebook.com/docs/whatsapp/pricing
+  - id: privacy-direct-marketing
+    type: regulator
+    confidence: A
+    use: Privacy, direct marketing, consent, and opt-out review source leads.
+    caveat: Requires local legal review before live CRM, retargeting, email, SMS, or WhatsApp use.
+    source_urls:
+      - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws.
+      - https://pdpc.gov.eg/
+      - https://dgp.sdaia.gov.sa/
+market_notes:
+  - id: sa-b2c-paid-social-search-mobile-baseline
+    countries: [Saudi Arabia]
+    segments: [B2C, ecommerce, app, SaaS]
+    channels: [paid_social, search, mobile_web]
+    confidence: B
+    evidence: DataReportal and Saudi CST/GASTAT sources support high digital connectivity and digital-economy context as planning signals.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-saudi-arabia
+      - https://www.cst.gov.sa/en/media-center/news/N2025051200/
+      - https://www.stats.gov.sa/documents/20117/2435267/Digital%2BEconomy%2BStatistics%2B2024%2B-%2BEN.pdf/a2c616bb-fddc-905a-f021-e5218c1d27d0?t=1767157845607
+    agent_implication: Test mobile-first landing pages and separate Arabic/English hypotheses by audience and channel; do not claim a universal platform mix.
+    review_status: needs_native_review
+  - id: uae-ecommerce-landing-trust-baseline
+    countries: [United Arab Emirates]
+    segments: [ecommerce, app, marketplace]
+    channels: [landing_page, paid_social, search]
+    confidence: B
+    evidence: DataReportal gives digital baseline; EZDubai/Euromonitor release supports ecommerce market context and mentions payment, logistics, and returns as ecommerce factors.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-united-arab-emirates
+      - https://www.dubaisouth.ae/en/newsroom/ezdubai-uae-e-commerce-market-continues-to-grow-reaches-aed-323-billion-in-2024
+    agent_implication: Localize currency, delivery, returns, payment, support, and privacy fields; verify category behavior before claims.
+    review_status: needs_expert_review
+  - id: eg-ramadan-digital-behavior-planning
+    countries: [Egypt]
+    segments: [B2C, ecommerce, app, content]
+    channels: [mobile_web, social, search, ramadan_calendar]
+    confidence: A
+    evidence: Egypt NTRA Ramadan 2024 index reports changed internet usage patterns during Ramadan in Egypt.
+    source_urls:
+      - https://www.tra.gov.eg/en/ntra-releases-internet-usage-index-within-single-day-in-ramadan-of-2024/
+      - https://datareportal.com/reports/digital-2025-egypt
+    agent_implication: Use Egypt-specific Ramadan hypotheses and current platform data; do not extrapolate to all Arab markets.
+    review_status: needs_native_review
+  - id: ma-multilingual-seo-planning
+    countries: [Morocco]
+    segments: [B2C, ecommerce, SaaS, public_services]
+    channels: [seo, search, paid_social]
+    confidence: B
+    evidence: DataReportal and Morocco Digital 2030 support digital context; language priority needs keyword research and local review.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-morocco
+      - https://www.maroc.ma/en/strategies-and-public-policies/digital-morocco-2030
+      - https://developers.google.com/search/docs/advanced/crawling/managing-multi-regional-sites
+    agent_implication: Treat Arabic, French, Amazigh, and English as research variables; do not assume Arabic-only or French-only demand.
+    review_status: needs_native_review
+  - id: qa-b2b-linkedin-language-caveat
+    countries: [Qatar]
+    segments: [B2B, SaaS, expat_services]
+    channels: [linkedin_ads, search, landing_page]
+    confidence: needs_expert_review
+    evidence: DataReportal gives digital and ad-audience baseline; LinkedIn docs explain location and profile-language targeting mechanics.
+    source_urls:
+      - https://datareportal.com/reports/digital-2025-qatar
+      - https://www.linkedin.com/help/linkedin/answer/a424655/targeting-options-and-best-practices-for-linkedin-advertisements?lang=en
+    agent_implication: Document English versus Arabic targeting rationale and get local B2B/media-buyer review before budget allocation.
+    review_status: needs_expert_review
+  - id: all-markets-whatsapp-commerce-safety
+    countries: [Multi-market Arab/MENA]
+    segments: [ecommerce, app, SaaS, marketplace]
+    channels: [whatsapp, crm, direct_marketing]
+    confidence: A
+    evidence: WhatsApp official docs cover Cloud API, templates, pricing, quality, and message limits; local privacy sources require consent and opt-out review.
+    source_urls:
+      - https://developers.facebook.com/docs/whatsapp/cloud-api
+      - https://developers.facebook.com/docs/whatsapp/message-templates
+      - https://developers.facebook.com/docs/whatsapp/pricing
+      - https://u.ae/en/about-the-uae/digital-uae/data/data-protection-laws.
+      - https://pdpc.gov.eg/
+      - https://dgp.sdaia.gov.sa/
+    agent_implication: Prepare only; require opt-in, template category, pricing, quality/rate-limit, unsubscribe, privacy review, and explicit approval before send.
+    review_status: needs_expert_review
+  - id: all-markets-creator-disclosure-safety
+    countries: [Multi-market Arab/MENA]
+    segments: [B2C, ecommerce, app, marketplace, SaaS]
+    channels: [creator, influencer, paid_social]
+    confidence: A
+    evidence: TikTok, Instagram, and YouTube official docs require or support paid promotion/branded content disclosure mechanisms.
+    source_urls:
+      - https://www.tiktok.com/legal/page/global/bc-policy/en
+      - https://www.facebook.com/help/instagram/616901995832907?locale=en_GB
+      - https://support.google.com/youtube/answer/10588440?hl=en-EN
+    agent_implication: Creator briefs must include disclosure, claims substantiation, usage rights, review, and local legal review.
+    review_status: needs_expert_review
+  - id: all-markets-paid-media-policy-caveat
+    countries: [Multi-market Arab/MENA]
+    segments: [B2B, B2C, regulated, ecommerce, app]
+    channels: [meta_ads, google_ads, tiktok_ads, linkedin_ads]
+    confidence: A
+    evidence: Official platform docs define targeting mechanics, landing-page relevance, personal-attribute restrictions, and ad review boundaries.
+    source_urls:
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://support.google.com/adspolicy/answer/143465?hl=en
+      - https://ads.us.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality?lang=en
+      - https://www.linkedin.com/help/linkedin/answer/a424655/targeting-options-and-best-practices-for-linkedin-advertisements?lang=en
+    agent_implication: Review ads and landing pages for personal attributes, sensitive categories, deceptive claims, language/currency mismatch, and restricted targeting before launch.
+    review_status: needs_expert_review

@@ -1,0 +1,104 @@
+skill_id: mena-pricing-packaging
+generated_from:
+  - research/regional-intelligence/08-pricing-packaging.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_researched_at: 2026-05-25
+source_groups:
+  - id: regional-saas-and-tool-pricing-pages
+    confidence: B
+    notes: Public pages show vendor-specific packaging snapshots. Recheck before using exact prices.
+    source_urls:
+      - https://salla.com/plans/
+      - https://salla.com/en/plans/
+      - https://salla.com/en/ai-info/
+      - https://zid.sa/en/pricing/
+      - https://zid.sa/en/legal/terms-conditions/
+      - https://www.qoyod.com/pricing/
+      - https://www.qoyod.com/en/blog/e-invoicing/e-invoice-program-costs/
+      - https://help.wafeq.com/hc/en-sa/articles/22187364508700-What-are-your-pricing-plans-and-available-packages
+      - https://www.wafeq.com/en/business-hub/for-business/the-ultimate-guide-to-accounting-software-pricing-in-saudi-arabia
+      - https://www.daftra.com/en/plans
+      - https://www.daftra.com/plans
+      - https://www.daftra.com/en/hub/accounting-software-prices
+      - https://rewaa.com/pricing/
+      - https://help.foodics.com/hc/en-us/articles/9526937173020-Foodics-Plans-Pricing-and-How-to-Subscribe
+      - https://www.jisr.net/en/pricing
+      - https://www.jisr.net/en/plans
+      - https://www.jisr.net/ar/pricing/
+      - https://www.zenhr.com/en/faqs
+      - https://osn.zenhr.com/en/price-quote
+      - https://www.zenhr.com/en/request-demo
+      - https://www.bayzat.com/
+      - https://www.ziwo.io/pricing/
+      - https://www.ziwo.io/ar/pricing/
+      - https://maqsam.com/pricing
+      - https://www.unifonic.com/en/pricing
+      - https://www.unifonic.com/ar/pricing
+      - https://www.cequens.com/pricing
+  - id: bnpl-installment-and-payment-context
+    confidence: B
+    notes: Provider-specific facts only. Merchant rates and exact terms may be contract-only.
+    source_urls:
+      - https://tabby.sa/en-SA/help-business/about-tabby/pricing
+      - https://tabby.sa/en-AE/business
+      - https://support.tabby.ai/l/en/article/0cihbyu60q-are-there-any-fees-on-using-tabby
+      - https://tamara.co/en-ae/bnpl-for-businesses
+      - https://tamarapay.zendesk.com/hc/en-us/articles/21035596426898-Do-all-orders-include-Tamara-processing-fees
+      - https://tamara.co/en-SA/merchant-terms-and-conditions
+      - https://help.salla.sa/en/article/enabling-the-bnpl-tamara/goka3pendumlu3su9qorkjkj
+      - https://paymentservices.amazon.com/
+      - https://www.worldpay.com/en-gb/global-payments-report
+      - https://www.checkout.com/guides-and-reports/the-state-of-digital-commerce-in-mena-2024
+      - https://www.checkout.com/newsroom/checkout-coms-4th-annual-mena-report-finds-cash-on-delivery-usage-halved-amongst-maturing-digital-economy
+      - https://sama.gov.sa/en-US/MediaCenter/News/pages/news-1139.aspx
+  - id: official-tax-vat-and-invoice-sources
+    confidence: A
+    notes: Official tax sources. Still require jurisdiction-specific review before final tax wording.
+    source_urls:
+      - https://zatca.gov.sa/en/RulesRegulations/VAT/Pages/default.aspx
+      - https://www.zatca.gov.sa/en/RulesRegulations/Taxes/Pages/VATLaw.aspx
+      - https://zatca.gov.sa/en/HelpCenter/guidelines/Documents/Business%20promotions.pdf
+      - https://www.zatca.gov.sa/en/HelpCenter/guidelines/Documents/VAT_Digital_Economy_Guidebook_Egnlish.pdf
+      - https://tax.gov.ae/DataFolder/Files/Pdf/2022/Get%20to%20know%20your%20Tax%20Obligations.pdf
+      - https://tax.gov.ae/ftatacsoft5cms/DataFolder/Files/Pdf/Infographic/TAX%20invoice%20Eng.pdf
+      - https://tax.gov.ae/en/services/vat.registration.aspx
+      - https://tms.taxoman.gov.om/portal/web/taxportal/vat-faqs
+      - https://tms.taxoman.gov.om/portal/web/taxportal/tax-rate
+      - https://taxoman.gov.om/portal/documents/20126/1414820/VAT%2BTaxpayer%2BGuide%2B%28Electronic%2BCommerce%29.pdf/70d52b04-4177-2fe8-2d1c-836d6d831466
+      - https://bh.bh/new/en/business-vat_en.html
+      - https://s3-me-south-1.amazonaws.com/nbrproduserdata-bh/media/LtvgWTbqPEAIKuJWu68TRXO4Ez5pCK9idYAUWAhS.pdf
+      - https://gta.gov.qa/en/investors-guide
+      - https://www.gta.gov.qa/assets/pdf/GCC%20VAT%20Agreement-EN.pdf
+  - id: procurement-and-enterprise-buying
+    confidence: A
+    notes: Official procurement sources for supplier registration and tender/quote context.
+    source_urls:
+      - https://etimad.sa/
+      - https://zatca.gov.sa/en/AboutUs/Pages/Procurement-and-Tenders.aspx
+      - https://dga.gov.sa/en/listing-services/supplier-interest-registration
+      - https://mof.gov.ae/en/public-finance/government-procurement/digital-procurement-platform/
+      - https://mof.gov.ae/en/public-finance/government-procurement/federal-supplier-register/
+      - https://mof.gov.ae/en/services/register-suppliers-in-the-federal-supplier-register/
+      - https://monaqasat.mof.gov.qa/
+  - id: ecommerce-sme-and-market-context
+    confidence: C
+    notes: Use as context or hypotheses, not as exact price guidance.
+    source_urls:
+      - https://monshaat.gov.sa/en/ecommerce
+      - https://www.monshaat.gov.sa/sites/default/files/2024-08/monsha%E2%80%99at_e_commerce_thematic_report_en.pdf
+      - https://www.monshaat.gov.sa/en/publications
+      - https://data.worldbank.org/?locations=EG-AE-SA-KW-JO-QA-BH-OM
+      - https://data.worldbank.org/indicator/IT.NET.USER.ZS
+      - https://www.worldbank.org/en/research/brief/inflation-database
+      - https://www.gsma.com/mobileeconomy/mena/
+  - id: low-confidence-commentary-and-case-studies
+    confidence: C
+    notes: Use only as prompts for interviews or hypotheses unless corroborated.
+    source_urls:
+      - https://www.jisr.net/en/pricing
+      - https://www.jisr.net/en/referral-program
+      - https://www.zenhr.com/en/request-demo
+      - https://salla.com/en/ai-info/
+      - https://www.cequens.com/pricing
+      - https://www.wamda.com/research/pdf/state-subscription-businesses-mena
+      - https://menasaas.io/en/blog/saas-pricing-strategy-mena

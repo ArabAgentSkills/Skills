@@ -1,0 +1,39 @@
+name: Market expert review
+description: Review a regional market, sales, support, pricing, growth, or partnership claim.
+title: "[Market review]: "
+labels: ["regional-intelligence", "expert-review"]
+body:
+  - type: input
+    id: claim
+    attributes:
+      label: Claim or skill item
+      placeholder: regional claim id or skill/reference path
+    validations:
+      required: true
+  - type: input
+    id: scope
+    attributes:
+      label: Country, segment, and channel
+      placeholder: Saudi Arabia / B2B SaaS / WhatsApp follow-up
+    validations:
+      required: true
+  - type: dropdown
+    id: reviewer_type
+    attributes:
+      label: Reviewer type
+      options:
+        - market_operator
+        - sales_operator
+        - support_operator
+        - marketer
+        - founder_operator
+        - legal_or_compliance
+    validations:
+      required: true
+  - type: textarea
+    id: recommendation
+    attributes:
+      label: Recommendation
+      description: Note what should be approved, revised, downgraded, or rejected.
+    validations:
+      required: true

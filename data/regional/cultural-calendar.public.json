@@ -1,0 +1,79 @@
+[
+  {
+    "id": "ramadan-2027-arab-region-estimated",
+    "country": "Arab region",
+    "event_name": "Ramadan 2027 estimated planning window",
+    "event_type": "religious",
+    "date_start": "2027-02-08",
+    "date_end": "2027-03-09",
+    "date_status": "estimated",
+    "source_urls": [
+      "https://github.com/xsoh/moment-hijri",
+      "https://www.npmjs.com/package/date-holidays"
+    ],
+    "confidence": "low",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "notes": "Planning estimate only. Country-level official confirmation is required before public launch or staffing decisions.",
+    "yearly_refresh_required": true
+  },
+  {
+    "id": "saudi-national-day-2026",
+    "country": "Saudi Arabia",
+    "event_name": "Saudi National Day",
+    "event_type": "national_day",
+    "date_start": "2026-09-23",
+    "date_end": "2026-09-23",
+    "date_status": "recurring_rule",
+    "source_urls": [
+      "https://date.nager.at/"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "notes": "Use as a planning lead and confirm official holiday treatment for the target year/sector.",
+    "yearly_refresh_required": true
+  },
+  {
+    "id": "uae-national-day-2026",
+    "country": "United Arab Emirates",
+    "event_name": "UAE National Day / Eid Al Etihad",
+    "event_type": "national_day",
+    "date_start": "2026-12-02",
+    "date_end": "2026-12-02",
+    "date_status": "recurring_rule",
+    "source_urls": [
+      "https://date.nager.at/"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "notes": "Use as a planning lead and confirm official holiday treatment for the target year/sector.",
+    "yearly_refresh_required": true
+  },
+  {
+    "id": "egypt-july-23-2026",
+    "country": "Egypt",
+    "event_name": "Egypt July 23 Revolution Day",
+    "event_type": "public_holiday",
+    "date_start": "2026-07-23",
+    "date_end": "2026-07-23",
+    "date_status": "recurring_rule",
+    "source_urls": [
+      "https://date.nager.at/"
+    ],
+    "confidence": "medium",
+    "review_status": [
+      "ai_drafted",
+      "source_checked"
+    ],
+    "notes": "Use as a planning lead and confirm official holiday treatment for the target year/sector.",
+    "yearly_refresh_required": true
+  }
+]

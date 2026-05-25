@@ -1,0 +1,69 @@
+skill_id: mena-cultural-calendar
+generated_from:
+  - research/regional-intelligence/07-cultural-calendar.md
+  - research/regional-intelligence/09-safety-evals-review.md
+last_researched_at: 2026-05-25
+source_groups:
+  - id: official-and-sector-calendar-sources
+    confidence: A
+    notes: Government, diwan, cabinet, central bank, stock exchange, and official news sources. Scope must be preserved.
+    source_urls:
+      - https://sama.gov.sa/en-US/Supervision/Pages/holidayschedules.aspx
+      - https://www.mofa.gov.sa/en/ksa/Pages/nationalday.aspx
+      - https://www.foundingday.sa/
+      - https://www.haj.gov.sa/
+      - https://hajj.nusuk.sa/
+      - https://u.ae/en/information-and-services/public-holidays-and-religious-affairs/public-holidays
+      - https://www.fahr.gov.ae/en/news/the-federal-authority-for-human-resources-announces-the-eid-al-adha-holiday-for-the-federal-government-from-may-25-29-2026/
+      - https://www.mohre.gov.ae/
+      - https://www.diwan.gov.qa/Briefing-Room/News/General/Statements/2026/March/15/Amiri-Diwan-Announces-Eid-Al-Fitr-Holiday?sc_lang=en
+      - https://qna.org.qa/en/News-Area/News/2026-5/24/amiri-diwan-announces-eid-al-adha-holiday
+      - https://hukoomi.gov.qa/
+      - https://www.cbb.gov.bh/official-bank-holidays/
+      - https://e.gov.kw/sites/kgoenglish/Pages/Visitors/AboutKuwait/Holidays.aspx
+      - https://www.kuna.net.kw/
+      - https://www.cbk.gov.kw/
+      - https://omannews.gov.om/
+      - https://www.ase.com.jo/
+      - https://www.pm.gov.jo/
+      - https://www.mmsp.gov.ma/fr/nos-metiers/horaires-de-travail-et-jours-f%C3%A9ri%C3%A9s
+      - https://pm.gov.tn/ar/article/blagh-34
+      - https://www.aps.dz/en/algeria/society/mpaz9ujc-eid-al-adha-to-fall-on-wednesday-may-27
+      - https://pcm.gov.lb/
+      - https://www.bdl.gov.lb/
+      - https://bse.com.lb/
+      - https://www.cabinet.iq/
+      - https://mjr.ogb.gov.ps/Decrees/Details/34177
+  - id: machine-readable-and-library-sources
+    confidence: C
+    notes: Useful for planning leads and fixed holidays. Do not present library-estimated religious dates as confirmed.
+    source_urls:
+      - https://date.nager.at/
+      - https://date.nager.at/api/v3/PublicHolidays/2026/EG
+      - https://date.nager.at/api/v3/PublicHolidays/2026/MA
+      - https://date.nager.at/api/v3/PublicHolidays/2026/TN
+      - https://github.com/commenthol/date-holidays
+      - https://github.com/xsoh/moment-hijri
+  - id: school-salary-shopping-and-policy-sources
+    confidence: B
+    notes: Use as scoped context. Salary and shopping-season behavior remains hypothesis unless current country/category evidence exists.
+    source_urls:
+      - https://www.tra.gov.eg/en/ntra-releases-internet-usage-index-within-single-day-in-ramadan-of-2024/
+      - https://u.ae/en/information-and-services/education/school-education
+      - https://www.moe.gov.sa/
+      - https://www.edu.gov.qa/
+      - https://moe.gov.eg/
+      - https://www.mohre.gov.ae/en/our-services/wages-protection-system.aspx
+      - https://www.visitdubai.com/en/whats-on/dubai-shopping-festival
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://support.google.com/adspolicy/answer/143465
+      - https://ads.tiktok.com/help/
+  - id: regional-safety-framework
+    confidence: A
+    notes: Use for anti-stereotype, privacy, platform, and manipulation boundaries.
+    source_urls:
+      - https://www.nist.gov/itl/ai-risk-management-framework
+      - https://www.nist.gov/privacy-framework
+      - https://transparency.meta.com/policies/ad-standards/
+      - https://support.google.com/adspolicy/answer/143465?hl=en
+      - https://ads.tiktok.com/help/article/tiktok-ads-policy-ad-format-and-functionality?lang=en

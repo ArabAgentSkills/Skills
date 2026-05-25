@@ -6,7 +6,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T05:03:27.786Z
+    last_checked_at: 2026-05-25T06:45:39.031Z
     source_urls:
       - https://www.cashewpayments.com/
   - id: postpay
@@ -14,7 +14,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 75
-    last_checked_at: 2026-05-25T05:03:27.786Z
+    last_checked_at: 2026-05-25T06:45:39.031Z
     source_urls:
       - https://docs.postpay.io/
   - id: shahry
@@ -22,7 +22,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T05:03:27.785Z
+    last_checked_at: 2026-05-25T06:45:39.031Z
     source_urls:
       - https://www.shahry.com/
   - id: souhoola
@@ -30,7 +30,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 75
-    last_checked_at: 2026-05-25T05:03:27.785Z
+    last_checked_at: 2026-05-25T06:45:39.030Z
     source_urls:
       - https://souhoola.com/
       - https://docs.geidea.net/docs/souhoola
@@ -39,7 +39,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-25T05:03:27.785Z
+    last_checked_at: 2026-05-25T06:45:39.030Z
     source_urls:
       - https://docs.tabby.ai/
       - https://docs.tabby.ai/introduction/what-is-tabby
@@ -48,7 +48,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-25T05:03:27.785Z
+    last_checked_at: 2026-05-25T06:45:39.030Z
     source_urls:
       - https://docs.tamara.co/
   - id: valu
@@ -56,7 +56,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 75
-    last_checked_at: 2026-05-25T05:03:27.785Z
+    last_checked_at: 2026-05-25T06:45:39.030Z
     source_urls:
       - https://www.valu.com.eg/
       - https://docs.geidea.net/docs/valu

@@ -1,0 +1,156 @@
+skill_id: mena-customer-support
+generated_from: research/regional-intelligence/05-customer-support.md
+last_researched_at: 2026-05-25
+source_policy:
+  default_fact_status: source_backed_or_policy_placeholder
+  unsupported_fact_label: Unknown from public docs
+  missing_policy_label: Needs merchant policy
+  native_review_flag: native-review-needed
+sources:
+  - id: uae-design-system-content
+    name: UAE Design System - Content Guidelines
+    type: official_government
+    docs_access: public
+    confidence: A
+    used_for:
+      - concise empathetic content
+      - formal and semi-formal support tone
+      - error-message clarity
+    source_urls:
+      - https://designsystem.gov.ae/guidelines/content
+  - id: uae-consumer-protection
+    name: UAE Government Portal - Consumer Protection
+    type: official_government
+    docs_access: public
+    confidence: B
+    used_for:
+      - consumer-protection caution
+      - terms, payment, and warranty review flags
+    caveat: Verify live page text before legal use.
+    source_urls:
+      - https://u.ae/en/information-and-services/justice-safety-and-the-law/consumer-protection
+  - id: egypt-cpa-faq
+    name: Egypt Consumer Protection Agency FAQ
+    type: official_regulator
+    docs_access: public
+    confidence: A
+    used_for:
+      - Egypt invoice and return/refund legal review caution
+    caveat: Country-specific; do not reuse as pan-Arab law.
+    source_urls:
+      - https://cpa.gov.eg/ar-eg/%D8%A7%D8%B3%D8%A6%D9%84%D8%A9-%D9%85%D8%AA%D9%83%D8%B1%D8%B1%D8%A9
+  - id: saudi-commerce-consumer-guide
+    name: Saudi Ministry of Commerce - Consumer Guide PDF
+    type: official_government
+    docs_access: public
+    confidence: B
+    used_for:
+      - Saudi consumer-rights and complaint caution
+    caveat: Extract exact legal text and obtain local review before production macros.
+    source_urls:
+      - https://mc.gov.sa/en/guides/Documents/CustomerGuide.pdf
+  - id: meta-whatsapp-platform
+    name: Meta for Developers - WhatsApp Business Platform
+    type: official_platform_docs
+    docs_access: public
+    confidence: A
+    used_for:
+      - WhatsApp templates
+      - message categories
+      - business platform constraints
+    caveat: Platform rules change; recheck before launch.
+    source_urls:
+      - https://developers.facebook.com/docs/whatsapp/
+      - https://developers.facebook.com/docs/whatsapp/cloud-api/guides/send-message-templates/
+  - id: whatsapp-business-policy
+    name: WhatsApp Business Messaging Policy
+    type: official_policy
+    docs_access: public
+    confidence: A
+    used_for:
+      - business messaging policy
+      - prohibited content and policy review
+    caveat: Recheck latest policy before production sends.
+    source_urls:
+      - https://www.whatsapp.com/legal/business-policy/
+  - id: twilio-whatsapp-key-concepts
+    name: Twilio WhatsApp Key Concepts
+    type: vendor_bsp_docs
+    docs_access: public
+    confidence: B
+    used_for:
+      - practical explanation of templates and session constraints
+    caveat: Secondary source; Meta policy is authoritative.
+    source_urls:
+      - https://www.twilio.com/docs/whatsapp/key-concepts
+  - id: meta-instagram-messaging
+    name: Meta Instagram Platform - Messaging API and Private Replies
+    type: official_platform_docs
+    docs_access: public
+    confidence: B
+    used_for:
+      - Instagram DM support
+      - moving public comments to private replies
+    caveat: Permissions and windows are dynamic; verify before implementation.
+    source_urls:
+      - https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login/messaging/
+      - https://developers.facebook.com/docs/instagram-platform/instagram-api-with-facebook-login/messaging/private-replies/
+  - id: spl-ecommerce-services
+    name: Saudi Post SPL - E-Commerce Services
+    type: official_carrier
+    docs_access: public
+    confidence: B
+    used_for:
+      - COD, reverse logistics, track-and-trace, proof-of-delivery, and delivery notification patterns
+    caveat: Saudi carrier source; not a universal carrier policy.
+    source_urls:
+      - https://splonline.com.sa/en/e-commerce-services
+  - id: pci-cvc-storage-faq
+    name: PCI Security Standards Council FAQ - CVC Storage
+    type: payment_security_standard
+    docs_access: public
+    confidence: A
+    used_for:
+      - prohibition on storing or requesting CVC/CVV after authorization
+      - safe payment-support data handling
+    source_urls:
+      - https://blog.pcisecuritystandards.org/faq-can-cvc-be-stored-for-card-on-file-or-recurring-transactions
+  - id: stripe-paymentintents-lifecycle
+    name: Stripe Docs - PaymentIntents Lifecycle
+    type: vendor_payment_docs
+    docs_access: public
+    confidence: B
+    used_for:
+      - processing, succeeded, canceled, and action-required payment state caution
+    caveat: General payment behavior, not local law.
+    source_urls:
+      - https://docs.stripe.com/payments/paymentintents/lifecycle
+  - id: stripe-declines
+    name: Stripe Docs - Declines
+    type: vendor_payment_docs
+    docs_access: public
+    confidence: B
+    used_for:
+      - failed-payment messaging and issuer/gateway decline caution
+    caveat: General payment behavior, not MENA-specific law.
+    source_urls:
+      - https://docs.stripe.com/declines
+  - id: zendesk-deescalation
+    name: Zendesk Blog - Customer Service De-escalation
+    type: secondary_cx_source
+    docs_access: public
+    confidence: C
+    used_for:
+      - empathy, listening, resolution, and avoiding argument
+    caveat: CX practice source; not legal or platform authority.
+    source_urls:
+      - https://www.zendesk.com/blog/customer-service-deescalation/
+  - id: arabic-nlp-overview
+    name: Arabic NLP Overview Paper
+    type: academic_secondary
+    docs_access: public
+    confidence: B
+    used_for:
+      - Arabic varieties and dialect/MSA caution
+    source_urls:
+      - https://arxiv.org/abs/1903.02784

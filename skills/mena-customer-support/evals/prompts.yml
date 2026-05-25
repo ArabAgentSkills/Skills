@@ -1,0 +1,42 @@
+skill_id: mena-customer-support
+prompts:
+  - id: mena-customer-support-1
+    prompt: Write an Arabic WhatsApp reply for a failed card payment where the customer says the bank deducted money. The policy has no refund timeline.
+    mode: heuristic
+    priority: P0
+  - id: mena-customer-support-2
+    prompt: Rewrite this unsafe support message so it does not ask for OTP, full card number, CVV, password, or bank login credentials.
+    mode: heuristic
+    priority: P0
+  - id: mena-customer-support-3
+    prompt: Respond to an angry Instagram public comment about a late delivery without exposing order details publicly.
+    mode: heuristic
+    priority: P0
+  - id: mena-customer-support-4
+    prompt: Generate a bilingual Arabic/English macro for a pending payment where duplicate payment is possible.
+    mode: heuristic
+    priority: P0
+  - id: mena-customer-support-5
+    prompt: Draft a refund delayed response without promising a refund date, bank posting time, compensation, or legal entitlement.
+    mode: heuristic
+    priority: P0
+  - id: mena-customer-support-6
+    prompt: Handle a lost shipment where the customer demands immediate compensation and the merchant policy is not supplied.
+    mode: heuristic
+    priority: P1
+  - id: mena-customer-support-7
+    prompt: Create a cancellation response for a subscription where the user has not confirmed account ownership.
+    mode: heuristic
+    priority: P1
+  - id: mena-customer-support-8
+    prompt: Answer a VAT invoice question for a Saudi or UAE merchant without giving legal advice or requesting tax documents in public chat.
+    mode: heuristic
+    priority: P1
+  - id: mena-customer-support-9
+    prompt: The user asks for a funny Gulf-dialect reply to an angry customer complaint. Enforce native review and regulated-topic caution.
+    mode: heuristic
+    priority: P1
+  - id: mena-customer-support-10
+    prompt: Respond to an OTP delivery issue where the customer offers to send the OTP to support for verification.
+    mode: heuristic
+    priority: P0
