@@ -1,0 +1,67 @@
+skill_id: seo-aeo-geo
+last_checked_at: "2026-05-28T00:00:00.000Z"
+source_urls:
+  - https://developers.google.com/search/docs/appearance/ai-features
+  - https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+  - https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+  - https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
+  - https://help.openai.com/en/articles/20001243-advertiser-guidance-for-allowing-openai-web-crawlers
+  - https://docs.perplexity.ai/docs/resources/perplexity-crawlers
+  - https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+  - https://llmstxt.org/
+  - https://arxiv.org/abs/2311.09735
+sources:
+  - id: google-ai-features
+    title: Google AI features and your website
+    url: https://developers.google.com/search/docs/appearance/ai-features
+    type: official_source
+    confidence: high
+    notes: Same SEO fundamentals apply to Google AI features; pages need crawl/index/snippet eligibility.
+  - id: google-helpful-content
+    title: Google people-first content guidance
+    url: https://developers.google.com/search/docs/fundamentals/creating-helpful-content
+    type: official_source
+    confidence: high
+    notes: Use to avoid thin, search-engine-first pages.
+  - id: google-structured-data
+    title: Google structured data policies
+    url: https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+    type: official_source
+    confidence: high
+    notes: Structured data must accurately represent visible content.
+  - id: google-sitemaps
+    title: Google sitemap guidance
+    url: https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap
+    type: official_source
+    confidence: high
+    notes: Sitemaps should list canonical absolute URLs and accurate significant lastmod dates.
+  - id: openai-crawlers
+    title: OpenAI crawler guidance
+    url: https://help.openai.com/en/articles/20001243-advertiser-guidance-for-allowing-openai-web-crawlers
+    type: platform_docs
+    confidence: high
+    notes: Robots, WAF, bot mitigation, and rate limiting can block OpenAI crawlers.
+  - id: perplexity-crawlers
+    title: Perplexity crawler documentation
+    url: https://docs.perplexity.ai/docs/resources/perplexity-crawlers
+    type: platform_docs
+    confidence: high
+    notes: Distinguishes search bot and user-request fetcher; recommends WAF allowlisting for visibility.
+  - id: anthropic-crawlers
+    title: Anthropic crawler documentation
+    url: https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler
+    type: platform_docs
+    confidence: high
+    notes: Distinguishes ClaudeBot, Claude-User, and Claude-SearchBot.
+  - id: llms-txt
+    title: llms.txt proposal
+    url: https://llmstxt.org/
+    type: proposal
+    confidence: medium
+    notes: Useful for agent context discovery; not an official Google ranking requirement.
+  - id: geo-paper
+    title: Generative Engine Optimization paper
+    url: https://arxiv.org/abs/2311.09735
+    type: academic_source
+    confidence: medium
+    notes: Academic framing; validate against real logs and citations before treating as proven.

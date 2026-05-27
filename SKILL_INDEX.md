@@ -44,6 +44,7 @@
 | pricing-packaging | [mena-pricing-packaging](skills/mena-pricing-packaging/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
 | product-localization | [mena-product-localization](skills/mena-product-localization/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
 | sales-playbooks | [mena-sales-playbooks](skills/mena-sales-playbooks/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
+| seo-aeo-geo | [seo-aeo-geo](skills/seo-aeo-geo/SKILL.md) | Regional Intelligence | 16 countries | Arab region, MENA, Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain |
 | tax | [arab-einvoicing-tax](skills/arab-einvoicing-tax/SKILL.md) | Infrastructure | 10 vendors | Bahrain, Egypt, Jordan, Saudi Arabia, UAE, Saudi |
 
 ## Skill inventory
@@ -66,6 +67,7 @@
 | [MENA Customer Support](skills/mena-customer-support/) | Regional Intelligence | customer-support | P1 | draft | 14 countries | 100 |
 | [MENA Growth Channels](skills/mena-growth-channels/) | Regional Intelligence | growth-channels | P1 | draft | 14 countries | 100 |
 | [MENA Open Banking](skills/mena-open-banking/) | Infrastructure | open-banking | P1 | alpha | 7 vendors | 100 |
+| [SEO, AEO, and GEO](skills/seo-aeo-geo/) | Regional Intelligence | seo-aeo-geo | P1 | draft | 16 countries | 100 |
 | [Arab Open Data](skills/arab-open-data/) | Infrastructure | open-data | P2 | draft | 8 vendors | 100 |
 | [Arabic NLP](skills/arabic-nlp/) | Infrastructure | arabic-nlp | P2 | alpha | 6 vendors | 100 |
 | [MENA HR and Payroll](skills/mena-hr-payroll/) | Infrastructure | hr-payroll | P2 | draft | 5 vendors | 100 |

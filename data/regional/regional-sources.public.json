@@ -30,11 +30,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Use as public opinion and social survey context, not as individual behavior proof."
   },
   {
@@ -68,11 +69,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Use economic and digital-development indicators as context only."
   },
   {
@@ -106,11 +108,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Machine-readable indicator access reference."
   },
   {
@@ -144,11 +147,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Connectivity and telecom indicators."
   },
   {
@@ -182,11 +186,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Industry signal for mobile adoption; use as regional context."
   },
   {
@@ -220,11 +225,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Digital adoption and channel signals; verify report year."
   },
   {
@@ -258,11 +264,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Locale data for dates, numbers, plural rules, and display names."
   },
   {
@@ -296,11 +303,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Primary bidi text behavior reference."
   },
   {
@@ -334,11 +342,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Arabic script layout requirements."
   },
   {
@@ -372,11 +381,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Phone parsing/formatting implementation reference."
   },
   {
@@ -410,11 +420,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Address metadata reference; still verify country-specific forms."
   },
   {
@@ -448,11 +459,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Localization implementation patterns."
   },
   {
@@ -486,11 +498,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Intl formatting implementation patterns."
   },
   {
@@ -524,11 +537,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Arabic NLP tooling source."
   },
   {
@@ -562,11 +576,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Dialect research reference; not copywriting proof by itself."
   },
   {
@@ -600,11 +615,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Dialect identification research reference."
   },
   {
@@ -638,11 +654,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Dialect data reference."
   },
   {
@@ -676,11 +693,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Platform mechanics and policy reference; re-check live docs."
   },
   {
@@ -714,11 +732,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Ad safety/policy mechanics; not cultural evidence."
   },
   {
@@ -752,11 +771,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Search implementation reference."
   },
   {
@@ -790,11 +810,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Machine-readable holiday lead; verify official country source for launch-critical dates."
   },
   {
@@ -828,11 +849,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Holiday calculation lead; verify official sources."
   },
   {
@@ -866,11 +888,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "medium",
     "official": false,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Hijri date estimates only."
   },
   {
@@ -904,11 +927,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Official VAT reference for Saudi Arabia."
   },
   {
@@ -942,11 +966,12 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Official VAT reference for Bahrain."
   },
   {
@@ -980,11 +1005,363 @@
       "mena-cultural-calendar",
       "mena-growth-channels",
       "mena-pricing-packaging",
-      "mena-partnerships-distribution"
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
     ],
     "confidence": "high",
     "official": true,
-    "last_checked_at": "2026-05-25T13:53:38.062Z",
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
     "notes": "Business environment context; not sales norm proof."
+  },
+  {
+    "id": "google-ai-features",
+    "title": "Google AI features and your website",
+    "url": "https://developers.google.com/search/docs/appearance/ai-features",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Google says AI features use the same SEO fundamentals and require indexed, snippet-eligible pages."
+  },
+  {
+    "id": "google-helpful-content",
+    "title": "Google people-first content guidance",
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Use to avoid search-engine-first pages and thin content."
+  },
+  {
+    "id": "google-structured-data",
+    "title": "Google structured data policies",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/sd-policies",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Structured data must accurately represent visible page content."
+  },
+  {
+    "id": "google-sitemaps",
+    "title": "Google sitemap guidance",
+    "url": "https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Canonical URLs in sitemaps should be absolute and significant lastmod values should be accurate."
+  },
+  {
+    "id": "openai-crawlers",
+    "title": "OpenAI crawler guidance",
+    "url": "https://help.openai.com/en/articles/20001243-advertiser-guidance-for-allowing-openai-web-crawlers",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "OpenAI crawler access depends on robots.txt plus web protection, bot mitigation, and rate limiting layers."
+  },
+  {
+    "id": "perplexity-crawlers",
+    "title": "Perplexity crawler documentation",
+    "url": "https://docs.perplexity.ai/docs/resources/perplexity-crawlers",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Perplexity distinguishes search/index bots from user-request fetchers and recommends WAF allowlisting for visibility."
+  },
+  {
+    "id": "anthropic-crawlers",
+    "title": "Anthropic crawler documentation",
+    "url": "https://support.claude.com/en/articles/8896518-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler",
+    "type": "platform_docs",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "high",
+    "official": true,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Anthropic distinguishes ClaudeBot, Claude-User, and Claude-SearchBot in robots policy."
+  },
+  {
+    "id": "llms-txt",
+    "title": "llms.txt proposal",
+    "url": "https://llmstxt.org/",
+    "type": "other",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "medium",
+    "official": false,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Useful AI-readable site map proposal; not an official Google ranking requirement."
+  },
+  {
+    "id": "geo-paper",
+    "title": "Generative Engine Optimization paper",
+    "url": "https://arxiv.org/abs/2311.09735",
+    "type": "academic_source",
+    "countries": [
+      "Egypt",
+      "Saudi Arabia",
+      "United Arab Emirates",
+      "Kuwait",
+      "Qatar",
+      "Bahrain",
+      "Oman",
+      "Jordan",
+      "Lebanon",
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Iraq",
+      "Palestine"
+    ],
+    "skills": [
+      "arab-market-context",
+      "arabic-copywriting-dialects",
+      "mena-marketing-localization",
+      "mena-sales-playbooks",
+      "mena-product-localization",
+      "mena-customer-support",
+      "mena-cultural-calendar",
+      "mena-growth-channels",
+      "mena-pricing-packaging",
+      "mena-partnerships-distribution",
+      "seo-aeo-geo"
+    ],
+    "confidence": "medium",
+    "official": false,
+    "last_checked_at": "2026-05-27T21:01:22.959Z",
+    "notes": "Academic framing for improving visibility in generative engines; use cautiously and test."
   }
 ]

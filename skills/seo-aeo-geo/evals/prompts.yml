@@ -1,0 +1,26 @@
+skill_id: seo-aeo-geo
+prompts:
+  - id: audit-arabskills
+    prompt: Audit ArabSkills.info for SEO, AEO, and GEO and produce prioritized fixes.
+    priority: P1
+  - id: crawler-policy
+    prompt: Create robots.txt guidance for AI search visibility without allowing training crawlers.
+    priority: P1
+  - id: vendor-answer-block
+    prompt: Rewrite a vendor page intro into an answer-shaped AEO block with source confidence.
+    priority: P1
+  - id: structured-data-choice
+    prompt: Choose structured data for a public skills directory and explain what not to mark up.
+    priority: P1
+  - id: measurement-plan
+    prompt: Build a measurement plan for SEO, AEO, and GEO using Search Console, logs, and AI prompt audits.
+    priority: P1
+  - id: llms-outline
+    prompt: Create an llms.txt outline for a data-first agent skills website without claiming ranking guarantees.
+    priority: P1
+  - id: topic-page-review
+    prompt: Review a topic page for hidden-schema, unsupported-claim, and crawlability risks.
+    priority: P1
+  - id: arabic-seo-geo
+    prompt: Plan Arabic SEO and GEO improvements for a MENA API directory while marking native-review needs.
+    priority: P1

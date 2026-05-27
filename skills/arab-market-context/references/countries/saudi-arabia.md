@@ -8,7 +8,7 @@
   - Native reviewed: no
   - Expert reviewed: no
   - Market validated: no
-- Last checked: 2026-05-25T13:53:38.062Z
+- Last checked: 2026-05-27T21:01:22.959Z
 - Confidence: medium
 - Primary sources:
   - https://data.worldbank.org/
@@ -107,4 +107,9 @@
 | Dialect copy examples should be treated as drafts unless native review is completed for the target country, audience, and channel. | Arab region; public copy; copywriting | high | academic_source | https://camel.abudhabi.nyu.edu/madar/ | ai_drafted, source_checked |
 | RTL and mixed Arabic-English interfaces should rely on Unicode bidi behavior, W3C Arabic layout guidance, and locale libraries rather than ad hoc text handling. | Arab region; product UX; app UI | high | official_source | https://www.unicode.org/reports/tr9/ | ai_drafted, source_checked |
 | Future Ramadan and Eid dates should be marked estimated until an official country source confirms them. | Arab region; campaign planning; calendar | high | open_source_library | https://date.nager.at/ | ai_drafted, source_checked |
+| AI search visibility should start with crawlable, indexable, snippet-eligible, people-first pages; there is no separate Google-only AI markup requirement for AI Overviews or AI Mode. | Arab region; public website; search and AI search | high | official_source | https://developers.google.com/search/docs/appearance/ai-features | ai_drafted, source_checked |
+| Structured data should describe the main visible page content and should not mark up hidden, misleading, incomplete, or unsupported claims. | Arab region; public website; structured data | high | official_source | https://developers.google.com/search/docs/appearance/structured-data/sd-policies | ai_drafted, source_checked |
+| llms.txt can help agents find canonical pages and machine-readable context, but it should not be presented as a Google ranking factor or a guaranteed AI citation mechanism. | Arab region; public website; AI context files | high | official_source | https://developers.google.com/search/docs/appearance/ai-features | ai_drafted, source_checked |
+| For citation visibility, robots.txt and WAF policy should distinguish search/user-request crawlers from training crawlers and should not accidentally block intended search crawlers. | Arab region; public website; robots and WAF | high | official_source | https://help.openai.com/en/articles/20001243-advertiser-guidance-for-allowing-openai-web-crawlers | ai_drafted, source_checked |
+| SEO, AEO, and GEO changes should be measured through Search Console, crawl/log access, structured-data validation, sitemap coverage, and prompt-based citation audits rather than assumed visibility gains. | Arab region; public website; analytics and logs | medium | official_source | https://developers.google.com/search/docs/appearance/ai-features | ai_drafted, source_checked |
 | Support macros should not promise refunds, delivery timelines, or compensation unless the user supplies the policy and the macro marks any review needs. | Arab region; customer support; WhatsApp and social messaging | medium | official_source | https://developers.facebook.com/docs/whatsapp/ | ai_drafted, source_checked |

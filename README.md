@@ -2,8 +2,8 @@
 
 [![Validate public skills](https://github.com/ArabAgentSkills/Skills/actions/workflows/validate-public-skills.yml/badge.svg)](https://github.com/ArabAgentSkills/Skills/actions/workflows/validate-public-skills.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-white.svg)](LICENSE)
-![Skills](https://img.shields.io/badge/skills-21-white.svg)
-![Regional](https://img.shields.io/badge/regional-10-white.svg)
+![Skills](https://img.shields.io/badge/skills-22-white.svg)
+![Regional](https://img.shields.io/badge/regional-11-white.svg)
 ![Vendors](https://img.shields.io/badge/vendors-96-white.svg)
 
 ```text
@@ -67,7 +67,7 @@ npx skills add ArabAgentSkills/Skills -a codex -a claude-code -a cursor
 ## Skill Families
 
 - Infrastructure / API skills: payments, logistics, BNPL, communications, e-invoicing/tax, open banking, identity/government, commerce/POS/accounting, HR/payroll, Arabic NLP, and open data.
-- Regional Intelligence Skills: country context, Arabic copy and dialect choice, marketing localization, sales playbooks, support tone, product localization, cultural calendars, growth channels, pricing, and partnerships.
+- Regional Intelligence Skills: country context, Arabic copy and dialect choice, marketing localization, sales playbooks, support tone, product localization, cultural calendars, growth channels, pricing, partnerships, and SEO/AEO/GEO for agent-facing websites.
 
 Regional Intelligence files are AI drafted and source checked where possible. Native review, expert review, and market validation are explicitly marked and not implied.
 
@@ -93,6 +93,7 @@ Country packs included in v0: Egypt, Saudi Arabia, United Arab Emirates, Kuwait,
 | [MENA Customer Support](skills/mena-customer-support/) | Regional Intelligence | customer-support | P1 | draft | 14 countries | 100 |
 | [MENA Growth Channels](skills/mena-growth-channels/) | Regional Intelligence | growth-channels | P1 | draft | 14 countries | 100 |
 | [MENA Open Banking](skills/mena-open-banking/) | Infrastructure | open-banking | P1 | alpha | 7 vendors | 100 |
+| [SEO, AEO, and GEO](skills/seo-aeo-geo/) | Regional Intelligence | seo-aeo-geo | P1 | draft | 16 countries | 100 |
 | [Arab Open Data](skills/arab-open-data/) | Infrastructure | open-data | P2 | draft | 8 vendors | 100 |
 | [Arabic NLP](skills/arabic-nlp/) | Infrastructure | arabic-nlp | P2 | alpha | 6 vendors | 100 |
 | [MENA HR and Payroll](skills/mena-hr-payroll/) | Infrastructure | hr-payroll | P2 | draft | 5 vendors | 100 |
