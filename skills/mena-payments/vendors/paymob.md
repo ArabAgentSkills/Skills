@@ -9,7 +9,7 @@
 - Postman: Unknown from public docs
 - SDKs: Unknown from public docs
 - GitHub: Unknown from public docs
-- Last checked: 2026-05-25T06:45:39.019Z
+- Last checked: 2026-05-27T08:18:11.346Z
 - Docs access: public
 - Docs confidence: A
 - Notes: Strong public developer portal; Egypt first payment skill candidate.

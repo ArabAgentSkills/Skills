@@ -70,6 +70,7 @@ The vendor list is source-backed but intentionally not final. Add vendors only w
 | Quiqup | logistics | UAE | public | B | 95 | [mena-logistics](skills/mena-logistics/) |
 | Saudi National Address API / SPL | Address / Location | Saudi Arabia | public | B | 95 | [mena-logistics](skills/mena-logistics/) |
 | Bosta | Logistics / Shipping | Egypt, Saudi Arabia, KSA | public | A | 80 | [mena-logistics](skills/mena-logistics/) |
+| Omniful | logistics | MENA | public | A | 80 | [mena-logistics](skills/mena-logistics/) |
 | Dubai Makani | Address / Location | UAE | public | B | 55 | [mena-logistics](skills/mena-logistics/) |
 | Naqel | logistics | Saudi Arabia, UAE, Bahrain, Kuwait | unknown | C | 30 | [mena-logistics](skills/mena-logistics/) |
 | Fetchr | logistics | UAE, Saudi Arabia | unknown | C | 10 | [mena-logistics](skills/mena-logistics/) |

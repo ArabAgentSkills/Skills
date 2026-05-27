@@ -1,13 +1,13 @@
 ---
 name: mena-logistics
-description: Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, and fulfillment integrations for Aramex, Bosta, ShipBlu, OTO, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.
+description: Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, fulfillment, OMS, WMS, and inventory integrations for Aramex, Bosta, ShipBlu, OTO, Omniful, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.
 ---
 
 # MENA Logistics
 
 ## When To Use
 
-Use this skill for logistics work in Arab/MENA contexts, especially when the prompt includes: shipping, courier, label, tracking, pickup, last mile, fulfillment, 3PL.
+Use this skill for logistics work in Arab/MENA contexts, especially when the prompt includes: shipping, courier, label, tracking, pickup, last mile, fulfillment, 3PL, OMS, WMS, inventory, Omniful.
 
 ## When Not To Use
 
@@ -33,7 +33,7 @@ Use this skill for logistics work in Arab/MENA contexts, especially when the pro
 
 1. Read `sources.yml` to see available vendors and confidence.
 2. If a vendor is named, read only `vendors/<vendor-id>.md` for that vendor.
-3. If choosing vendors, compare only vendors in this skill's registry: aramex, aymakan, bosta, dubai-makani, fetchr, jeebly, naqel, oto, quiqup, saudi-national-address-api-spl, saudi-post-spl, shipa, and 2 more.
+3. If choosing vendors, compare only vendors in this skill's registry: aramex, aymakan, bosta, dubai-makani, fetchr, jeebly, naqel, omniful, oto, quiqup, saudi-national-address-api-spl, saudi-post-spl, and 3 more.
 4. Load `references/integration-checklist.md` only for implementation, review, or launch-readiness work.
 5. Use `scripts/list-vendors.mjs` for a deterministic vendor list when needed.
 6. Answer with source-backed facts, explicit unknowns, and validation steps.

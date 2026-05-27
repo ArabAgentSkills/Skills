@@ -9,7 +9,7 @@
 - Postman: Unknown from public docs
 - SDKs: Unknown from public docs
 - GitHub: https://github.com/linuxscout/qalsadi
-- Last checked: 2026-05-25T06:45:39.037Z
+- Last checked: 2026-05-27T08:18:11.363Z
 - Docs access: public
 - Docs confidence: B
 - Notes: Needs periodic source review.

@@ -34,7 +34,7 @@
 | growth-channels | [mena-growth-channels](skills/mena-growth-channels/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
 | hr-payroll | [mena-hr-payroll](skills/mena-hr-payroll/SKILL.md) | Infrastructure | 5 vendors | UAE, Saudi Arabia, Saudi, Jordan, Egypt, MENA |
 | identity-government | [arab-identity-gov](skills/arab-identity-gov/SKILL.md) | Infrastructure | 7 vendors | UAE, Saudi Arabia |
-| logistics | [mena-logistics](skills/mena-logistics/SKILL.md) | Infrastructure | 14 vendors | UAE, Saudi Arabia, Egypt, Jordan, Kuwait, Bahrain, Qatar, Oman |
+| logistics | [mena-logistics](skills/mena-logistics/SKILL.md) | Infrastructure | 15 vendors | UAE, Saudi Arabia, Egypt, Jordan, Kuwait, Bahrain, Qatar, Oman |
 | market-context | [arab-market-context](skills/arab-market-context/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
 | marketing-localization | [mena-marketing-localization](skills/mena-marketing-localization/SKILL.md) | Regional Intelligence | 14 countries | Egypt, Saudi Arabia, UAE, Kuwait, Qatar, Bahrain, Oman, Jordan |
 | open-banking | [mena-open-banking](skills/mena-open-banking/SKILL.md) | Infrastructure | 7 vendors | Bahrain, UAE, Saudi Arabia, Saudi, MENA |
@@ -55,7 +55,7 @@
 | [Arabic Copywriting and Dialects](skills/arabic-copywriting-dialects/) | Regional Intelligence | copywriting-dialects | P0 | draft | 14 countries | 100 |
 | [MENA BNPL](skills/mena-bnpl/) | Infrastructure | bnpl | P0 | alpha | 7 vendors | 100 |
 | [MENA Communications](skills/mena-comms/) | Infrastructure | communications | P0 | alpha | 8 vendors | 100 |
-| [MENA Logistics](skills/mena-logistics/) | Infrastructure | logistics | P0 | alpha | 14 vendors | 100 |
+| [MENA Logistics](skills/mena-logistics/) | Infrastructure | logistics | P0 | alpha | 15 vendors | 100 |
 | [MENA Marketing Localization](skills/mena-marketing-localization/) | Regional Intelligence | marketing-localization | P0 | draft | 14 countries | 100 |
 | [MENA Payments](skills/mena-payments/) | Infrastructure | payments | P0 | alpha | 15 vendors | 100 |
 | [MENA Product Localization](skills/mena-product-localization/) | Regional Intelligence | product-localization | P0 | draft | 14 countries | 100 |

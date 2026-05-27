@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-white.svg)](LICENSE)
 ![Skills](https://img.shields.io/badge/skills-21-white.svg)
 ![Regional](https://img.shields.io/badge/regional-10-white.svg)
-![Vendors](https://img.shields.io/badge/vendors-95-white.svg)
+![Vendors](https://img.shields.io/badge/vendors-96-white.svg)
 
 ```text
       ###    ####      ###    ####
@@ -82,7 +82,7 @@ Country packs included in v0: Egypt, Saudi Arabia, United Arab Emirates, Kuwait,
 | [Arabic Copywriting and Dialects](skills/arabic-copywriting-dialects/) | Regional Intelligence | copywriting-dialects | P0 | draft | 14 countries | 100 |
 | [MENA BNPL](skills/mena-bnpl/) | Infrastructure | bnpl | P0 | alpha | 7 vendors | 100 |
 | [MENA Communications](skills/mena-comms/) | Infrastructure | communications | P0 | alpha | 8 vendors | 100 |
-| [MENA Logistics](skills/mena-logistics/) | Infrastructure | logistics | P0 | alpha | 14 vendors | 100 |
+| [MENA Logistics](skills/mena-logistics/) | Infrastructure | logistics | P0 | alpha | 15 vendors | 100 |
 | [MENA Marketing Localization](skills/mena-marketing-localization/) | Regional Intelligence | marketing-localization | P0 | draft | 14 countries | 100 |
 | [MENA Payments](skills/mena-payments/) | Infrastructure | payments | P0 | alpha | 15 vendors | 100 |
 | [MENA Product Localization](skills/mena-product-localization/) | Regional Intelligence | product-localization | P0 | draft | 14 countries | 100 |

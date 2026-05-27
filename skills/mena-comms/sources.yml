@@ -6,7 +6,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://developers.cequens.com/
       - https://developer.cequens.com/
@@ -15,7 +15,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://docs.maqsam.com/
       - https://maqsam.com/apis
@@ -24,7 +24,7 @@ vendors:
     docs_access: public
     docs_confidence: B
     source_quality_score: 95
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://www.msegat.com/docs/
       - https://msegat.docs.apiary.io/
@@ -33,7 +33,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://taqnyat.sa/docs/
       - https://dev.taqnyat.sa/en/doc/sms/
@@ -42,7 +42,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 80
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://docs.unifonic.com/
   - id: victorylink
@@ -50,7 +50,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://victorylink.com/
   - id: yallasms
@@ -58,7 +58,7 @@ vendors:
     docs_access: unknown
     docs_confidence: C
     source_quality_score: 10
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://www.yallasms.com/
   - id: ziwo
@@ -66,7 +66,7 @@ vendors:
     docs_access: public
     docs_confidence: A
     source_quality_score: 100
-    last_checked_at: 2026-05-25T06:45:39.033Z
+    last_checked_at: 2026-05-27T08:18:11.359Z
     source_urls:
       - https://docs.ziwo.io/
       - https://www.ziwo.io/features/api_docs/

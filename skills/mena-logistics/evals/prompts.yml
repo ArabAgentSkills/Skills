@@ -20,3 +20,8 @@ prompts:
     prompt: Review a Naqel integration for duplicate shipment risks and idempotency.
     mode: heuristic
     priority: P0
+  - id: mena-logistics-6
+    prompt: Build an Omniful custom integration plan for an ecommerce brand that needs order, inventory, shipment, and
+      returns sync.
+    mode: heuristic
+    priority: P0

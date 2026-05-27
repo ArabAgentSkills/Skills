@@ -1,6 +1,6 @@
 # MENA Logistics
 
-Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, and fulfillment integrations for Aramex, Bosta, ShipBlu, OTO, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.
+Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate, tracking, pickup, webhook, fulfillment, OMS, WMS, and inventory integrations for Aramex, Bosta, ShipBlu, OTO, Omniful, Naqel, SMSA, SPL, Quiqup, Shipa, Aymakan, and similar providers.
 
 ## Vendors
 
@@ -13,6 +13,7 @@ Use this skill when building Arab/MENA shipping, courier, last-mile, label, rate
 | Fetchr | UAE, Saudi Arabia | C | unknown | 10 |
 | Jeebly | UAE, Saudi Arabia, Kuwait, Qatar, Bahrain | C | unknown | 10 |
 | Naqel | Saudi Arabia, UAE, Bahrain, Kuwait | C | unknown | 30 |
+| Omniful | MENA | A | public | 80 |
 | OTO | Saudi Arabia, UAE, Kuwait, Bahrain, Qatar, Oman, MENA | A | public | 100 |
 | Quiqup | UAE | B | public | 95 |
 | Saudi National Address API / SPL | Saudi Arabia | B | public | 95 |
